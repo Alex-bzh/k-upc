@@ -1,0 +1,34 @@
+---
+title: "Lexique : Les commandements"
+lang: fr
+---
+
+
+| **hajime**
+|   Commandement qui annonce le début d’un exercice, d’un combat.
+| **hidari-kamae**
+|   Commandement pour inviter les élèves à se mettre en garde gauche. Par défaut, on exécute un *gedan barai* en *zenkutsu-dachi*.
+| **kiritsu**
+|   Commandement pour inviter les élèves à se relever.
+| **migi-kamae**
+|   Commandement pour inviter les élèves à se mettre en garde droite. Par défaut, on exécute un *gedan barai* en *zenkutsu-dachi*.
+| **mokusō**
+|   Commandement qui annonce le début de la période de méditation.
+| **mokusō yame**
+|   Commandement qui annonce la fin de la période de méditation.
+| **otagai-ni-rei**
+|   Commandement pour demander aux élèves de se saluer entre eux avec respect.
+| **rei**
+|   Commandement pour demander aux élèves de s’incliner avec respect.
+| **seiza**
+|   Commandement pour demander aux élèves de s’agenouiller.
+| **sensei-ni-rei**
+|   Commandement pour demander aux élèves de saluer leur enseignant avec respect.
+| **shōmen-ni-rei**
+|   Commandement pour demander aux élèves de saluer avec respect ce qui leur fait face.
+| **shūgō**
+|   Commandement pour demander aux élèves de s’aligner.
+| **yame**
+|   Commandement qui annonce la fin d’un exercice, d’un combat.
+| **yoi**
+|   Commandement pour inciter les élèves à se mettre en condition. Peut se traduire par : « Préparez-vous ».

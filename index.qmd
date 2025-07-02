@@ -1,0 +1,51 @@
+---
+title: "Section Karaté de l’université Paris-Cité"
+lang: fr
+listing:
+  id: news-listing
+  contents: news
+  max-items: 3
+  sort: "date desc"
+  type: grid
+---
+
+::: {.column-body}
+{{< include ./includes/carousel.html >}}
+:::
+
+::: {.column-margin}
+## Informations pratiques
+
+**Lundi** – Traditionnel
+
+- **18h-19h :** Débutant·es
+- **19h-20h :** Gradé·es
+
+**Jeudi 18h30-20h** – Combat sportif
+
+<br />
+
+**Campus des Grands Moulins**  
+Bâtiment Sophie Germain  
+9 Rue Croix de Jarry  
+75013 Paris
+
+**Style :** *Shōtōkan*  
+**Enseignant :** Alexandre Roulois (5^e^ dan)
+
+:::{.text-center .mt-2}
+[Inscription](https://u-paris.fr/sport/inscription-apsa/){.btn .btn-primary target="_blank"}
+:::
+
+:::
+
+::: {.lead}
+Que vous souhaitiez enrichir votre technique, faire de la compétition ou simplement entretenir votre physique dans un esprit convivial, le karaté répondra à vos attentes !
+:::
+
+## À la une
+
+::: {#news-listing}
+:::
+
+[Toutes les actualités](./news.qmd)

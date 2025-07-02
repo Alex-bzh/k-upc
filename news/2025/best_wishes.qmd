@@ -1,0 +1,28 @@
+---
+title: "ChatGPT bientôt ceinture noire ?"
+lang: fr
+author: "Alex-Bzh"
+image: /images/news/2025/incorporation.jpg
+date: "2025-01-13"
+categories: "Vœux"
+---
+
+![Une incorporation artificielle ?](/images/news/2025/incorporation.jpg)
+
+Pour la traditionnelle expression des vœux de début d’année, je m’interroge sur ce que l’on pourrait souhaiter à une intelligence artificelle.
+
+Selon [une étude menée à l’École polytechnique fédérale de Lausanne](https://actu.epfl.ch/news/chatgpt-pourrait-il-obtenir-un-diplome-d-ingenieur/){target="_blank"} (EPFL) sur une cinquantaine de cours, le modèle de langage GPT-4 atteindrait un taux de réussite de 85 % aux évaluations. Qu’en serait-il avec l’un des passages de grades proposés par notre section ?
+
+Commençons par évacuer des considérations évidentes : le fondement de toute discipline sportive est le mouvement ; or, sans corps, pas de mouvement. Les électrons ont beau s’agiter dans tous les sens, un réseau de câbles en cuivre ou de fibre optique pour connecter des processeurs et autres unités de traitement ne suffit pas pour notre conception du corps en mouvement.
+
+Et si les robots nous accompagnent depuis longtemps déjà, structures métalliques aux formes dictées par une finalité externe et mues par des algorithmes destinés à exécuter des tâches précises, ils ne partageaient jusqu’à peu aucune des caractéristiques de l’anthropomorphie. Maintenant dotés d’une tête, de bras et de jambes, est-on à un jet de pierre de réaliser l’incorporation ?
+
+Mais incorporation n’est pas incarnation. Et cette différence nous permet de dépasser le dualisme antique en invoquant notre idée du corps et de la chair. S’il apparaît aujourd’hui vraisemblable de placer une IA dans un corps artificiel, il semble bien plus délicat d’avancer une théorie de l’identité robotique. Si les concepts dualistes parlent de venue de l’âme dans le corps (ou du Verbe dans la chair, du souffle divin etc.), c’est en effet toujours pour qu’ils fassent identité, excluant l’idée que les deux évoluent individuellement.
+
+Est-il alors seulement légitime de s’interroger sur les capacités d’une intelligence artificielle à présenter un diplôme qui demande un corps, une présence ? Quand bien même la science réaliserait un jour le concept théologique d’incarnation, elle ne franchirait malgré tout pas la barrière ontologique ressentie par le roi Louis dans *Le livre de la jungle* de Disney.
+
+Nous serions plutôt face à une nouvelle espèce et l’être humain est accoutumé à fréquenter des espèces qui le dépassent. Le lion n’est-il pas plus fort, le singe plus agile, le dauphin plus rapide sous l’eau ? Alors si ChatGPT parvient un jour à exécuter des *jōdan mawashi-geri* et à placer correctement ses *kiai* dans un kata, on s’émerveillera des progrès de la science sans remettre en cause notre place dans le monde.
+
+Après tout, personne ne s’est jamais ému de ce que la calculatrice soit plus efficace que soi.
+
+Meilleurs vœux à toutes et à tous, et que ChatGPT ne décide ni de vos joies ni de vos succès !

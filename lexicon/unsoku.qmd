@@ -1,0 +1,23 @@
+---
+title: "Lexique : Les déplacements"
+lang: fr
+---
+
+S’ils peuvent sembler naturels, les déplacements ne sont pas à négliger dans l’apprentissage. Leur maîtrise doit non seulement permettre de passer d’une posture à une autre sans perte d’efficacité mais aussi d’appréhender au mieux la notion de distance, qu’elle serve à se rapprocher de la cible ou à se retirer d’une situation potentiellement dangereuse.
+
+| **ayumi-ashi**
+|   Avancer d’un pas.
+| **hiki-ashi**
+|   Reculer d’un pas.
+| **mawari-ashi**
+|   Déplacement tournant autour du pied avant.
+| **mawatte**
+|   Demi-tour.
+| **okuri-ashi**
+|   Double pas.
+| **tsugi-ashi**
+|   Pas chassé.
+| **ushiro-mawari-ashi**
+|   Déplacement tournant autour du pied arrière.
+| **yori-ashi**
+|   Pas glissé.

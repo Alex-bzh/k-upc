@@ -1,0 +1,19 @@
+---
+title: "Documents"
+lang: fr
+---
+
+## FFKaraté
+
+- [Demande de licence fédérale](./files/licence_federale.pdf)
+- [Formulaire d’inscription au 1^er^, 2^e^ ou 3^e^ dan](./files/inscription_dan.pdf)
+- [Règlement de la Commission Spécialisée des Dans et Grades Equivalents](./files/csdge.pdf)
+
+## EKV
+
+- [Formulaire d’inscription à l’École de Karaté de Villebon](./files/adhesion_ekv.pdf)
+- [RIB](./files/RIB.pdf)
+
+## Divers
+
+- [Droits à l’image](./files/photo_permission.pdf)

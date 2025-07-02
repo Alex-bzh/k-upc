@@ -1,0 +1,76 @@
+---
+title: "Programme de la ceinture jaune"
+lang: fr
+---
+
+L’examen de la ceinture jaune est composé des épreuves suivantes :
+
+1. *Kihon*
+2. *Kihon ippon kumite*
+3. *Kata*
+4. *Bunkai*
+5. *Ju kumite*
+
+## Kihon
+
+Les candidat·es sont évalué·es sur l’exécution de techniques simples effectuées sur trois pas avec un demi-tour au terme de l’aller.
+
+Trois séquences seront retenues, une séquence étant composée de trois itérations d’une technique à l’aller et de trois itérations d’une autre technique au retour.
+
+Au programme :
+
+- **Déplacements**
+  - [*Ayumi-ashi*](/lexicon/unsoku.qmd)
+  - [*Hiki-ashi*](/lexicon/unsoku.qmd)
+  - [*Mawatte*](/lexicon/unsoku.qmd)
+  - [*Tsugi-ashi*](/lexicon/unsoku.qmd)
+
+- **Postures hautes**
+  - [*Hachiji-dachi*](/lexicon/tachi.qmd#postures-hautes)
+  - [*Heikō-dachi*](/lexicon/tachi.qmd#postures-hautes)
+  - [*Musubi-dachi*](/lexicon/tachi.qmd#postures-hautes)
+
+- **Postures basses**
+  - [*Fudo-dachi*](/lexicon/tachi.qmd#postures-basses)
+  - [*Kōkutsu-dachi*](/lexicon/tachi.qmd#postures-basses)
+  - [*Zenkutsu-dachi*](/lexicon/tachi.qmd#postures-basses)
+
+- **Techniques de défense**
+  - [*Gedan barai*](/lexicon/waza.qmd#uke-waza)
+  - [*Jōdan age-uke*](/lexicon/waza.qmd#uke-waza)
+  - [*Shutō-uke*](/lexicon/waza.qmd#uke-waza)
+  - [*Soto-uke*](/lexicon/waza.qmd#uke-waza)
+  - [*Uchi-uke*](/lexicon/waza.qmd#uke-waza)
+
+- **Techniques de poing**
+  - [*Gyaku-zuki*](/lexicon/waza.qmd#tsuki-waza)
+  - [*Oi-zuki*](/lexicon/waza.qmd#tsuki-waza)
+
+- **Techniques de pied**
+  - [*Mae-geri*](/lexicon/waza.qmd#keri-waza)
+  - [*Mawashi-geri*](/lexicon/waza.qmd#keri-waza)
+
+- **Autres techniques d’attaque avec le bras**
+  - [*Tettsui-uchi*](/lexicon/waza.qmd#uchi-waza)
+
+## Kihon ippon kumite
+
+Cette épreuve est une démonstration des techniques fondamentales du karaté sur un assaut bloqué par une défense avant contre-attaque. Les assauts retenus pour la ceinture jaune sont :
+
+- *Jōdan oi-zuki* ;
+- *Chūdan oi-zuki* ;
+- *Chūdan mae-geri* de la jambe arrière.
+
+Chaque assaut est effectué d’abord en garde gauche puis ensuite en garde droite. Les défenses et contre-attaques sont libres.
+
+## Kata
+
+Un seul kata au programme de la ceinture jaune : *heian shodan*.
+
+## Bunkai
+
+Il s’agit pour les candidat·es de présenter deux séquences issues du kata *heian shodan* en démontrant leur efficacité dans des situations de combat semi-réalistes.
+
+## Ju kumite
+
+Épreuve de combat souple et traditionnel sur une durée de deux minutes maximum. Les candidat·es disposent de l’éventail complet de leur connaissance du karaté.

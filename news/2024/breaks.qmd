@@ -1,0 +1,15 @@
+---
+title: "Périodes de congés"
+lang: fr
+author: "Alex-Bzh"
+image: /images/news/categories/break.jpg
+date: "2024-09-05"
+categories: "Vie du club"
+---
+
+Le calendrier de l’université impose la suspension des cours pendant les périodes suivantes :
+
+- du 28 octobre 2024 au 3 novembre 2024
+- du 23 décembre 2024 au 12 janvier 2025
+- du 23 février 2025 au 2 mars 2025
+- du 12 avril 2025 au 27 avril 2025

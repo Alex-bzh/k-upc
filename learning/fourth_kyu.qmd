@@ -1,0 +1,78 @@
+---
+title: "Programme de la ceinture orange"
+lang: fr
+---
+
+L’examen de la ceinture orange est composé des épreuves suivantes :
+
+1. *Kihon*
+2. *Kihon ippon kumite*
+3. *Kata*
+4. *Bunkai*
+5. *Ju kumite*
+
+## Kihon
+
+Les candidat·es sont évalué·es sur l’exécution de techniques simples ou d’enchaînements effectués sur trois pas avec un demi-tour au terme de l’aller.
+
+Trois séquences seront retenues, une séquence étant composée de trois itérations d’une technique à l’aller et de trois itérations d’une autre technique au retour.
+
+En plus des techniques de [la ceinture jaune](./fifth_kyu.qmd), le programme inclut :
+
+- **Déplacements**
+  - [*Okuri-ashi*](/lexicon/unsoku.qmd)
+
+- **Postures hautes**
+  - [*Uchi-hachiji-dachi*](/lexicon/tachi.qmd#postures-hautes)
+
+- **Postures basses**
+  - [*Kiba-dachi*](/lexicon/tachi.qmd#postures-basses)
+
+- **Techniques de défense**
+  - [*Juji-uke*](/lexicon/waza.qmd#uke-waza)
+  - [*Morote-uke*](/lexicon/waza.qmd#uke-waza)
+  - [*Osae-uke*](/lexicon/waza.qmd#uke-waza)
+
+- **Techniques de poing**
+  - [*Choku-zuki*](/lexicon/waza.qmd#tsuki-waza)
+  - [*Kizami-zuki*](/lexicon/waza.qmd#tsuki-waza)
+  - [*Maete-zuki*](/lexicon/waza.qmd#tsuki-waza)
+  - [*Ura-zuki*](/lexicon/waza.qmd#tsuki-waza)
+
+- **Techniques de pied**
+  - [*Yoko-geri-keage*](/lexicon/waza.qmd#keri-waza)
+  - [*Yoko-geri-kekomi*](/lexicon/waza.qmd#keri-waza)
+
+- **Autres techniques d’attaque avec le bras**
+  - [*Yonhon-nukite*](/lexicon/waza.qmd#uchi-waza)
+  - [*Shutō-uchi*](/lexicon/waza.qmd#uchi-waza)
+  - [*Uraken-uchi*](/lexicon/waza.qmd#uchi-waza)
+  
+## Kihon ippon kumite
+
+Cette épreuve est une démonstration des techniques fondamentales du karaté sur un assaut bloqué par une défense avant contre-attaque. Les assauts retenus pour la ceinture orange sont :
+
+- *Jōdan oi-zuki* ;
+- *Chūdan oi-zuki* ;
+- *Chūdan mae-geri* de la jambe arrière ;
+- *Mawashi-geri* de la jambe arrière, niveau *jōdan* ou *chūdan* ;
+- *Chūdan yoko-geri-kekomi* de la jambe arrière.
+
+Chaque assaut est effectué d’abord en garde gauche puis ensuite en garde droite. Les défenses et contre-attaques sont libres.
+
+## Kata
+
+Les deux katas au programme de la ceinture orange sont :
+
+- *Heian shodan*
+- *Heian nidan*
+
+Les candidat·es présentent obligatoirement les deux katas.
+
+## Bunkai
+
+Les candidat·es présentent deux séquences issues du kata *heian nidan* en démontrant leur efficacité dans des situations de combat semi-réalistes. Une autre application peut leur être demandée sur le kata *heian shodan*.
+
+## Ju kumite
+
+Épreuve de combat souple et traditionnel sur une durée de trois minutes maximum. Les candidat·es disposent de l’éventail complet de leur connaissance du karaté.

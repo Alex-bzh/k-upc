@@ -1,0 +1,142 @@
+---
+title: "Programme de la ceinture noire"
+lang: fr
+---
+
+## Conditions d’admissibilité
+
+S’agissant de diplômes officiels, la fédération française de karaté a reçu délégation du Ministère des sports pour organiser les épreuves d’obtention des grades à partir de la ceinture noire. Pour ces raisons, il convient aux candidat·es de respecter certaines conditions pour présenter l’examen :
+
+- être âgé·e de 14 ans minimum ;
+- justifier de trois années de licence dont celle en cours ;
+- être ceinture marron.
+
+Il leur faudra également acquérir un passeport sportif (25 €), s’acquitter d’un chèque de 50 € à l’ordre du comité départemental de l’Essonne et remplir [un formulaire d’inscription](/files/inscription_dan.pdf){target="_blank"}.
+
+## La liste des épreuves
+
+L’examen de la ceinture noire est composée de six épreuves notées chacune sur 20 points :
+
+1. *Kihon*
+    1. *Kihon* en ligne
+    2. *Kihon* multidirectionnel
+    3. *Kihon* avec cibles
+2. *Kihon ippon kumite*
+3. *Kata*
+4. *Bunkai*
+5. *Jiyu ippon kumite*
+6. *Ju kumite*
+
+## Le kihon
+
+En plus des techniques de [la ceinture marron](/learning/first_kyu.html), le programme du kihon inclut :
+
+- **Déplacements**
+  - [*Mawari-ashi*](/lexicon/unsoku.qmd)
+  - [*Ushiro-mawari-ashi*](/lexicon/unsoku.qmd)
+
+- **Postures intermédiaires**
+  - [*Hangetsu-dachi*](/lexicon/tachi.qmd#postures-intermediaires)
+  - [*Sanchin-dachi*](/lexicon/tachi.qmd#postures-intermediaires)
+
+- **Techniques de défense**
+  - [*Haitō-uchi-uke*](/lexicon/waza.qmd#uke-waza)
+  - [*Kake-uke*](/lexicon/waza.qmd#uke-waza)
+  - [*Koken-uke*](/lexicon/waza.qmd#uke-waza)
+  - [*Nagashi-uke*](/lexicon/waza.qmd#uke-waza)
+  - [*Heiko-uke*](/lexicon/waza.qmd#uke-waza)
+
+- **Techniques de poing**
+  - [*Age-zuki*](/lexicon/waza.qmd#tsuki-waza)
+
+- **Techniques de pied**
+  - [*Fumi-komi*](/lexicon/waza.qmd#keri-waza)
+  - [*Tobi-geri*](/lexicon/waza.qmd#keri-waza)
+
+- **Autres techniques d’attaque avec le bras**
+  - [*Haishu-uchi*](/lexicon/waza.qmd#uchi-waza)
+  - [*Koken-uchi*](/lexicon/waza.qmd#uchi-waza)
+
+### Kihon en ligne
+
+Les candidat·es sont d’abord évalué·es sur des techniques simples sur trois pas avant d’exécuter des enchaînements de trois techniques maximum, toujours sur trois pas, avec soit un demi-tour au terme de l’aller, soit en reculant ensuite.
+
+### Kihon multidirectionnel
+
+Cette épreuve est subdivisée en deux parties. Tout d’abord, il est demandé aux candidat·es d’exécuter un enchaînement de trois techniques en garde gauche puis en garde droite avec retour à la position initiale.
+
+Ensuite, ils et elles sont interrogé·es sur des enchaînements de trois mouvements face à un adversaire en déplacement, en garde gauche puis en garde droite.
+
+### Kihon avec cibles
+
+Les candidat·es sont évalué·es sur l’exécution de cinq des sept techniques au programme, choisies par le jury. Chaque technique est exécutée trois fois en garde gauche ou en garde droite selon le choix du candidat ou de la candidate.
+
+Les sept techniques au programme sont :
+
+- *Chūdan mae-geri* de la jambe arrière posée derrière ;
+- *Chūdan mae-geri* de la jambe avant avec un déplacement *tsugi-ashi* ;
+- *Mawashi-geri* de la jambe arrière posée derrière ;
+- *Mawashi-geri* de la jambe avant avec un déplacement *tsugi-ashi* ;
+- *Jōdan oi-zuki* avec un déplacement *ayumi-ashi* ;
+- *Chūdan gyaku-zuki* avec un déplacement *yori-ashi*, *tsugi-ashi* ou *ayumi-ashi* ;
+- *Jōdan kizami-zuki* ou *jōdan maete-zuki* suivi de *chūdan gyaku-zuki* avec déplacement *yori-ashi*.
+
+## Kihon ippon kumite
+
+Cette épreuve est une démonstration des techniques fondamentales du karaté sur un assaut bloqué par une défense avant contre-attaque. Les assauts retenus pour la ceinture noire sont :
+
+- *Jōdan oi-zuki* ;
+- *Chūdan oi-zuki* ;
+- *Chūdan mae-geri* de la jambe arrière ;
+- *Mawashi-geri* de la jambe arrière, niveau *jōdan* ou *chūdan* ;
+- *Chūdan yoko-geri-kekomi* de la jambe arrière.
+
+Chaque assaut est effectué d’abord en garde gauche puis ensuite en garde droite. Les défenses et contre-attaques sont libres.
+
+## Kata
+
+Les katas au programme de la ceinture noire sont :
+
+- *Heian shodan*
+- *Heian nidan*
+- *Heian sandan*
+- *Heian yondan*
+- *Heian godan*
+- *Tekki shodan*
+
+Les candidat·es choisissent deux katas librement et les exécutent l’un après l’autre.
+
+::: {.callout-note}
+Tout kata d’un autre style de karaté peut être retenu par les candidat·es à partir du moment où il est recensé dans la liste officiel de la fédération. Je peux par exemple tout à fait présenter les katas *seyunchin* du *gōjū-ryū* et *naifanchi shodan* du *shitō-ryū* même si je présente l’examen de *shōtōkan*.
+:::
+
+## Bunkai
+
+Les candidat·es présentent trois séquences issues d’un kata de la liste officielle en démontrant leur efficacité dans des situations de combat semi-réalistes. Il n’est donc pas obligatoire de présenter un *bunkai* reposant sur l’un des katas choisis librement lors de l’épreuve précédente. Par exemple, je peux tout à fait choisir d’exécuter les katas *heian godan* et *tekki shodan* et choisir plutôt des applications sur *heian nidan*.
+
+::: {.callout-important}
+Le kata retenu par les candidat·es doit obligatoirement appartenir à leur style déclaré. Si je suis inscrit·e au passage de grade en tant que *shōtōkan*, je dois alors choisir un kata *shōtōkan* dans la liste pour le 1^er^ dan.
+
+Par ailleurs, mes applications ne doivent concerner qu’un seul kata.
+:::
+
+## Jiyu ippon kumite
+
+Le jury choisit trois techniques parmi la liste suivante :
+
+- *Oi-zuki* ;
+- *Mae-geri* ;
+- *Mawashi-geri* ;
+- *Yoko-geri-kekomi* ;
+- *Gyaku-zuki* ;
+- *Maete-zuki* .
+
+*Tori* doit annoncer, avant de prendre sa garde, la technique ainsi que le niveau d’exécution qu’il choisit.
+
+::: {.callout-note}
+Si rien dans les textes officiels n’interdit *tori* d’effectuer un *gedan maete-zuki* ou un *jōdan mae-geri*, certaines combinaisons n’ont pas vraiment de sens. À part pour *oi-zuki* et *mawashi-geri* où *tori* sera libre de choisir un niveau *jōdan*, il annoncera plutôt *chūdan* pour toutes les autres.
+:::
+
+## Ju kumite
+
+Épreuve de combat souple et traditionnel sur une durée de deux minutes maximum. Les candidat·es disposent de l’éventail complet de leur connaissance du karaté.

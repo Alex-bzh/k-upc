@@ -1,0 +1,65 @@
+project:
+  type: website
+
+website:
+  favicon: images/logos/shototiger_white.png
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "Félicitations à Gaia et à Camélia pour leur grade de ceinture noire !m!"
+    type: primary
+    position: below-navbar
+  title: "Karaté UPC"
+  back-to-top-navigation: true
+  navbar:
+    search: true
+    logo: images/logos/shototiger_black.png
+    left:
+      - href: section.qmd
+        text: "La section"
+      - text: "Programme des grades"
+        menu:
+          - href: learning/fifth_kyu.qmd
+            text: "Ceinture jaune"
+          - href: learning/fourth_kyu.qmd
+            text: "Ceinture orange"
+          - href: learning/third_kyu.qmd
+            text: "Ceinture verte"
+          - href: learning/second_kyu.qmd
+            text: "Ceinture bleue"
+          - href: learning/first_kyu.qmd
+            text: "Ceinture marron"
+          - href: learning/first_dan.qmd
+            text: "Ceinture noire 1er dan"
+      - text: "Lexique"
+        menu:
+          - href: lexicon/unsoku.qmd
+            text: "Les déplacements"
+          - href: lexicon/tachi.qmd
+            text: "Les postures"
+          - href: lexicon/waza.qmd
+            text: "Techniques d’attaque et de défense"
+          - href: lexicon/nage_waza.qmd
+            text: "Projections et balayages"
+          - href: lexicon/ne_waza.qmd
+            text: "Clés et étranglements"
+          - href: lexicon/commands.qmd
+            text: "Les commandements"
+          - href: lexicon/body.qmd
+            text: "Les parties du corps"
+          - href: lexicon/miscellanous.qmd
+            text: "Généralités"
+      - text: "Annexes"
+        menu:
+          - href: about_karate.qmd
+            text: "Une histoire du karaté"
+          - href: "protocols.qmd"
+            text: "Les protocoles"
+          - href: documents.qmd
+            text: "Documents"
+
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true

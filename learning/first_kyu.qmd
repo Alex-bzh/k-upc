@@ -1,0 +1,89 @@
+---
+title: "Programme de la ceinture marron"
+lang: fr
+---
+
+L’examen de la ceinture marron est composé de cinq épreuves :
+
+1. *Kihon*
+    1. *Kihon* en ligne
+    2. *Kihon* multidirectionnel
+    3. *Kihon* avec cibles
+2. *Kihon ippon kumite*
+3. *Kata*
+4. *Bunkai*
+5. *Ju kumite*
+
+## Module A
+
+En plus des techniques de [la ceinture bleue](./second_kyu.qmd), le programme du *kihon* inclut :
+
+- **Postures hautes**
+  - [*Sagi-ashi-dachi*](/lexicon/tachi.qmd#postures-hautes)
+
+- **Techniques de défense**
+  - [*Haishu-uke*](/lexicon/waza.qmd#uke-waza)
+  - [*Sukui-uke*](/lexicon/waza.qmd#uke-waza)
+  - [*Teishō-uke*](/lexicon/waza.qmd#uke-waza)
+
+- **Techniques de pied**
+  - [*Ura-mawashi-geri*](/lexicon/waza.qmd#keri-waza)
+
+- **Autres techniques d’attaque avec le bras**
+  - [*Haishu-uchi*](/lexicon/waza.qmd#uchi-waza)
+
+### Kihon en ligne
+
+Les candidat·es sont évalué·es sur l’exécution d’enchaînements effectués sur trois pas, avec soit un demi-tour au terme de l’aller, soit en reculant ensuite. Les enchaînements ne peuvent excéder trois techniques.
+
+Trois séquences seront retenues, une séquence étant composée de trois itérations du même enchaînement à l’aller et de trois itérations d’un autre enchaînement au retour.
+
+### Kihon multidirectionnel
+
+Un enchaînement de trois techniques doit être exécuté dans huit directions en garde gauche puis en garde droite avec retour à la position initiale.
+
+### Kihon avec cibles
+
+Le jury choisit cinq techniques dans le programme et les annonce au fur et à mesure aux candidat·es. Chaque technique est exécutée trois fois en garde gauche ou en garde droite selon le choix du candidat ou de la candidate.
+
+Les sept techniques au programme sont :
+
+- *Chūdan mae-geri* de la jambe arrière posée derrière ;
+- *Chūdan mae-geri* de la jambe avant avec un déplacement *tsugi-ashi* ;
+- *Mawashi-geri* de la jambe arrière posée derrière ;
+- *Mawashi-geri* de la jambe avant avec un déplacement *tsugi-ashi* ;
+- *Jōdan oi-zuki* avec un déplacement *ayumi-ashi* ;
+- *Chūdan gyaku-zuki* avec un déplacement *yori-ashi*, *tsugi-ashi* ou *ayumi-ashi* ;
+- *Jōdan kizami-zuki* ou *jōdan maete-zuki* suivi de *chūdan gyaku-zuki* avec déplacement *yori-ashi*.
+
+## Kihon ippon kumite
+
+Cette épreuve est une démonstration des techniques fondamentales du karaté sur un assaut bloqué par une défense avant contre-attaque. Les assauts retenus pour la ceinture marron sont :
+
+- *Jōdan oi-zuki* ;
+- *Chūdan oi-zuki* ;
+- *Chūdan mae-geri* de la jambe arrière ;
+- *Mawashi-geri* de la jambe arrière, niveau *jōdan* ou *chūdan* ;
+- *Chūdan yoko-geri-kekomi* de la jambe arrière.
+
+Chaque assaut est effectué d’abord en garde gauche puis ensuite en garde droite. Les défenses et contre-attaques sont libres.
+
+## Kata
+
+Les katas au programme de la ceinture marron sont :
+
+- *Heian shodan*
+- *Heian nidan*
+- *Heian sandan*
+- *Heian yondan*
+- *Heian godan*
+
+Les candidat·es présentent obligatoirement le kata *heian godan* ainsi qu’un autre tiré au sort par le jury.
+
+## Bunkai
+
+Les candidat·es présentent trois séquences issues du kata *heian godan* en démontrant leur efficacité dans des situations de combat semi-réalistes. Une autre application peut leur être demandée sur un kata de leur programme.
+
+## Ju kumite
+
+Épreuve de combat souple et traditionnel sur une durée de trois minutes maximum. Les candidat·es disposent de l’éventail complet de leur connaissance du karaté.

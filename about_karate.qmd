@@ -1,0 +1,49 @@
+---
+title: "Une petite histoire superflue du Karaté"
+lang: fr
+---
+
+## Des origines chinoises
+
+::: {.figure .float-start}
+![L’archipel des Ryūkyū](/images/pics/okinawa.jpg){.figure-img .img-fluid .me-2}
+:::
+
+Les racines profondes du Karaté puisent leurs nutriments de l’histoire guerrière de la Chine qui a très tôt placé les techniques de frappe à mains nues au cœur de ses systèmes de combat. Le *bushi* et, après lui, le samouraï, ont en effet toujours privilégié la maîtrise des armes, plus à même de garantir leur survie dans les heures les plus sombres du Japon médiéval. Il faudra attendre l’instauration de la plus longue période de dictature militaire après la grande bataille de Sekigahara (1600) et la paix toute relative qui en découle, pour voir apparaître les premières formes de *jūjutsu*.
+
+En 1609, le clan Satsuma envahit l’île d’Okinawa qui passe sous mouvance japonaise. L’interdiction de pratiquer toute forme de combat, à plus forte raison si elle est armée, entraîne paradoxalement la dissémination des systèmes à mains nues, car c’est, pour la population okinawaïenne, une fierté que d’entretenir l’héritage martial de la Chine contre les forces d’occupation.
+
+Le Kenpo (du chinois *quanfa*, "techniques de boxe") se développe ainsi petit à petit sur le terreau de la culture chinoise. C’est d’ailleurs grâce à plusieurs voyages de formation en Chine, que Kanga Sakugawa (173?-1815) est parvenu à s’imposer comme l’un des plus grands maîtres de Shuri-Te, à tel point qu’il fut surnommé *Tō-de* ("Main de Chine"). Son disciple le plus fameux, Sōkon Matsumura (1809-1896), est un véritable prodige. Il part même vivre un temps à Pékin pour parfaire son art avant de revenir à Shuri où il se perfectionne encore auprès de tous les maîtres chinois de l’archipel. Il enseigne son style, rebaptisé Shorin-Ryū ("École de la petite forêt", traduction des idéogrammes chinois qui servent à écrire "École Shaolin") à de nombreux élèves, dont celui qui sera le maître de Gichin Funakoshi.
+
+## Les trois systèmes d’Okinawa-Te
+
+A côté du Shuri-Te qui s’est développé au sein de la capitale royale d’Okinawa, deux autres formes voient le jour : le Tomari-Te, variante régionale du Shuri-Te ; et le Naha-Te qui a su conserver son identité chinoise. Après en avoir appris les bases, Kanryō Higaonna (1853-1915) part plus de quinze ans en Chine pour améliorer sa pratique avant de revenir l’enseigner à, notamment, un certain Chōjun Miyagi (1888-1953). Ce dernier suit les traces de son maître après sa mort en multipliant les allers et retours en Chine. Attaché à l’esprit japonais sans renoncer pour autant au concept du *do* cher à Jigoro Kano (le fondateur du judo), il renomme son style Gōjū-Ryū, "École du dur et du souple". Le style se caractérise par une alliance de force et de souplesse, et pose le principe d’élever le corps à un niveau de puissance physique et de résistance supérieur.
+
+Mais antérieurement au développement du Gōjū-Ryū, son concurrent direct, le Shuri-Te, s’est disséminé plus largement dans tout l’archipel. Vers 1860, Anko Itosu (appx. 1830-1915) devient l’élève de Matsumura alors qu’il a déjà une certaine pratique martiale. Il adopte alors une forme d’entraînement très éprouvante et cultive une force physique peu commune qui sera l’objet de nombreuses anecdotes. A la toute fin du XIXe siècle, il est sur le point de révolutionner les méthodes de transmission des techniques de combat d’un style lorsqu’il fait part de son projet de les enseigner à l’école primaire d’Okinawa. Jusqu’à présent, le savoir était transmis de maître à élève, si l’élève satisfaisait à un ensemble de principes et de règles édictées par un clan, une école, et qu’il passait avec réussite les épreuves initiatiques. Avec l’inscription en 1905 du Shorin-Ryū au nombre des disciplines du système scolaire, c’est une nouvelle ère qui s’ouvre pour le Karaté, celle de la modernité et de la conquête du monde.
+
+## L’appel de la modernité
+
+::: {.figure .float-start}
+![Gichin Funakoshi](/images/pics/funakoshi.jpg){.figure-img .img-fluid .me-2}
+:::
+
+Gichin Funakoshi, figure emblématique du Karaté, rencontre Anko Itosu par l’entremise de son professeur, Anko Azato (1826-1906). L’enseignement d’Itosu est aussi fastidieux et ingrat que celui d’Azato, tant et si bien que Funakoshi passera auprès du premier dix ans à apprendre trois katas de base. Si, étant jeune, Funakoshi était d’une constitution maladive, il développe au fil du temps des aptitudes physiques étonnantes. On raconte même qu’il affrontait les tempêtes en portant un matelas devant lui ! Pour autant, il réprouve la violence et ne se servira pas une seule fois des techniques apprises pour se défendre.
+
+Il entrevoit en effet très tôt dans le Karaté une discipline de la force de caractère. Ses principes moraux très forts en font un héraut providentiel pour Itosu, qui lui demande d’effectuer à Ogawa la démonstration qui favorisera l’inscription du Shorin-Ryū aux disciplines scolaires. En 1917, il est invité au Butokuden de Kyoto pour une autre démonstration ; et, cinq ans plus tard, c’est encore lui que l’on envoie à Tokyo pour représenter le Budo des îles Ryūkyū lors d’un forum national sur le sport et l’éducation physique. Pour cette occasion, lui qui ne pratiquait que quelques katas de base depuis des années, eut droit à des cours accélérés pour assimiler rapidement d’autres techniques plus évoluées.
+
+À Tokyo, Funakoshi présente son style au Budokan devant un parterre de judokas réunis par Jigoro Kano. Ce dernier l’invite à rester dans la capitale afin de développer son école. Très vite, il intègre le principe du do théorisé par Kano et reprend le principe *kyū*/*dan* pour le passage des grades. Une fois de plus, ce sont ses valeurs morales et humanistes qui, associées à une haute éducation, favorisèrent la propagation du Karaté dans tout le Japon. Il eut d’ailleurs à lutter sur le terrain des idées avec un autre pratiquant, Chokki Motobu (1871-1944), qui, précurseur du combat libre, se faisait une renommée sur les rings contre des combattants de tous les styles.
+
+Le Karaté de Funakoshi prend petit à petit de l’ampleur. Lui qui avait quitté un poste confortable d’enseignant à Okinawa pour de petits boulots à Tokyo, voit enfin son investissement porter ses fruits. Son livre, publié fin 1922 et intitulé *Karaté de Ryūkyū Kempo*, séduit de plus en plus d’adeptes. Il est même réédité en 1926 dans une édition augmentée.
+
+
+::: {.figure .float-end}
+![Le *Tora no maki*, l'emblème du Karaté Shōtōkan](/images/pics/shototiger.gif){.figure-img .img-fluid .ms-2}
+:::
+
+En 1936, ses élèves réunissent les fonds nécessaires pour lui construire un dojo privé, baptisé *Shōtōkan* ("Lieu du vent dans les pins"). Le nom n’est pas choisi au hasard, c’est une déclinaison d’un pseudonyme dont il se sert pour signer ses calligraphies : *Shōtō* ; il caractérisera bientôt son école elle-même, le Shōtōkan-ryū, dont l’emblème devient *Tora no maki* ("Rouleau du tigre").
+
+Funakoshi est quelque peu dépassé par son œuvre. Alors qu’il ambitionnait de codifier un Karaté unique, à l’instar du Judo de Jigoro Kano, il voit sa discipline remaniée par d’autres maîtres, entraînant un éclatement inéluctable. Son propre fils, Gigo Funakoshi, prône contre lui une pratique nettement orientée vers le combat. La seconde guerre mondiale ne permettra pas au père et au fils de résoudre leur conflit. Gigo meurt de maladie, suivie de près par sa mère.
+
+Funakoshi retourne à Tokyo après la guerre afin de rebâtir avec le concours de son deuxième fils, Yoshihide Funakoshi, le dojo Shōtōkan, détruit par les bombardements. Alors que l’occupation américaine interdit toute pratique martiale susceptible d’exciter les tensions, le Karaté, épuré par la pédagogie qu’il a élaborée à base de katas, est épargné par la censure, les Américains n’y voyant là qu’une danse folklorique…
+
+La suite, c’est l’histoire de la formation des premiers compétiteurs japonais qui diffuseront le Karaté dans le monde et d’abord en Europe, avec notamment en France le célèbre Teji Kaze.

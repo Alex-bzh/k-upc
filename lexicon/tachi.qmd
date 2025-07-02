@@ -1,0 +1,55 @@
+---
+title: "Lexique : Les postures"
+lang: fr
+---
+
+Bien plus encore que les techniques de poing et de pied, que l’on retrouve dans tout système de combat, les postures sont emblématiques de l’école *Shōtōkan* en ce qu’elles structurent les fondations de tout·e pratiquant·e. Une posture insuffisamment ancrée dans le sol ou trop légèrement gainée ne sera pas en mesure d’assurer une défense ou une attaque efficaces.
+
+## Postures hautes
+
+| **hachiji-dachi**
+|   Debout, pieds écartés de la largeur des hanches et orientés vers l’extérieur.
+| **heikō-dachi**
+|   Debout, pieds parallèles, écartés de la largeur des hanches.
+| **heisoku-dachi**
+|   Debout, pieds serrés.
+| **moro-ashi-dachi**
+|   Sur la base de *heikō-dachi*, on avance légèrement un pied.
+| **musubi-dachi**
+|   Debout, talons joints, pieds orientés vers l’extérieur.
+| **renoji-dachi**
+|   Debout, un pied devant l’autre, de manière à former un L tout en respectant un écartement de la largeur des épaules.
+| **sagi-ashi-dachi** (posture du héron)
+|   En équilibre sur un pied, l’autre vient s’enclencher dans le creux poplité de la jambe en contact avec le sol.
+| **teinoji-dachi**
+|   Debout, un pied devant l’autre, de manière à former un T tout en respectant un écartement de la largeur des épaules.
+| **tsuru-ashi-dachi** (posture de la grue)
+|   En équilibre sur un pied, la plante du pied levé vient s’appuyer contre le genou de la jambe en contact avec le sol.
+| **uchi-hachiji-dachi**
+|   Debout, pieds écartés de la largeur des hanches et orientés vers l’intérieur.
+
+## Postures intermédiaires
+
+| **hangetsu-dachi** (posture de la demi-lune)
+|   Posture *sanchin-dachi* élargie.
+| **kōsa-dachi**
+|   Jambes croisées, le genou arrière est enclenché dans le creux poplité de l’autre. Le pied arrière est appuyé sur le bol du pied (*koshi*).
+| **moto-dachi**
+|   Position fondamentale en légère fente avant. Les pieds respectent un écartement de la largeur des épaules.
+| **sanchin-dachi** (posture dite du sablier ou des trois batailles)
+|   Un pied devant l’autre. Les pieds, écartés de la largeur des épaules, sont également orientés vers l’intérieur.
+
+## Postures basses
+
+| **fudo-dachi**
+|   Position de combat polyvalente, en fente avant avec les deux jambes fléchies.
+| **kiba-dachi** (posture du cavalier)
+|   Jambes écartées, fléchies. Les pieds sont parallèles et les genoux sortis, rappelant la position d’un cavalier.
+| **kōkutsu-dachi**
+|   En fente arrière avec la majorité du poids sur la jambe arrière.
+| **neko-ashi-dachi** (posture du chat)
+|   En appui sur la jambe arrière, la jambe avant est fléchie, reposant sur le bol du pied.
+| **shiko-dachi**
+|   Posture *kiba-dachi* avec les pieds orientés vers l’extérieur.
+| **zenkutsu-dachi**
+|   En fente avant avec la jambe arrière tendue et la jambe avant fléchie.

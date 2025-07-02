@@ -1,0 +1,21 @@
+---
+title: "Lexique : Les clés et étranglements"
+lang: fr
+---
+
+## Techniques de clés
+
+| **kote-gaeshi**
+|   Clé de poignet par supination.
+
+## Techniques de clés de bras (*Kansetzu-waza*){#kansetzu-waza}
+
+| **ude-gatame**
+|   Clé au coude sur bras tendu.
+
+## Techniques d’étranglement (*Shime-waza*){#shime-waza}
+
+| **hadaka-jime**
+|   Étranglement arrière dans lequel la gorge du partenaire est compressée par le biceps et l’avant-bras. La main du bras qui effectue la compression vient s’enclencher dans la pliure du coude de l’autre bras qui, lui, verrouille l’étranglement en s’appuyant sur la nuque du partenaire.
+| **tate-ushiro-jime**
+|   Variante de *hadake-jime* dans laquelle la main du bras qui effectue la compression vient s’insérer dans l’autre main afin de finaliser le verrou.

@@ -1,0 +1,83 @@
+---
+title: "Programme de la ceinture bleue"
+lang: fr
+---
+
+L’examen de la ceinture bleue est composé de cinq épreuves :
+
+1. *Kihon*
+    1. *Kihon* en ligne
+    2. *Kihon* multidirectionnel
+2. *Kihon ippon kumite*
+3. *Kata*
+4. *Bunkai*
+5. *Ju kumite*
+
+## Kihon
+
+En plus des techniques de [la ceinture verte](./third_kyu.qmd), le programme du *kihon* inclut :
+
+- **Postures hautes**
+  - [*Moro-ashi-dachi*](/lexicon/tachi.qmd#postures-hautes)
+  - [*Renoji-dachi*](/lexicon/tachi.qmd#postures-hautes)
+  - [*Teinoji-dachi*](/lexicon/tachi.qmd#postures-hautes)
+  - [*Tsuru-ashi-dachi*](/lexicon/tachi.qmd#postures-hautes)
+
+- **Postures intermédiaires**
+  - [*Moto-dachi*](/lexicon/tachi.qmd#postures-intermediaires)
+
+- **Techniques de défense**
+  - [*Kakiwake-uke*](/lexicon/waza.qmd#uke-waza)
+
+- **Techniques de poing**
+  - [*Kagi-zuki*](/lexicon/waza.qmd#tsuki-waza)
+  - [*Mawashi-zuki*](/lexicon/waza.qmd#tsuki-waza)
+
+- **Techniques de pied**
+  - [*Hiza-geri*](/lexicon/waza.qmd#keri-waza)
+  - [*Kakato-geri*](/lexicon/waza.qmd#keri-waza)
+  - [*Ushiro-geri*](/lexicon/waza.qmd#keri-waza)
+
+- **Autres techniques d’attaque avec le bras**
+  - [*Haitō-uchi*](/lexicon/waza.qmd#uchi-waza)
+
+### Kihon en ligne
+
+Les candidat·es sont évalué·es sur l’exécution d’enchaînements effectués sur trois pas, avec soit un demi-tour au terme de l’aller, soit en reculant ensuite. Les enchaînements ne peuvent excéder trois techniques.
+
+Trois séquences seront retenues, une séquence étant composée de trois itérations du même enchaînement à l’aller et de trois itérations d’un autre enchaînement au retour.
+
+### Kihon multidirectionnel
+
+Un enchaînement de trois techniques doit être exécuté dans les quatre directions cardinales, en garde gauche puis en garde droite avec retour à la position initiale.
+
+## Kihon ippon kumite
+
+Cette épreuve est une démonstration des techniques fondamentales du karaté sur un assaut bloqué par une défense avant contre-attaque. Les assauts retenus pour la ceinture bleue sont :
+
+- *Jōdan oi-zuki* ;
+- *Chūdan oi-zuki* ;
+- *Chūdan mae-geri* de la jambe arrière ;
+- *Mawashi-geri* de la jambe arrière, niveau *jōdan* ou *chūdan* ;
+- *Chūdan yoko-geri-kekomi* de la jambe arrière.
+
+Chaque assaut est effectué d’abord en garde gauche puis ensuite en garde droite. Les défenses et contre-attaques sont libres.
+
+## Kata
+
+Les katas au programme de la ceinture bleue sont :
+
+- *Heian shodan*
+- *Heian nidan*
+- *Heian sandan*
+- *Heian yondan*
+
+Les candidat·es présentent obligatoirement le kata *heian yondan* ainsi qu’un autre de leur choix.
+
+## Bunkai
+
+Les candidat·es présentent deux séquences issues du kata *heian yondan* en démontrant leur efficacité dans des situations de combat semi-réalistes. Une autre application peut leur être demandée sur le kata choisi en plus de *heian yondan* lors de l’épreuve précédente.
+
+## Ju kumite
+
+Épreuve de combat souple et traditionnel sur une durée de trois minutes maximum. Les candidat·es disposent de l’éventail complet de leur connaissance du karaté.

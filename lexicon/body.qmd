@@ -1,0 +1,39 @@
+---
+title: "Lexique : Les parties du corps"
+lang: fr
+---
+
+| **chūdan**
+|   Niveau moyen.
+| **empi**
+|   Coude.
+| **gedan**
+|   Niveau bas.
+| **haishu**
+|   Dos de la main.
+| **haitō**
+|   Tranchant interne de la main.
+| **haisoku**
+|   Dessus du pied.
+| **hiza**
+|   Genou.
+| **jōdan**
+|   Niveau haut.
+| **kakato**
+|   Talon.
+| **koshi**
+|   Bol du pied.
+| **nukite**
+|   Pointe de la main.
+| **seiken**
+|   Les phalanges proximales de l’index et du majeur qui constituent la surface de frappe avec le poing fermé.
+| **seiryūtō**
+|   Désigne la surface extérieure du talon de la main, juste en dessous du *shutō*.
+| **shutō**
+|   Tranchant externe de la main.
+| **sokutō**
+|   Tranchant externe du pied.
+| **teishō**
+|   Talon de la main.
+| **teisoku**
+|   Arche intérieure du pied.

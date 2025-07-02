@@ -1,0 +1,122 @@
+---
+title: "Le protocole des différents moments du karaté"
+lang: fr
+---
+
+## Les saluts
+
+### Se saluer entre pratiquant·es
+
+À la fin et avant tout exercice avec partenaire, il est de coutûme de se saluer en *musubi-dachi*.
+
+### Le *ritsurei*, ou cérémonie de salut debout
+
+Au commandement « *shūgo* », les élèves s’alignent de gauche à droite, par ordre de grade, en adoptant une posture naturelle, le *shizentai*. En cas d’égalité de ceinture, il convient de respecter la priorité des plus ancien·nes dans le grade. Par exemple, si je suis nouvellement promu·e à la ceinture verte, je témoigne du respect aux autres élèves de mon grade en me positionnant à leur gauche[^shugo].
+
+Quand le ou la professeur·e, positionné·e devant et face aux élèves, annonce « *musubi-dachi* », tout le monde se met en position, les bras le long du corps, dans l’attente du commandement pour saluer. « *Rei* » indique enfin aux élèves de saluer en inclinant légèrement le buste.
+
+<!-- Notes de bas de page -->
+
+[^shugo]: Il semblerait que, dans la société japonaise traditionnelle, cet ordre ait été institué afin que les plus gradé·es se situent plus loin de l’entrée du dojo que leurs cadet·es. Dans une période de forte instabilité, où les différentes écoles pouvaient se défier ouvertement, c’était alors un gage de plus grande sécurité.
+
+### Le *zarei*, ou cérémonie de salut traditionnel en position assise
+
+Une fois tout le monde aligné, le ou la professeur·e annonce « *musubi-dachi* » avant de s’asseoir sur ses talons en posant d’abord le genou gauche en terre, puis le genou droit[^samourai]. Pendant ce temps, les élèves restent debout, immobiles et silencieux, et ne bougent pas avant d’entendre le commandement « *seiza* »[^aboyeur]. Ils et elles suivent alors les mêmes gestes pour se retrouver dans une assise correcte[^seiza].
+
+Le ou la professeur·e se retourne en effectuant un demi-tour par la gauche afin de faire face au mur où sont généralement accrochés les portraits des fondateurs de l’école[^fondateurs]. Vient ensuite le temps de méditation, encadré par les commandements « *mokusō* » et « *mokusō yame* ».
+
+Au commandemant « *shōmen-ni-rei* », tout le monde salue ce qui lui fait face[^shomen] en posant les mains en triangle sur le sol devant soi, la gauche d’abord et ensuite la droite, puis en inclinant légèrement le buste. Le ou la professeur·e se retourne pour faire face aux élèves avant le second salut. À l’annonce du « *sensei-ni-rei* », tout le monde, élèves et professeur·e compris·es, effectue le salut. Le dernier salut, annoncé « *otagai-ni-rei* », ne concerne que les élèves entre eux et elles.
+
+Au terme des saluts assis, le ou la professeur·e se relève seul·e, en levant la jambe droite d’abord puis la gauche ensuite, dans la posture *musubi-dachi*. Le commandement « *kiritsu* » permet aux élèves de se relever à leur tour en *musubi-dachi*. Un dernier « *rei* » clôt la cérémonie du *zarei*.
+
+<!-- Notes de bas de page -->
+
+[^samourai]: L’ordre à suivre pour poser ses genoux au sol vient probablement de l’époque des samouraïs. Porté au côté gauche, le katana devait pouvoir être sorti rapidement et sans gêne de son fourreau en cas d’aggression.
+[^aboyeur]: La tradition veut que les commandements soient plutôt annoncés par le ou la *sempai*.
+[^seiza]: Le terme *seiza* signifie littéralement « assise correcte ». La forme d’assise retenue aujourd’hui, héritée de l’ère Tokugawa, est prévue pour être réalisée sur un plancher recouvert de tatamis. À noter que, pour coller au plus près des traditions, les femmes gardent leurs genoux collés tandis que les hommes les écartent de la largeur de deux poings.
+[^fondateurs]: En l’occurence, pour le *shōtōkan*, il s’agit de Gichin Funakoshi. Lorsque le dojo est partagé avec d’autres arts martiaux, il est fréquent de retrouver ceux de Jigorō Kanō pour le judo et de Morihei Ueshiba pour l’aïkido.
+[^shomen]: Contrairement à une croyance établie, le salut au *shōmen* n’est pas un salut aux fondateurs de l’école mais littéralement à ce qui nous fait face, métaphore d’une porte qui s’ouvre sur la spiritualité.
+
+## Les *kihon*
+
+### Le *kihon* en ligne
+
+Les candidat·es sont en posture *hachiji-dachi*. Au premier commandement *yoi*, ils et elles saluent le jury et reprennent leur posture de départ. Le second commandement leur indique la garde à adopter : gauche ou droite, et, éventuellement la posture. Si cette dernière est omise, les candidat·es devront se positionner par défaut en *zenkutsu-dachi* et effectuer la technique *gedan barai*. Exemples :
+- *Hidari kamae* : garde gauche en *zenkutsu-dachi*
+- *Migi kōkutsu-dachi kamae* : garde droite en *kōkutsu-dachi*
+
+Le jury annonce ensuite la technique puis, après un temps de réflexion pendant lequel les candidat·es ont l’opportunité de demander des éclaircissements – voire une démonstration –, commence le dénombrement, en japonais. Un *kiai* est obligatoire sur au moins l’une des trois itérations.
+
+À noter que la garde se prend toujours en avançant la jambe désignée par le jury.
+
+#### Exemple
+
+1. « *Yoi* ! » Les candidat·es effectuent le salut et annoncent qu’ils et elles sont prêt·es.
+2. « *Hidari kamae* ! » Les candidat·es se mettent en *zenkutsu-dachi*, garde gauche.
+3. « *Ayumi-ashi zenkutsu-dachi chūdan oi-zuki* » (avancer d’un pas en position *zenkutsu* et frapper du poing).
+4. « *Ichi* ! » Les candidat·es exécutent la technique.
+5. « *Ni* ! » Même chose que précédemment.
+6. « *San* ! » Une dernière fois.
+7. « *Mawatte* ! » Demi-tour.
+
+### La version multidirectionnelle
+
+Les candidat·es font face au jury, en posture *hachiji-dachi*. Après un salut debout, le jury leur demande de se mettre en garde de combat *fudo-dachi*.
+
+Le jury annonce ensuite l’enchaînement et, à la demande des candidat·es, peut le démontrer. Si tout le monde est prêt, le jury déclenche l’épreuve par le commandement « *hajime* ». Les candidat·es effectuent l’enchaînement une première fois, reviennent en position de départ avant de se positionner dans une autre direction pour lancer la seconde itération.
+
+À la toute fin, le jury annonce « *yame* » et les candidat·es peuvent se remettre en *hachiji-dachi*.
+
+### L’épreuve avec cibles
+
+Les candidat·es se présentent au jury, effectuent les saluts de rigueur et annoncent leurs rôles respectif. Le jury choisit cinq techniques sur les sept au programme. Elles seront à exécuter en garde gauche ou en garde droite selon la volonté des candidat·es.
+
+Chaque temps respecte ensuite le même schéma :
+
+1. Le jury donne la technique à exécuter.
+2. Les candidat·es se mettent en garde *fudo-dachi*. *Uke* positionne les cibles sur soi de telle manière que *tori* soit dans les meilleures conditions possibles pour réussir la technique.
+3. La technique est exécutée trois fois :
+    1. *Uke* se positionne en effectuant entre un et deux sursauts vers l’arrière ou sur le côté.
+    2. *Tori* cherche sa distance avant d’exécuter la technique sans oublier le *kiai*.
+    3. *Tori* revient en position initiale.
+4. Les candidat·es se repositionnent en *hachiji-dachi* dans l’attente de la technique suivante.
+
+## Les formes de combat
+
+### Le *kihon ippon kumite*, entre tradition et combat
+
+Les candidat·es se présentent dans l’aire d’examen. Après un premier salut au jury, ils et elles se font face et effectuent un second salut. Idéalement, l’espace qui les sépare est égal à la largeur d’un tatami, soit un mètre. Si ce n’est pas le cas, il leur revient de se positionner convenablement. Vient l’annonce des rôles et *tori* prend sa garde en reculant la jambe droite.
+
+Chaque assaut se déroule de la même façon : *tori* annonce la technique et le niveau puis, après un temps confortable de réflexion pour *uke*, l’exécute avec conviction. *Uke* effectue son blocage et sa contre-attaque sans que *tori* ne bouge. Une fois l’enchaînement accompli, *tori* rompt le combat le premier en reprenant une posture haute. *Uke* l’imite puis, sans saluer, adopte de nouveau une garde.
+
+*Uke* et *tori* ne doivent pas oublier de pousser le *kiai* lors des attaques.
+
+Chaque technique est exécutée en garde gauche puis en garde droite.
+
+### L’épreuve de *ippon kumite*
+
+Le protocle de l’épreuve est similaire au *kihon ippon kumite* à l’exception près que les candidat·es sont tou·tes les deux en garde et que les techniques sont toutes exécutées d’abord en garde gauche puis seulement après en garde droite.
+
+### Vers l’affranchissement des contraintes avec le *jiyu ippon kumite*
+
+Tout le programme de la ceinture noire amène les candidat·es vers une forme de combat libérée de l’austérité des directives techniques.
+
+Dans cette épreuve, les candidat·es se présentent devant le jury en veillant à respecter entre eux et elles une distance de trois mètres, soit l’équivalent d’un tatami et demi, et ce préalablement aux saluts de rigueur.
+
+Le jury annonce ensuite le programme et lance l’épreuve par le commandement : « *Hajime* ». Les candidat·es se mettent alors en garde en avançant une jambe afin de montrer leur volonté d’accepter l’assaut.
+
+À chaque assaut, *tori* doit rechercher une opportunité d’attaque en effectuant des déplacements traditionnels, et ce sans offrir la possibilité à *uke* de contrer avant même de déclencher. *Uke*, quant à lui, ou quant à elle, ne doit pas fuir le combat mais rester concentré·e tout au long de l’échange. Jusqu’au 3^e^ dan inclus, les candidat·es reviennent en posture *hachiji-dachi* avant chaque nouvel assaut. Autrement, ils et elles doivent simplement reprendre le *maai*.
+
+::: {.callout-note}
+Pour l’épreuve de 1^er^ dan, et avant de se mettre en garde, *tori* annonce clair et fort la technique choisie par le jury ainsi que le niveau de l’attaque. Par exemple : « *Oi-zuki jōdan*. » Pour l’épreuve de 2^e^ dan en revanche, *tori* n’annonce que le niveau de l’attaque.
+:::
+
+### Le *ju kumite*, ou combat souple
+
+Les candidat·es se présentent sur l’aire de compétition, se saluent puis saluent le jury. Au commandement « *hajime* », ils et elles peuvent commencer le combat. À tout moment le jury peut cesser l’assaut avec le commandement « *yame* ».
+
+## Présenter un kata
+
+Les candidat·es se présentent devant le jury en position *hachiji-dachi*, effectuent le salut et adoptent la posture *heikō-dachi* avant d’annoncer le kata par son nom. S’il débute par une posture autre que *heikō-dachi*, ils et elles ont alors le loisir de l’adopter.
+
+À la fin, les candidat·es reviennent dans la posture initiale du kata avant de saluer à nouveau le jury et de terminer comme au début en *hachiji-dachi*.

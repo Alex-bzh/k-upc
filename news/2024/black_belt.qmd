@@ -1,0 +1,14 @@
+---
+title: "Une brochette de ceintures noires"
+lang: fr
+author: "Alex-Bzh"
+image: /images/news/categories/black_belt.jpg
+date: "2024-06-08"
+categories: "Accomplissements"
+---
+
+![](/images/news/categories/black_belt.jpg){fig-align="left"}
+
+Alia, Billal et Baptiste ont obtenu leur ceinture noire ce samedi 8 juin 2024 au terme d’une longue et éprouvante après-midi d’efforts.
+
+C’est un couronnement pour ces trois élèves assidus de la section qui auront la lourde charge à la rentrée de montrer la voie aux nouvelles recrues !

@@ -1,0 +1,9 @@
+---
+title: "Actualités"
+lang: fr
+listing:
+  contents: news
+  sort:
+    - "date desc"
+  categories: true
+---

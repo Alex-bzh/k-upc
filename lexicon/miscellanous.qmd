@@ -1,0 +1,45 @@
+---
+title: "Lexique : Généralités"
+lang: fr
+---
+
+**Compter de 1 à 10 :** *ichi*, *ni*, *san*, *shi*, *go*, *roku*, *shichi*, *hachi*, *kyū*, *jū*.
+
+| **arigatō**
+|   « Merci. »
+| **arigatō gozaimashita**
+|   « Merci beaucoup. »
+| **go no sen**
+|   Désigne l’action de parer une attaque avant de contre-attaquer.
+| **hikite**
+|   La main qui tire.
+| **iro no sen**
+|   Désigne l’action d’anticiper l’attaque du partenaire en la bloquant et la contrant dans le même mouvement.
+| **kiai**
+|   Un cri pour témoigner d’une certaine détermination dans l‘action.
+| **kokoro no sen**
+|   Niveau ultime du *no sen* où son état mental empêche toute opportunité d’attaque.
+| **maai**
+|   Désigne la distance d’engagement.
+| **ossu**
+|   Un oui enthousiaste pour signifier que l’on fera de son mieux.
+| **ritsurei**
+|   Protocole de salut debout.
+| **sempai**
+|   Désigne la fonction de tuteur·rice.
+| **sen no sen**
+|   Désigne l’action de provoquer l’attaque et de la contrer pendant son exécution.
+| **sen sen no sen**
+|   Désigne l’action de contrer dans la préparation de l’attaque de son partenaire.
+| **sensei**
+|   Désigne l’instructeur·rice.
+| **tai no sen**
+|   Désigne l’action d’éviter une attaque avant de contre-attaquer.
+| **tori**
+|   Personne qui initie la technique.
+| **tsurite**
+|   La main qui soulève.
+| **uke**
+|   Personne qui reçoit la technique.
+| **zarei**
+|   Protocole de salut assis.

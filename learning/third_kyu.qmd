@@ -1,0 +1,75 @@
+---
+title: "Programme de la ceinture verte"
+lang: fr
+---
+
+L’examen de la ceinture verte est composé des épreuves suivantes :
+
+1. *Kihon*
+2. *Kihon ippon kumite*
+3. *Kata*
+4. *Bunkai*
+5. *Ju kumite*
+
+## Kihon
+
+Les candidat·es sont évalué·es sur l’exécution de techniques simples ou d’enchaînements effectués sur trois pas, avec soit un demi-tour au terme de l’aller, soit en reculant ensuite. Les enchaînements ne peuvent excéder deux techniques.
+
+Trois séquences seront retenues, une séquence étant composée de trois itérations d’une technique à l’aller et de trois itérations d’une autre technique au retour.
+
+En plus des techniques de [la ceinture orange](./fourth_kyu.qmd), le programme inclut :
+
+- **Postures hautes**
+  - [*Heisoku-dachi*](/lexicon/tachi.qmd#postures-hautes)
+
+- **Postures intermédiaires**
+  - [*Kōsa-dachi*](/lexicon/tachi.qmd#postures-intermediaires)
+
+- **Postures basses**
+  - [*Neko-ashi-dachi*](/lexicon/tachi.qmd#postures-basses)
+  - [*Shiko-dachi*](/lexicon/tachi.qmd#postures-basses)
+
+- **Techniques de défense**
+  - [*Otoshi-uke*](/lexicon/waza.qmd#uke-waza)
+  - [*Tate-shutō-uke*](/lexicon/waza.qmd#uke-waza)
+
+- **Techniques de poing**
+  - [*Tate-zuki*](/lexicon/waza.qmd#tsuki-waza)
+
+- **Techniques de pied**
+  - [*Ura-mikazuki-geri*](/lexicon/waza.qmd#keri-waza)
+  - [*Mikazuki-geri*](/lexicon/waza.qmd#keri-waza)
+
+- **Autres techniques d’attaque avec le bras**
+  - [*Empi-uchi*](/lexicon/waza.qmd#uchi-waza)
+  - [*Teishō-uchi*](/lexicon/waza.qmd#uchi-waza)
+
+## Kihon ippon kumite
+
+Cette épreuve est une démonstration des techniques fondamentales du karaté sur un assaut bloqué par une défense avant contre-attaque. Les assauts retenus pour la ceinture verte sont :
+
+- *Jōdan oi-zuki* ;
+- *Chūdan oi-zuki* ;
+- *Chūdan mae-geri* de la jambe arrière ;
+- *Mawashi-geri* de la jambe arrière, niveau *jōdan* ou *chūdan* ;
+- *Chūdan yoko-geri-kekomi* de la jambe arrière.
+
+Chaque assaut est effectué d’abord en garde gauche puis ensuite en garde droite. Les défenses et contre-attaques sont libres.
+
+## Kata
+
+Les trois katas au programme de la ceinture verte sont :
+
+- *Heian shodan*
+- *Heian nidan*
+- *Heian sandan*
+
+Les candidat·es présentent obligatoirement le kata *heian sandan* ainsi qu’un autre de leur choix.
+
+## Bunkai
+
+Les candidat·es présentent deux séquences issues du kata *heian sandan* en démontrant leur efficacité dans des situations de combat semi-réalistes. Une autre application peut leur être demandée sur le kata choisi en plus de *heian sandan* lors de l’épreuve précédente.
+
+## Ju kumite
+
+Épreuve de combat souple et traditionnel sur une durée de trois minutes maximum. Les candidat·es disposent de l’éventail complet de leur connaissance du karaté.

@@ -1,0 +1,127 @@
+---
+title: "Lexique : Les techniques d’attaque et de défense"
+lang: fr
+---
+
+Les *waza* constituent le vocabulaire de tout·e karatéka·te. Connaître l’ensemble des techniques d’attaque et de défense, et les répéter tout au long de sa pratique du karaté, apporte non seulement une aisance supérieure dans la réalisation des mouvements mais permet aussi de disposer de réponses de plus en plus appropriées à la variété des situations de confrontation.
+
+## Techniques de défense (*Uke-waza*){#uke-waza}
+
+### Techniques de défense avec le poing fermé
+
+| **gedan barai**
+|   Blocage de l’avant-bras dans un mouvement à la fois descendant et de l’intérieur vers l’extérieur.
+| **jōdan age-uke**
+|   Blocage de l’avant-bras dans un mouvement du bas vers le haut.
+| **otoshi-uke**
+|   Blocage descendant de l’avant-bras dans un mouvement de l’avant vers l’arrière comme avec un rouleau.
+| **soto-uke**
+|   Blocage de l’avant-bras dans un mouvement circulaire partant de l’extérieur et allant vers l’intérieur.
+| **uchi-uke**
+|   Blocage de l’avant-bras dans un mouvement circulaire partant de l’intérieur et allant vers l’extérieur.
+
+### Techniques de défense avec la main ouverte
+
+| **haishu-uke**
+|   Défense circulaire avec le dos de la main dans un mouvement de l’intérieur vers l’extérieur.
+| **haitō-uchi-uke**
+|   Forme de blocage *uchi-uke* avec la main ouverte pour augmenter la surface de parade.
+| **kake-uke**
+|   Blocage à la fois circulaire et tournant du tranchant de la main dans le but de former un crochet avec le poignet et, éventuellement, d’agripper ensuite l’attaque avec la main.
+| **koken-uke**
+|   Défense avec le poignet.
+| **nagashi-uke**
+|   Défense circulaire avec le plat de la main dans un mouvement de l’extérieur vers l’intérieur.
+| **osae-uke**
+|   Défense avec pression de la main.
+| **shutō-uke**
+|   Blocage avec le tranchant de la main dans un mouvement circulaire partant de l’intérieur et allant vers l’extérieur.
+| **sukui-uke**
+|   Défense circulaire en puisant avec la main, généralement de l’extérieur vers l’intérieur, souvent dans l’intention de rediriger une attaque de jambe.
+| **tate-shutō-uke**
+|   Défense circulaire avec le tranchant externe de la main, poignet cassé.
+| **teishō-uke**
+|   Défense avec la paume de la main.
+
+### Techniques de défense avec les deux bras
+
+| **heiko-uke**
+|   Blocage les bras repliés, avant-bras parallèles, dans l’alignement des épaules.
+| **jūji-uke**
+|   Blocage avec les bras croisés.
+| **kakiwake-uke**
+|   Défense en écartant les bras comme pour faire lâcher une prise.
+| **morote-uke**
+|   Blocage en forme de *uchi-uke* mais avec le second poing en renfort.
+
+
+## Attaques directes de poing (*Tsuki-waza*){#tsuki-waza}
+
+| **age-zuki**
+|   Coup de poing remontant, frappe avec le dessus du poing.
+| **choku-zuki**
+|   Coup de poing direct.
+| **gyaku-zuki**
+|   Coup de poing du bras arrière sans avancer.
+| **kagi-zuki**
+|   Coup de poing arrière, bras fléchi.
+| **kizami-zuki**
+|   Coup de poing du bras avant, le buste effacé.
+| **maete-zuki**
+|   Coup de poing du bras avant.
+| **mawashi-zuki**
+|   Crochet.
+| **oi-zuki**
+|   Coup de poing du bras arrière en avançant d’un pas.
+| **tate-zuki**
+|   Coup de poing avec le poing vertical.
+| **ura-zuki**
+|   Uppercut.
+
+## Autres techniques d’attaque avec le bras (*Uchi-waza*){#uchi-waza}
+
+| **empi-uchi**
+|   Attaque avec le coude.
+| **haishu-uchi**
+|   Attaque circulaire avec le dos de la main ouverte.
+| **haitō-uchi**
+|   Attaque criculaire main ouverte avec le tranchant interne.
+| **koken-uchi**
+|   Frappe avec le dessus du poignet.
+| **yonhon-nukite**
+|   Attaque directe main ouverte avec les quatre doigts serrés.
+| **shutō-uchi**
+|   Attaque circulaire main ouverte avec le tranchant externe.
+| **teishō-uchi**
+|   Attaque directe avec le talon de la main.
+| **tettsui-uchi** (marteau de fer)
+|   Frappe circulaire avec la main en marteau.
+| **uraken-uchi**
+|   Frappe circulaire avec le revers du poing.
+
+## Attaques de pied (*Keri-waza*){#keri-waza}
+
+| **fumi-komi**
+|   Coup de pied écrasant.
+| **hiza-geri**
+|   Coup de genou.
+| **kakato-geri**
+|   Coup de pied descendant avec le talon.
+| **mae-geri**
+|   Coup de pied direct frontal.
+| **mawashi-geri**
+|   Coup de pied circulaire fouetté.
+| **mikazuki-geri**
+|   Coup de pied en croissant, de l’extérieur vers l’intérieur, avec l’arche intérieure du pied.
+| **tobi-geri**
+|   Coup de pied sauté.
+| **ura-mawashi-geri**
+|   Coup de pied circulaire en revers.
+| **ura-mikazuki-geri**
+|   Coup de pied en croissant, de l’intérieur vers l’extérieur, avec le dessus du pied.
+| **ushiro-geri**
+|   Coup de pied vers l'arrière avec le talon.
+| **yoko-geri-keage**
+|   Coup de pied latéral fouetté en remontant.
+| **yoko-geri-kekomi**
+|   Coup de pied latéral en percussion.

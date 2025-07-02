@@ -1,0 +1,38 @@
+---
+title: "Lexique : Les techniques de projection et de balayage"
+lang: fr
+---
+
+## Techniques de hanches (*Koshi-waza*){#koshi-waza}
+
+| **ō-goshi**
+|   Projection de hanche après un déséquilibre avant.
+
+## Techniques de mains et de bras (*Te-waza*){#te-waza}
+
+| **ippon-seoi-nage**
+|   Projection par l’épaule après un déséquilibre avant.
+| **tai-otoshi**
+|   Après un déséquilibre vers l’avant, *tori* pivote et place sa jambe en barrage devant *uke* tout en tirant le revers de sa manche.
+
+## Techniques de pieds et de jambes (*Ashi-waza*){#ashi-waza}
+
+| **de-ashi-barai**
+|   Balayage du pied avancé.
+| **ko-soto-gari** (petit fauchage extérieur)
+|   Similaire à *de-ashi-barai* dans l’idée, il s’agit d’un fauchage par l’extérieur du pied avancé qui s’effectue toutefois après un déséquilibre arrière.
+| **ko-uchi-gari** (petit fauchage intérieur)
+|   Suite à un déséquilibre vers l’arrière, *tori* vient faucher la jambe du partenaire avec sa propre jambe avant tout en passant par l’intérieur.
+| **nami-gaeshi** (retour de vague)
+|   Technique de balayage emblématique du kata *Tekki Shodan* au cours de laquelle le pied de la jambe avant remonte au niveau du genou en fauchant la jambe d’un opposant.
+| **ō-soto-gari** (grand fauchage extérieur)
+|   Un fauchage par l’extérieur de la jambe du partenaire qui intervient après un déséquilibre arrière.
+| **ō-uchi-gari** (grand fauchage intérieur)
+|   Suite à un déséquilibre arrière, *tori* vient faucher la jambe du partenaire en passant par l’intérieur.
+
+## Techniques de sacrifice (*Sutemi-waza*){#sutemi-waza}
+
+| **kani-basami** (la pince du crabe)
+|   Fauchage en ciseaux au cours duquel la jambe inférieure passe derrière celles de *uke* tandis que la jambe supérieure vient cisailler la taille afin de le faire chuter vers l’arrière grâce au poids et, éventuellement, à un tirage de la manche.
+| **ko-uchi-gari-maki-komi**
+|   Petit fauchage intérieur en enroulant au sol.

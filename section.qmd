@@ -1,0 +1,48 @@
+---
+title: "À propos de la section Karaté"
+lang: fr
+---
+
+## Historique
+
+Fondée en 2013 au sein du service des sports de l’université Paris-Diderot, devenue aujourd’hui l’université Paris-Cité[^1], la section accueille les étudiant·es et les personnels des structures affiliées ou partenaires au sein d’un vaste et agréable dojo, peu importe leur niveau initial.
+
+L’enseignement dispensé permet de se préparer à tous les grades du karaté mais, en raison d’un effectif pendulaire inhérent au rythme des études et des diplômes universitaires, rares sont celles et ceux qui suivent entièrement leur cursus au sein de la section. La première fut Prunelle, en 2019, qui obtint sa ceinture noire en même temps que son master de psychologie (… et son permis de conduire) !
+
+Depuis la réforme de 2021 des épreuves régissant l’obtention des grades, le 1^er^ dan peut se présenter en club. N’étant pas affiliée à la fédération française de karaté, seule autorisée par le Ministère des sports à délivrer des grades de ceinture noire, la section de l’université Paris Cité a mis en place un partenariat avec un club de l’Essonne, l’[EKV](https://www.ecole-karate-villebon.com/){.external target="_blank"}, afin de permettre à ses pratiquant·es de prétendre au précieux sésame.
+
+[^1]: Suite à la fusion en 2019 avec l’université Paris-Descartes et l’institut de physique du globe de Paris (IPGP), elle s’est un temps fait pompeusement appeler université de Paris avant d’être rappelée à l’ordre en 2021 par le conseil d’État. Ce n’est qu’en 2022 qu’elle prend son appellation actuelle.
+
+## Ce qui vous attend
+
+Dans sa forme primitive, apparue sur l’île d’Okinawa, le karaté dérive des systèmes de combats pieds et poings développés très tôt en Chine. Il repose sur une alliance subtile entre force et souplesse, avec des positions stables et puissantes, des techniques circulaires, vives, et de nombreuses clés et projections. Au sein du service des sports de l’université Paris Cité, deux approches vous sont proposées : une méthode traditionnelle dite de style *Shōtōkan* et une approche du combat souple tel qu’il se pratique dans les compétitions sportives.
+
+La méthode traditionnelle découle d’une pédagogie à base de techniques effectuées seul ou à plusieurs, de katas et de *bunkai* (application des mouvements du kata avec un·e partenaire). Elle débouche sur des principes d’autodéfense, intégrant aux percussions des techniques de clés et d’étranglements, des projections et aussi des immobilisations.
+
+Quant au combat sportif, il s’appuie sur les règles de la compétition (établies pour satisfaire les critères de sélection aux Jeux Olympiques), favorisant les assauts pieds-poings avec contrôle absolu au visage. Ce souci primordial de préservation de l’intégrité physique des pratiquant·es se double d’une valorisation des techniques spectaculaires comme le *jōdan mawashi-geri* (coup de pied circulaire maîtrisé au visage) ou les enchaînements de percussions suivies d’un balayage.
+
+## L’équipe pédagogique
+
+::: {.columns}
+
+:::{.column .mx-2 width="30%"}
+
+![Un prof un peu f(l)ou…](/images/pics/alex.jpg)
+
+:::
+
+::: {.column width="65%"}
+Une équipe de un, formée par Alexandre Roulois, 5^e^ dan. Alexandre a très tôt choisi d’enseigner le karaté plutôt que de devenir un grand champion. Oui, c’était un choix. Enfin surtout un choix des arbitres qui, étrangement, lui ont toujours préféré ses adversaires.
+
+Heureusement, il peut se reposer sur un conventicule d’élèves motivé·es et attentif·ves qui ne manquent pas de redonner un peu de sérieux et de panache aux séances !
+
+**Diplômes d’enseignement :**
+
+- [Diplôme d’État de la jeunesse, de l’éducation populaire et du sport](/files/dejeps.pdf){target="_blank"} (DEJEPS)
+- [Brevet d’État d’éducateur sportif 1^er^ degré](/files/bees1.pdf){target="_blank"} (BEES)
+- [Diplôme d’instructeur fédéral](/files/dif.pdf){target="_blank"} (DIF)
+:::
+
+:::
+
+

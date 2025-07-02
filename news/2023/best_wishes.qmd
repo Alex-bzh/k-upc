@@ -1,0 +1,24 @@
+---
+title: "Meilleurs vœux 2023 !"
+lang: fr
+author: "Alex-Bzh"
+image: /images/news/2023/bruno_latour.jpg
+date: "2023-01-01"
+categories: "Vœux"
+---
+
+:::: {.columns}
+
+::: {.column .pe-2 width="70%"}
+Bonne et heureuse année à toutes et à tous !
+
+Que peut-on vous souhaiter de beau ? La santé, bien sûr, et la réussite dans vos projets, cela va de soi ! Et avant de donner un sens à ce nouveau cycle qui ne fait que précéder le prochain avec la traditionnelle prise des bonnes résolutions, demandons-nous si, à prendre une direction (le sens) dans un itinéraire courbe (le calendrier) il n'existe pas un risque à revenir au point de départ. Aussi, ne serait-il pas préférable de substituer à la sempiternelle question "Où vais-je ?", celle qui était fondamentale pour Bruno Latour, récemment disparu : "Où suis-je ?" ?
+
+Bref, je vous souhaite surtout de mon côté de vous fabriquer plein de bons souvenirs, qu'ils soient en famille, entre ami·es ou en kimono sur les tatamis !
+:::
+
+::: {.column width="30%"}
+![Bruno Latour, décédé le 9 octobre 2022. KOKUYO, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons](/images/news/2023/bruno_latour.jpg)
+:::
+
+::::
