@@ -1,0 +1,12 @@
+---
+title: "Reprise des activités"
+lang: fr
+author: "Alex-Bzh"
+image: /images/news/categories/back_to_school.jpg
+date: "2025-09-01"
+categories: "Vie du club"
+---
+
+![*Back to school* par Avolore est sous licence CC BY 2.0.](/images/news/categories/back_to_school.jpg){fig-align="left"}
+
+Les cours reprendront le 15 septembre 2025. Pensez à [vous inscrire](https://sportboxconnect.u-paris.fr/courses){.external target="_blank"} !
