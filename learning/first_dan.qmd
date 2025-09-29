@@ -8,10 +8,14 @@ lang: fr
 S’agissant de diplômes officiels, la fédération française de karaté a reçu délégation du Ministère des sports pour organiser les épreuves d’obtention des grades à partir de la ceinture noire. Pour ces raisons, il convient aux candidat·es de respecter certaines conditions pour présenter l’examen :
 
 - être âgé·e de 14 ans minimum ;
-- justifier de trois années de licence dont celle en cours ;
+- justifier de trois années de licence FFK dont celle en cours ;
 - être ceinture marron.
 
 Il leur faudra également acquérir un passeport sportif (25 €), s’acquitter d’un chèque de 50 € à l’ordre du comité départemental de l’Essonne et remplir [un formulaire d’inscription](/files/inscription_dan.pdf){target="_blank"}.
+
+::: {.callout-note title="À l’attention des élèves en provenance de l’étranger"}
+La fédération française de karaté ne reconnaît pas automatiquement les grades obtenus à l’étranger. Une procédure existe pour les faire authentifier (article 217 de la réglementation de la CSDGE), mais elle est à la fois longue et coûteuse.
+:::
 
 ## La liste des épreuves
 

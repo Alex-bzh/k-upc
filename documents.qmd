@@ -5,9 +5,10 @@ lang: fr
 
 ## FFKaraté
 
+- [Demande d’équivalence d’un grade obtenu à l’étranger](./files/equivalence_grade.pdf)
 - [Demande de licence fédérale](./files/licence_federale.pdf)
 - [Formulaire d’inscription au 1^er^, 2^e^ ou 3^e^ dan](./files/inscription_dan.pdf)
-- [Règlement de la Commission Spécialisée des Dans et Grades Equivalents](./files/csdge.pdf)
+- [Règlement de la Commission spécialisée des dans et grades équivalents (CSDGE)](./files/csdge.pdf)
 - [Questionnaire de santé pour la pratique du sport](./files/questionnaire_sante.pdf)
 
 ## EKV
