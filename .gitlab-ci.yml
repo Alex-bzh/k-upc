@@ -1,0 +1,12 @@
+stages:
+  - build
+
+# === BUILD ===
+build:
+  stage: build
+  image: quay.io/quarto-dev/quarto
+  script:
+    - quarto render
+  artifacts:
+    paths:
+      - _site/
