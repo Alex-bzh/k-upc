@@ -26,19 +26,15 @@ jobs:
   build:
     needs: test
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: release
-
       - name: Build site
         run: quarto render
-
       - name: Upload built site
         uses: actions/upload-artifact@v4
         with:
@@ -54,28 +50,24 @@ jobs:
         with:
           name: site
           path: site
-
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
       - name: Install link checker
-        run: |
-          # Install lychee link checker
-          cargo install lychee
-
+        run: npm install -g linkinator
       - name: Run link checks
-        run: |
-          # Check for broken links in generated site
-          lychee site --no-progress --verbose
+        run: linkinator site --silent --markdown
 
   deploy:
     needs: test-site
     runs-on: ubuntu-latest
-
     steps:
       - name: Download built site
         uses: actions/download-artifact@v4
         with:
           name: site
           path: site
-
       - name: rsync deployments
         uses: burnett01/rsync-deployments@7.1.0
         with:
