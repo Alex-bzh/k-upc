@@ -44,9 +44,29 @@ jobs:
         with:
           name: site
           path: _site
+    
+  test-site:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download built site
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: site
+
+      - name: Install link checker
+        run: |
+          # Install lychee link checker
+          cargo install lychee-cli
+
+      - name: Run link checks
+        run: |
+          # Check for broken links in generated site
+          lychee site --no-progress --verbose
 
   deploy:
-    needs: build
+    needs: test-site
     runs-on: ubuntu-latest
 
     steps:
