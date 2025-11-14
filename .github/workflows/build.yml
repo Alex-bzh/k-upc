@@ -1,4 +1,4 @@
-name: Build Quarto site
+name: Build
 
 on:
   push:
@@ -10,21 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Récupérer le code source
+      # Get source code
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2️⃣ Installer Quarto
+      # Install Quarto
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: release
 
-      # 4️⃣ Construire le site
+      # Build site
       - name: Build site
         run: quarto render
 
-      # 5️⃣ Sauvegarder le dossier généré (_site)
+      # Keep '_site' folder
       - name: Upload built site
         uses: actions/upload-artifact@v4
         with:
