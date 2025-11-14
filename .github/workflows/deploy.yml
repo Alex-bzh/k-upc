@@ -20,7 +20,7 @@ jobs:
 
       # Copy to OVH server
       - name: Publish
-        uses: burnett01/rsync-deployments@v7.1
+        uses: burnett01/rsync-deployments@v7.1.0
         with:
           switches: -avz --delete
           path: site/
