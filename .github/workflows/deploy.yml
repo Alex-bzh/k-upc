@@ -15,8 +15,8 @@ jobs:
       - name: Download built site
         uses: actions/download-artifact@v4
         with:
-          name: site
-          path: site
+          name: _site
+          path: _site
 
       # Copy to OVH server
       - name: rsync deployments
