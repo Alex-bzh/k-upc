@@ -58,7 +58,7 @@ jobs:
       - name: Install link checker
         run: |
           # Install lychee link checker
-          cargo install lychee-cli
+          cargo install lychee
 
       - name: Run link checks
         run: |
