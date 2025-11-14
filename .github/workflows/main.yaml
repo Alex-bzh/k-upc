@@ -15,12 +15,13 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Install linters
+        run: |
+          npm install -g markdownlint-cli prettier
       - name: Run linters
-        run: |
-          npx markdownlint-cli "**/*.md"
+        run: markdownlint-cli "**/*.md"
       - name: Run formatters / minifiers
-        run: |
-          npx prettier --check "**/*.md"
+        run: prettier --check "**/*.md"
 
   build:
     needs: test
