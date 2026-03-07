@@ -10,8 +10,10 @@ lang: fr
 
 ## Techniques de clés de bras (*Kansetzu-waza*){#kansetzu-waza}
 
+| **ude-garami**
+|   Technique de contôle et de luxation du coude sur bras fléchi.
 | **ude-gatame**
-|   Clé au coude sur bras tendu.
+|   Technique de contôle et de luxation du coude sur bras tendu.
 
 ## Techniques d’étranglement (*Shime-waza*){#shime-waza}
 
