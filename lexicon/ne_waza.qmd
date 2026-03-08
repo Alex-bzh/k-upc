@@ -1,21 +1,27 @@
 ---
-title: "Lexique : Les clés et étranglements"
+title: "Lexique : Le travail au sol"
 lang: fr
 ---
 
-## Techniques de clés
+## Les techniques de contrôle (*Katame-waza*){#katame-waza}
+
+### Les immobilisations (*Osae-waza*){#osae-waza}
+
+| **hon-gesa-gatame** (contrôle latéro-costal)
+|   Technique de contrôle de uke en bloquant son bras et son buste grâce à un contact étroit et une position des jambes en ciseaux.
+| **yoko-shiho-gatame** (contrôle en croix)
+|   Contrôle latéral de uke en bloquant son tronc et sa tête.
+
+### Techniques de luxation (*Kansetzu-waza*){#kansetzu-waza}
 
 | **kote-gaeshi**
 |   Clé de poignet par supination.
-
-## Techniques de clés de bras (*Kansetzu-waza*){#kansetzu-waza}
-
 | **ude-garami**
 |   Technique de contôle et de luxation du coude sur bras fléchi.
 | **ude-gatame**
 |   Technique de contôle et de luxation du coude sur bras tendu.
 
-## Techniques d’étranglement (*Shime-waza*){#shime-waza}
+### Techniques d’étranglement (*Shime-waza*){#shime-waza}
 
 | **hadaka-jime**
 |   Étranglement arrière dans lequel la gorge du partenaire est compressée par le biceps et l’avant-bras. La main du bras qui effectue la compression vient s’enclencher dans la pliure du coude de l’autre bras qui, lui, verrouille l’étranglement en s’appuyant sur la nuque du partenaire.
