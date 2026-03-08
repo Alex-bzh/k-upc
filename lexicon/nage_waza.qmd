@@ -26,13 +26,15 @@ lang: fr
 | **nami-gaeshi** (retour de vague)
 |   Technique de balayage emblématique du kata *Tekki Shodan* au cours de laquelle le pied de la jambe avant remonte au niveau du genou en fauchant la jambe d’un opposant.
 | **ō-soto-gari** (grand fauchage extérieur)
-|   Un fauchage par l’extérieur de la jambe du partenaire qui intervient après un déséquilibre arrière.
+|   Un fauchage par l’extérieur de la jambe avancée du partenaire qui intervient après un déséquilibre arrière.
 | **ō-uchi-gari** (grand fauchage intérieur)
-|   Suite à un déséquilibre arrière, *tori* vient faucher la jambe du partenaire en passant par l’intérieur.
+|   Suite à un déséquilibre arrière, *tori* vient faucher la jambe arrière du partenaire en passant par l’intérieur.
 
 ## Techniques de sacrifice (*Sutemi-waza*){#sutemi-waza}
 
 | **kani-basami** (la pince du crabe)
 |   Fauchage en ciseaux au cours duquel la jambe inférieure passe derrière celles de *uke* tandis que la jambe supérieure vient cisailler la taille afin de le faire chuter vers l’arrière grâce au poids et, éventuellement, à un tirage de la manche.
 | **ko-uchi-gari-maki-komi**
-|   Petit fauchage intérieur en enroulant au sol.
+|   Fauchage intérieur de la jambe avancée du partenaire en enroulant au sol.
+| **ō-uchi-gari-maki-komi**
+|   Grand fauchage intérieur de la jambe reculée du partenaire en enroulant au sol.
