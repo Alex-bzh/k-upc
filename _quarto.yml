@@ -31,6 +31,22 @@ website:
             text: "Ceinture marron"
           - href: learning/first_dan.qmd
             text: "Ceinture noire 1er dan"
+      - text: "Bunkai"
+        menu:
+          - href: bunkai/heian_shodan.qmd
+          - text: "Heian Shodan"
+          - href: bunkai/heian_nidan.qmd
+          - text: "Heian Nidan"
+          - href: bunkai/heian_sandan.qmd
+          - text: "Heian Sandan"
+          - href: bunkai/heian_yondan.qmd
+          - text: "Heian Yondan"
+          - href: bunkai/heian_godan.qmd
+          - text: "Heian Godan"
+          - href: bunkai/tekki_shodan.qmd
+          - text: "Tekki Shodan"
+          - href: bunkai/empi.qmd
+          - text: "Empi"
       - text: "Lexique"
         menu:
           - href: lexicon/unsoku.qmd
