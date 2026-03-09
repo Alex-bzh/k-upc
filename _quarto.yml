@@ -52,6 +52,8 @@ website:
       style: docked
       collapse-level: 2
       contents:
+        - href: bunkai/principles.qmd
+          text: "Principes"
         - section: "1er dan"
           contents:
             - href: bunkai/heian_shodan.qmd

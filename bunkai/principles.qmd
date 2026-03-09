@@ -1,0 +1,18 @@
+---
+title: "Qu’est-ce qu’un *bunkai* ?"
+lang: fr
+---
+
+## Définition
+
+Dans le cadre de la pratique du karaté, les *bunkai* sont des applications martiales sur des séquences de katas. Les pratiquant·es sont encouragé·es à décomposer les enchaînements et à analyser leurs mouvements afin soit de révéler une vérité sous-jacente soit de fournir une interprétation toute personnelle qui respecte toutefois l’esprit originel du kata.
+
+Ainsi, même si davantage de liberté est laissée aux élèves, il s’agit toujours d’un exercice codifié qui impose un cadre de travail rigoureux propice à la réflexion et au développement d’une problématique de l’intentionnalité. S’atteler à l’explication d’une séquence de mouvements suppose en effet une première étape de représentation de l’action à effectuer. Il s’ensuit une réaction appropriée, sous forme d’argumentaire contraint par les mouvements du kata, puis une phase d’exécution où le corps s’évertue à traduire les schémas mentaux coordonnés avec ses partenaires.
+
+## La dualité *omote*/*ura*
+
+Dans l‘esprit des arts martiaux traditionnels, il existe des techniques réservées aux disciples qui, en plus de suivre fidèlement les enseignements sur le long terme, s’impliquent dans la vie de l’école. Par opposition, les élèves qui débutent n’ont accès qu’à des techniques simples et imparfaites : leur rigidité les rend souvent peu efficaces dans la réalité.
+
+On retrouve cette distinction dans la pensée japonaise derrière les principes *omote* et *ura* : pour le premier, il s’agit d’offrir une interprétation littérale du kata, sans invention ni créativité, et qui ne s’attarde pas non plus sur des notions d’adaptation, d’opportunité ou de potentiel d’efficacité ; quant au second, il exprime l’idée d’une recherche plus approfondie qui privilégie l’étude du mouvement dans sa finalité plutôt que dans évidente apparence.
+
+Le principe *omote* pourrait ainsi se comprendre comme l’explication droite d’un geste du kata, projetée dans un plan orthogonal action/réaction, et le principe *ura* comme son explication adroite, une forme d’exégèse. En clair, une technique *gedan barai* dans une séquence se conceverait comme un blocage vers le bas selon le principe *omote* mais pourrait s’interpréter comme un coup de poing dans une perspective *ura*.
