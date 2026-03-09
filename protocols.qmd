@@ -5,7 +5,7 @@ lang: fr
 
 ## Les saluts
 
-### Se saluer entre pratiquant·es
+### Se saluer entre élèves
 
 À la fin et avant tout exercice avec partenaire, il est de coutûme de se saluer en *musubi-dachi*.
 
