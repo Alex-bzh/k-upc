@@ -42,6 +42,7 @@ Au terme des saluts assis, le ou la professeur·e se relève seul·e, en levant 
 ### Le *kihon* en ligne
 
 Les candidat·es sont en posture *hachiji-dachi*. Au premier commandement *yoi*, ils et elles saluent le jury et reprennent leur posture de départ. Le second commandement leur indique la garde à adopter : gauche ou droite, et, éventuellement la posture. Si cette dernière est omise, les candidat·es devront se positionner par défaut en *zenkutsu-dachi* et effectuer la technique *gedan barai*. Exemples :
+
 - *Hidari kamae* : garde gauche en *zenkutsu-dachi*
 - *Migi kōkutsu-dachi kamae* : garde droite en *kōkutsu-dachi*
 
