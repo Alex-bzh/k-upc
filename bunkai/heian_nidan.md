@@ -51,8 +51,3 @@ Tori et uke sont en garde gauche.
 
 1. Tori attaque oi-zuki chūdan. Uke bloque shuto-uke en kōkutsu-dachi en se décalant vers l’intérieur et contre shuto-uke à la gorge en avançant en kōkutsu-dachi grâce à un changement de jambes et après avoir saisi le poignet de tori. Tori se remet en garde en reculant.
 2. Tori est garde gauche et uke garde droite. Tori attaque à nouveau oi-zuki chūdan. Uke bloque toujours shuto-uke en kōkutsu-dachi mais en se décalant vers l’extérieur. Il contre ensuite en effectuant un ude-gatame du bras arrière et conduit tori au sol.
-
-## Séquence 5
-
-
-

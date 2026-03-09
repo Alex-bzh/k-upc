@@ -20,10 +20,6 @@ Tori est en garde gacuhe, uke en garde droite. Les deux sont en posture haute.
 2. Tori et uke sont maintenant en garde gauche. Tori attaque sur place gyaku-zuki jōdan. Uke bloque gyaku age-zuki et rentre mae-geri jambe arrière. Tori évite le coup de pied avec un léger sursaut arrière en dehors de l’axe.
 3. Tori attaque pas chassé mawashi-geri jōdan. Uke bloque main ouverte puis, avant que la jambe de tori ne retombe au sol, balaie ko-uchi-gari. Pendant le déséquilibre, uke termine avec un gyaku-zuki au visage.
 
-## Séquence 3
-
-
-
 ## Séquence 4
 
 Tori et uke sont en garde gauche.
