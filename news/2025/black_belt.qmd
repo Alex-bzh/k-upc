@@ -1,0 +1,16 @@
+---
+title: "Deux nouvelles ceintures noires"
+lang: fr
+author: "Alex-Bzh"
+image: /images/news/categories/black_belt.jpg
+date: "2025-06-30"
+categories: "Accomplissements"
+---
+
+::: {.centered-figure}
+![Nos deux élèves ont raison d’être fières de leurs grades](/images/news/2025/gaia_camelia_dan.jpg){fig-align="center"}
+:::
+
+Dans un contexte polémique et sous des conditions climatiques éprouvantes, Gaia et Camélia n’ont pas relâché un instant leur détermination et ont su convaincre les jurys qu’elles méritaient leur premier *dan*. 
+
+Non seulement elles font partie de la promotion 2025 mais elles ont en plus obtenu les meilleures notes. Félicitations !
