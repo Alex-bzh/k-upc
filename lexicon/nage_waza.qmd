@@ -5,8 +5,10 @@ lang: fr
 
 ## Techniques de hanches (*Koshi-waza*){#koshi-waza}
 
-| **ō-goshi**
-|   Projection de hanche après un déséquilibre avant.
+| **koshi-guruma** (roue autour de la hanche)
+|   Projection de hanche après un déséquilibre avant en enroulant les bras autour du cou de uke.
+| **ō-goshi** (grande projection de hanche)
+|   Projection de hanche après un déséquilibre avant en saisissant uke dans le dos.
 
 ## Techniques de mains et de bras (*Te-waza*){#te-waza}
 
