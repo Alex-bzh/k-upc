@@ -7,23 +7,23 @@ lang: fr
 
 ### Les immobilisations (*Osae-waza*){#osae-waza}
 
-| **hon-gesa-gatame** (contrôle latéro-costal)
+| [**hon-gesa-gatame**](https://youtu.be/NDaQuJOFBYk){target="_blank"} (contrôle latéro-costal)
 |   Technique de contrôle de uke en bloquant son bras et son buste grâce à un contact étroit et une position des jambes en ciseaux.
-| **yoko-shiho-gatame** (contrôle en croix)
+| [**yoko-shiho-gatame**](https://youtu.be/TT7XJVSEQxA){target="_blank"} (contrôle en croix)
 |   Contrôle latéral de uke en bloquant son tronc et sa tête.
 
 ### Techniques de luxation (*Kansetzu-waza*){#kansetzu-waza}
 
 | **kote-gaeshi**
 |   Clé de poignet par supination.
-| **ude-garami**
-|   Technique de contôle et de luxation du coude sur bras fléchi.
-| **ude-gatame**
-|   Technique de contôle et de luxation du coude sur bras tendu.
+| [**ude-garami**](https://youtu.be/AIlTvZb4RlE){target="_blank"}
+|   Toute technique de contôle et de luxation du coude sur bras fléchi.
+| [**ude-gatame**](https://youtu.be/OWgSOlCuMXw){target="_blank"}
+|   Toute technique de contôle et de luxation du coude sur bras tendu. On peut citer parmi les plus pratiquées *ude-hishigi-juji-gatame* ou encore *ude-hishigi-waki-gatame*.
 
 ### Techniques d’étranglement (*Shime-waza*){#shime-waza}
 
-| **hadaka-jime**
+| [**hadaka-jime**](https://youtu.be/9f0n8jez7iA){target="_blank"}
 |   Étranglement arrière dans lequel la gorge du partenaire est compressée par le biceps et l’avant-bras. La main du bras qui effectue la compression vient s’enclencher dans la pliure du coude de l’autre bras qui, lui, verrouille l’étranglement en s’appuyant sur la nuque du partenaire.
 | **tate-ushiro-jime**
 |   Variante de *hadake-jime* dans laquelle la main du bras qui effectue la compression vient s’insérer dans l’autre main afin de finaliser le verrou.

@@ -5,38 +5,38 @@ lang: fr
 
 ## Techniques de hanches (*Koshi-waza*){#koshi-waza}
 
-| **koshi-guruma** (roue autour de la hanche)
+| [**koshi-guruma**](https://youtu.be/SU7Id6uVJ44){target="_blank"} (roue autour de la hanche)
 |   Projection de hanche après un déséquilibre avant en enroulant les bras autour du cou de uke.
-| **ō-goshi** (grande projection de hanche)
+| [**ō-goshi**](https://youtu.be/yhu1mfy2vJ4){target="_blank"} (grande projection de hanche)
 |   Projection de hanche après un déséquilibre avant en saisissant uke dans le dos.
 
 ## Techniques de mains et de bras (*Te-waza*){#te-waza}
 
-| **ippon-seoi-nage**
+| [**ippon-seoi-nage**](https://youtu.be/FQnOlCxo4oI){target="_blank"}
 |   Projection par l’épaule après un déséquilibre avant.
-| **tai-otoshi**
+| [**tai-otoshi**](https://youtu.be/4x6S3Q-Ktv8){target="_blank"}
 |   Après un déséquilibre vers l’avant, *tori* pivote et place sa jambe en barrage devant *uke* tout en tirant le revers de sa manche.
 
 ## Techniques de pieds et de jambes (*Ashi-waza*){#ashi-waza}
 
-| **de-ashi-barai**
+| [**de-ashi-harai**](https://youtu.be/4BUUvqxi_Kk){target="_blank"}
 |   Balayage du pied avancé.
-| **ko-soto-gari** (petit fauchage extérieur)
-|   Similaire à *de-ashi-barai* dans l’idée, il s’agit d’un fauchage par l’extérieur du pied avancé qui s’effectue toutefois après un déséquilibre arrière.
-| **ko-uchi-gari** (petit fauchage intérieur)
+| [**ko-soto-gari**](https://youtu.be/jeQ541ScLB4){target="_blank"} (petit fauchage extérieur)
+|   Similaire à *de-ashi-harai* dans l’idée, il s’agit d’un fauchage par l’extérieur du pied avancé qui s’effectue toutefois après un déséquilibre arrière.
+| [**ko-uchi-gari**](https://youtu.be/3Jb3tZvr9Ng){target="_blank"} (petit fauchage intérieur)
 |   Suite à un déséquilibre vers l’arrière, *tori* vient faucher la jambe du partenaire avec sa propre jambe avant tout en passant par l’intérieur.
 | **nami-gaeshi** (retour de vague)
 |   Technique de balayage emblématique du kata *Tekki Shodan* au cours de laquelle le pied de la jambe avant remonte au niveau du genou en fauchant la jambe d’un opposant.
-| **ō-soto-gari** (grand fauchage extérieur)
+| [**ō-soto-gari**](https://www.youtube.com/watch?v=c-A_nP7mKAc){target="_blank"} (grand fauchage extérieur)
 |   Un fauchage par l’extérieur de la jambe avancée du partenaire qui intervient après un déséquilibre arrière.
-| **ō-uchi-gari** (grand fauchage intérieur)
+| [**ō-uchi-gari**](https://youtu.be/0itJFhV9pDQ){target="_blank"} (grand fauchage intérieur)
 |   Suite à un déséquilibre arrière, *tori* vient faucher la jambe arrière du partenaire en passant par l’intérieur.
 
 ## Techniques de sacrifice (*Sutemi-waza*){#sutemi-waza}
 
-| **kani-basami** (la pince du crabe)
+| [**kani-basami**](https://youtu.be/OR-HGHnarYc){target="_blank"} (la pince du crabe)
 |   Fauchage en ciseaux au cours duquel la jambe inférieure passe derrière celles de *uke* tandis que la jambe supérieure vient cisailler la taille afin de le faire chuter vers l’arrière grâce au poids et, éventuellement, à un tirage de la manche.
-| **ko-uchi-gari-maki-komi**
+| [**ko-uchi-gari-maki-komi**](https://youtu.be/_1eygIXLD_w){target="_blank"}
 |   Fauchage intérieur de la jambe avancée du partenaire en enroulant au sol.
 | **ō-uchi-gari-maki-komi**
-|   Grand fauchage intérieur de la jambe reculée du partenaire en enroulant au sol.
+|   En garde inverse, fauchage intérieur de la jambe avancée du partenaire avec accompagnement au sol.
