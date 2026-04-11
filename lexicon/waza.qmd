@@ -34,8 +34,10 @@ Les *waza* constituent le vocabulaire de tout·e karatéka·te. Connaître l’e
 |   Défense circulaire avec le plat de la main dans un mouvement de l’extérieur vers l’intérieur.
 | **osae-uke**
 |   Défense avec pression de la main.
+| **shutō-barai**
+|   Blocage au niveau inférieur effectué avec le tranchant de la main, dans un mouvement circulaire allant de l’intérieur vers l’extérieur.
 | **shutō-uke**
-|   Blocage avec le tranchant de la main dans un mouvement circulaire partant de l’intérieur et allant vers l’extérieur.
+|   Blocage au niveau médian effectué avec le tranchant de la main dans un mouvement circulaire allant de l’intérieur vers l’extérieur.
 | **sukui-uke**
 |   Défense circulaire en puisant avec la main, généralement de l’extérieur vers l’intérieur, souvent dans l’intention de rediriger une attaque de jambe.
 | **tate-shutō-uke**
@@ -88,8 +90,6 @@ Les *waza* constituent le vocabulaire de tout·e karatéka·te. Connaître l’e
 |   Attaque criculaire main ouverte avec le tranchant interne.
 | **koken-uchi**
 |   Frappe avec le dessus du poignet.
-| **yonhon-nukite**
-|   Attaque directe main ouverte avec les quatre doigts serrés.
 | **shutō-uchi**
 |   Attaque circulaire main ouverte avec le tranchant externe.
 | **teishō-uchi**
@@ -98,6 +98,8 @@ Les *waza* constituent le vocabulaire de tout·e karatéka·te. Connaître l’e
 |   Frappe circulaire avec la main en marteau.
 | **uraken-uchi**
 |   Frappe circulaire avec le revers du poing.
+| **yonhon-nukite**
+|   Attaque directe main ouverte avec les quatre doigts serrés.
 
 ## Attaques de pied (*Keri-waza*){#keri-waza}
 
