@@ -6,7 +6,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "Félicitations à Gaia et à Camélia pour leur grade de ceinture noire !m!"
+    content: "Fraîchement arrivée d’Allemagne avec sa ceinture marron, Aurea vient d’obtenir son 1er dan !"
     type: primary
     position: below-navbar
   title: "Karaté UPC"
