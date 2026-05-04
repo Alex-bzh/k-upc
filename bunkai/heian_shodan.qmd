@@ -79,9 +79,17 @@ Tori est en garde droite, uke en garde gauche.
 
 ### Basique
 
-Tori est en garde droite et uke en garde gauche.
+Tori et uke sont en garde droite.
 
 Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* et remise une première fois *tettsui-uchi* avant d’enchaîner *oi-zuki* après un changement de garde.
+
+### Avancée
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* avec un léger recul.
+2. Tori enchaîne avec un *gyaku-zuki* au corps. Uke bloque *soto-uke* avant de remiser du même bras avec un coup de coude au visage grâce à un léger sursaut avant.
+3. Uke poursuit avec un *hiza-geri* de la jambe arrière au corps avant de finir en *ō-soto-gari*.
 
 :::
 
