@@ -11,14 +11,12 @@ Premier kata de la série initiatique, on distingue 8 séquences :
 
 1. *Gedan-barai* en *zenkutsu-dachi* gauche, puis *oi-zuki chūdan* en *zenkutsu-dachi* droite.
 2. *Gedan-barai* en *zenkutsu-dachi* droite, puis *tate-mawashi tettsui-uchi* en *moto-dachi* sur place avant d’avancer *oi-zuki chūdan* en *zenkutsu-dachi* gauche.
-3. *Gedan-barai* en *zenkutsu-dachi* gauche puis, sur place, *age-shuto-uke* du bras gauche. Suivent trois *jōdan-age-uke* en *zenkutsu-dachi*.
+3. *Gedan-barai* en *zenkutsu-dachi* gauche puis, sur place, *age-shuto-uke* du bras gauche. Suivent trois *jōdan-age-uke* en *zenkutsu-dachi*, avec **kiai** sur le dernier.
 4. *Gedan-barai* en *zenkutsu-dachi* gauche, puis *oi-zuki chūdan* en *zenkutsu-dachi* droite.
 5. *Gedan-barai* en *zenkutsu-dachi* droite, puis *oi-zuki chūdan* en *zenkutsu-dachi* gauche.
-6. *Gedan-barai* en *zenkutsu-dachi* gauche suivi de trois *oi-zuki chūdan* en *zenkutsu-dachi* en avançant.
+6. *Gedan-barai* en *zenkutsu-dachi* gauche suivi de trois *oi-zuki chūdan* en *zenkutsu-dachi* en avançant, avec **kiai** sur le dernier.
 7. *Shutō-uke* en *kōkutsu-dachi* gauche suivi de *shutō-uke* en *kōkutsu-dachi* droite.
 8. *Shutō-uke* en *kōkutsu-dachi* droite suivie de *shutō-uke* en *kōkutsu-dachi* gauche.
-
-Les *kiai* se placent à la fin des 3^e^ et 6^e^ séquences.
 
 :::
 
@@ -59,6 +57,12 @@ Les *kiai* se placent à la fin des 3^e^ et 6^e^ séquences.
 Tori et uke sont en garde gauche.
 
 Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* et remise *oi-zuki* après un changement de garde.
+
+### Avancée
+
+Tori et uke sont en garde gauche.
+
+Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* et remise *gyaku-zuki* au corps avant de finir avec de finir avec *hiza-geri* de la jambe arrière.
 
 ### Enchaînée avec séquence 2
 
