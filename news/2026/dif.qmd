@@ -8,7 +8,7 @@ categories: "Accomplissements"
 ---
 
 ::: {.centered-figure}
-![](/images/news/2026/camelia_dif.png){fig-align="center"}
+![Camélia vient de réussir son diplôme d’instructrice fédérale](/images/news/2026/camelia_dif.png){fig-align="center"}
 :::
 
 Après avoir réussi son examen de ceinture noire l’année dernière, Camélia récidive cette année avec son diplôme d’instructrice fédérale !
