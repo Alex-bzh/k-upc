@@ -3,7 +3,59 @@ title: "Bunkai : Heian Nidan"
 lang: fr
 ---
 
+Second kata de la série initiatique *Heian*, son appellation peut se traduire par « paix et tranquillité, niveau deux ».
+
+:::: {.grid}
+
+::: {.g-col-8}
+Vidéo du kata à venir.
+<!--
+{{< video videos/katas/heian_nidan.mp4
+    aria-label="Démonstration du kata Heian Nidan"
+    title="Kata Heian Nidan"
+>}}
+-->
+
+:::
+
+::: {.g-col-4}
+
+```{=html}
+<figure>
+  <svg viewBox="0 0 500 420" xmlns="http://www.w3.org/2000/svg">
+    <title>Embusen de Heian Nidan</title>
+
+    <g stroke="black" stroke-width="2.5" stroke-linecap="round" fill="none">
+      <line x1="220" y1="340" x2="140" y2="340"/>
+      <line x1="140" y1="340" x2="83"  y2="283"/>
+      <line x1="220" y1="340" x2="277" y2="283"/>
+      <line x1="220" y1="340" x2="220" y2="100"/>
+      <line x1="220" y1="100" x2="300" y2="100"/>
+      <line x1="300" y1="100" x2="357" y2="157"/>
+      <line x1="220" y1="100" x2="163" y2="157"/>
+    </g>
+
+    <circle cx="220" cy="340" r="12" fill="#C0202A"/>
+  </svg>
+  <figcaption class="text-center">Embusen de Heian Nidan</figcaption>
+</figure>
+```
+
+:::
+
+::::
+
 ## Séquence 1
+
+**Techniques :**
+
+- Vers la gauche, *jōdan tate-uke* du bras gauche et *ude soete* du bras droit en *kōkutsu-dachi* gauche.
+- Sur place, *soto-ude-uke* du bras gauche et *chūdan ura-zuki* du bras droit.
+- Sur place, *jōdan tettsui-uchi* du bras gauche.
+
+::: {.panel-tabset}
+
+### Bunkai de base
 
 Tori est en garde gauche, uke en garde droite.
 
@@ -11,7 +63,7 @@ Tori est en garde gauche, uke en garde droite.
 2. Tori enchaîne sur place gyaku-zuki chūdan. Uke bloque soto-ude-uke sur place puis remise avec un chūdan ura-zuki avant de déplier jōdan tettsui-uchi.
 3. **Optionnel :** Uke peut terminer avec un ko-soto-gari.
 
-## Séquence 1 : variante avancée
+### Avancé
 
 Tori et uke sont en garde gauche.
 
@@ -21,7 +73,19 @@ Tori et uke sont en garde gauche.
 4. Uke effectue à présent un changement de garde en saisissant le poignet de tori avec la main gauche et remise *uraken* de l’autre. Il agrippe ensuite tori et, après avoir relâché la prise sur son poignet, il le frappe au visage avec un coup de coude circulaire.
 5. Pour finir, uke reprend le poignet de tori comme précédemment, se recule légèrement et frappe au-dessus du coude avec un *soto-ude-uke* en *kōkutsu-dachi*. Il termine par un *ko-soto-gari*.
 
+:::
+
 ## Séquence 2
+
+**Techniques :**
+
+- Demi-tour, *jōdan tate-uke* du bras droit et *ude soete* du bras gauche en *kōkutsu-dachi* droite.
+- Sur place, *soto-ude-uke* du bras droit et *chūdan ura-zuki* du bras gauche.
+- Sur place, *jōdan tettsui-uchi* du bras droit.
+
+::: {.panel-tabset}
+
+### Bunkai intermédiaire
 
 Tori et uke sont en garde gauche.
 
@@ -29,7 +93,23 @@ Tori et uke sont en garde gauche.
 2. Uke enchaîne avec un tsugi-ashi yogo-geri kekomi puis, avant de reposer la jambe, évacue vers l’extérieur le bras de tori, change de prise, effectue un demi-tour et retombe en kōkutsu-dachi tout en frappant tori du coude au niveau du torse.
 3. **Optionnel :** Uke termine en ippon-seoi-nage.
 
+:::
+
 ## Séquence 3
+
+::: {.panel-tabset}
+
+### Bunkai intermédiaire
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque oi-zuki jōdan. Uke bloque en reculant jōdan uraken-uchi et saisit de suite le poignet de tori.
+2. Uke enchaîne avec un tsugi-ashi yogo-geri kekomi puis, avant de reposer la jambe, évacue vers l’extérieur le bras de tori, change de prise, effectue un demi-tour et retombe en kōkutsu-dachi tout en frappant tori du coude au niveau du torse.
+3. **Optionnel :** Uke termine en ippon-seoi-nage.
+
+:::
+
+## Séquence 3x
 
 Tori et uke sont en garde gauche.
 
