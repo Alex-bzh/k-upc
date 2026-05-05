@@ -7,6 +7,10 @@ date: "2026-04-28"
 categories: "Accomplissements"
 ---
 
+::: {.centered-figure}
+![](/images/news/2026/camelia_dif.png){fig-align="center"}
+:::
+
 Après avoir réussi son examen de ceinture noire l’année dernière, Camélia récidive cette année avec son diplôme d’instructrice fédérale !
 
 En formation au club depuis le début de l’année, elle a su emporter l’adhésion de toutes et tous grâce à se perspicacité technique et aux activités ciblées et variées qu’elle leur a proposées. Riche de cette expérience, et alors même qu’elle est à quelques semaines de soutenir sa thèse de médecine, elle a écrit un rapport qui a su pleinement convaincre le jury de son aptitude à encadrer des élèves en toute autonomie.
