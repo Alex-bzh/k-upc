@@ -3,7 +3,7 @@ title: "Bunkai : Heian Shodan"
 lang: fr
 ---
 
-Premier kata de la série initiatique Heian, son appellation peut se traduire par « paix et tranquillité, niveau un ».
+Premier kata de la série initiatique *Heian*, son appellation peut se traduire par « paix et tranquillité, niveau un ».
 
 :::: {.grid}
 
@@ -48,7 +48,10 @@ Vidéo du kata à venir.
 
 ## Séquence 1
 
-**Techniques :** Vers la gauche, *gedan-barai* en *zenkutsu-dachi* gauche, puis *oi-zuki chūdan* en *zenkutsu-dachi* droite.
+**Techniques :**
+
+- Vers la gauche, *gedan-barai* en *zenkutsu-dachi* gauche.
+- En avançant, *oi-zuki chūdan* en *zenkutsu-dachi* droite.
 
 ::: {.panel-tabset}
 
@@ -91,7 +94,11 @@ Tori est en garde droite, uke en garde gauche.
 
 ## Séquence 2
 
-**Techniques :** Demi-tour avec un *gedan-barai* en *zenkutsu-dachi* droite, puis *tate-mawashi tettsui-uchi* en *moto-dachi* sur place avant d’avancer *oi-zuki chūdan* en *zenkutsu-dachi* gauche.
+**Techniques :**
+
+- Demi-tour avec un *gedan-barai* en *zenkutsu-dachi* droite.
+- Sur place, *tate-mawashi tettsui-uchi* en *moto-dachi*.
+- En avançant, *oi-zuki chūdan* en *zenkutsu-dachi* gauche.
 
 ::: {.panel-tabset}
 
@@ -113,7 +120,11 @@ Tori et uke sont en garde droite.
 
 ## Séquence 3
 
-**Techniques :** Déplacement à angle droit autour du pied arrière, *gedan-barai* en *zenkutsu-dachi* gauche puis, sur place, *age-shuto-uke* du bras gauche. Suivent trois *jōdan-age-uke* en *zenkutsu-dachi*, avec **kiai** sur le dernier.
+**Techniques :**
+
+- Déplacement à angle droit autour du pied arrière, *gedan-barai* en *zenkutsu-dachi* gauche.
+- Sur place, *age-shuto-uke* du bras gauche.
+- En avançant, suivent trois *jōdan-age-uke* en *zenkutsu-dachi* avec **kiai** sur le dernier.
 
 ::: {.panel-tabset}
 
@@ -141,7 +152,10 @@ Tori et uke sont en garde gauche.
 
 ## Séquence 4
 
-**Techniques :** Grande rotation autour du pied arrière, *gedan-barai* en *zenkutsu-dachi* gauche, puis *oi-zuki chūdan* en *zenkutsu-dachi* droite.
+**Techniques :**
+
+- Grande rotation autour du pied arrière, *gedan-barai* en *zenkutsu-dachi* gauche.
+- En avançant, *oi-zuki chūdan* en *zenkutsu-dachi* droite.
 
 ::: {.panel-tabset}
 
@@ -162,11 +176,17 @@ Tori et uke sont en garde gauche.
 
 ## Séquence 5
 
-**Techniques :** Demi-tour avec un *gedan-barai* en *zenkutsu-dachi* droite, puis *oi-zuki chūdan* en *zenkutsu-dachi* gauche.
+**Techniques :**
+
+- Demi-tour avec un *gedan-barai* en *zenkutsu-dachi* droite.
+- En avançant, *oi-zuki chūdan* en *zenkutsu-dachi* gauche.
 
 ## Séquence 6
 
-**Techniques :** Déplacement à angle droit autour du pied arrière, *gedan-barai* en *zenkutsu-dachi* gauche suivi de trois *oi-zuki chūdan* en *zenkutsu-dachi* en avançant, avec **kiai** sur le dernier.
+**Techniques :**
+
+- Déplacement à angle droit autour du pied arrière, *gedan-barai* en *zenkutsu-dachi* gauche.
+- En avançant, trois *oi-zuki chūdan* en *zenkutsu-dachi* avec **kiai** sur le dernier.
 
 ::: {.panel-tabset}
 
@@ -188,7 +208,10 @@ Tori et uke sont en garde gauche.
 
 ## Séquence 7
 
-**Techniques :** Grande rotation autour du pied arrière, puis *shutō-uke* en *kōkutsu-dachi* gauche suivi de *shutō-uke* en *kōkutsu-dachi* droite dans la diagonale intérieure.
+**Techniques :**
+
+- Grande rotation autour du pied arrière, puis *shutō-uke* en *kōkutsu-dachi* gauche.
+- En avançant dans la diagonale intérieure, *shutō-uke* en *kōkutsu-dachi* droite.
 
 ::: {.panel-tabset}
 
@@ -209,7 +232,10 @@ Tori et uke sont en garde gauche.
 
 ## Séquence 8
 
-**Techniques :** Quasi demi-tour avec un *shutō-uke* en *kōkutsu-dachi* droite suivie de *shutō-uke* en *kōkutsu-dachi* gauche dans la diagonale intérieure.
+**Techniques :**
+
+- Quasi demi-tour avec un *shutō-uke* en *kōkutsu-dachi* droite.
+- En avançant dans la diagonale intérieure, *shutō-uke* en *kōkutsu-dachi* gauche.
 
 ::: {.panel-tabset}
 
