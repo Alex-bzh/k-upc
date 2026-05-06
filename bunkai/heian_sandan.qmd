@@ -3,35 +3,148 @@ title: "Bunkai : Heian Sandan"
 lang: fr
 ---
 
+Troisième kata de la série initiatique *Heian*, son appellation peut se traduire par « paix et tranquillité, niveau trois ».
+
+:::: {.grid}
+
+::: {.g-col-8}
+Vidéo du kata à venir.
+<!--
+{{< video videos/katas/heian_sandan.mp4
+    aria-label="Démonstration du kata Heian Sandan"
+    title="Kata Heian Sandan"
+>}}
+-->
+
+:::
+
+::: {.g-col-4}
+
+```{=html}
+<figure>
+  <svg viewBox="0 0 500 420" xmlns="http://www.w3.org/2000/svg">
+    <title>Embusen de Heian Sandan</title>
+
+    <g stroke="black" stroke-width="2.5" stroke-linecap="round" fill="none">
+      <line x1="220" y1="340" x2="140" y2="340"/>
+      <line x1="220" y1="340" x2="300" y2="340"/>
+      <line x1="220" y1="340" x2="220" y2="20"/>
+    </g>
+
+    <circle cx="220" cy="340" r="12" fill="#C0202A"/>
+  </svg>
+  <figcaption class="text-center">Embusen de Heian Sandan</figcaption>
+</figure>
+```
+
+:::
+
+::::
+
 ## Séquence 1
+
+**Techniques :**
+
+- Vers la gauche, *uchi-uke* en *kōkutsu-dachi* gauche.
+- En ramenant le pied arrière, *kōsa-uke* avec le poing droit en haut en *heisoku-dachi*.
+- Sur place, *kōsa-uke* avec le poing gauche en haut en *heisoku-dachi*.
+
+::: {.panel-tabset}
+
+### Bunkai de base
 
 Tori et uke sont en garde gauche.
 
-1. Tori attaque oi-zuki chūdan puis gyaku-zuki chūdan. Uke bloque uchi-uke puis gyaku uchi-uke avant de remiser kizami-zuki chūdan.
-2. Tori, en garde droite, attaque oi-zuki chūdan. Uke effectue un déplacement mawari-ashi d’à peine un quart de tour vers l’extérieur et bloque uchi-uke bras avant tout en frappant gyaku tettsui-uchi.
+1. Tori attaque *oi-zuki* suivi de *gyaku-zuki*, tous les deux au corps. Uke bloque *uchi-uke* puis *gyaku uchi-uke* avant de remiser *kizami-zuki* au corps.
+2. Tori, en garde droite, attaque *oi-zuki*. Uke effectue un déplacement *mawari-ashi* d’à peine un quart de tour vers l’extérieur de tori et bloque *uchi-uke* du bras avant tout en frappant *gyaku tettsui-uchi* de l’autre.
+
+:::
 
 ## Séquence 2
 
+**Techniques :**
+
+- Demi-tour, *uchi-uke* en *kōkutsu-dachi* droite.
+- En ramenant le pied arrière, *kōsa-uke* avec le poing gauche en haut en *heisoku-dachi*.
+- Sur place, *kōsa-uke* avec le poing droit en haut en *heisoku-dachi*.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
 Tori et uke sont en garde droite.
 
-1. Tori attaque oi-zuki chūdan suivi de mae-geri chūdan de la jambe arrière posée devant. Uke bloque uchi-uke le coup de poing puis gedan-barai le coup de pied tout en effectuant un déplacement ushiro-mawari-ashi qui, au terme de la rotation, le positionne derrière tori.
-2. Tori, de dos à uke, tente de refaire face en effectuant un mawatte associé à une attaque uraken-uchi. Uke bloque uchi-uke puis se rapproche pour balayer avec un ō-soto-gari.
+1. Tori attaque *oi-zuki* au corps suivi d’un *mae-geri* de la jambe arrière posée devant. Uke bloque le premier avec *uchi-uke* et le second avec un *gedan-barai* très ample qui envoie loin la jambe de tori et l’oblige à se retrouver en garde gauche.
+2. Tori enchaîne *uraken-uchi* sur place à la tête. Uke bloque *uchi-uke* en se décalant vers la gauche pour changer de garde.
+3. Uke remise *gyaku-zuki* avant de se rapprocher et de faire chuter tori avec *ō-soto-gari*.
+
+:::
 
 ## Séquence 3
 
+**Techniques :**
+
+- Rotation à angle droit vers l’avant, *chūdan morote-uke* en *kōkutsu-dachi* gauche.
+- Sur place, *osae-uke*.
+- En avançant, *yonhon-nukite* en *zenkutsu-dachi* droite.
+- Rotation *mawari-ashi* vers l’avant, *chūdan tettsui-uchi* en *kiba-dachi* gauche.
+- En avançant, *oi-zuki* en *zenkutsu-dachi* droite avec **kiai**.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
 Tori et uke sont en garde gauche.
 
-1. Tori attaque oi-zuki chūdan. Uke effectue un mawari-ashi pour bloquer uchi-uke et, dans le même temps, remiser ura-zuki.
-2. Tori, en garde droite, attaque mae-geri jambe arrière posée devant. Uke bloque osae-uke pour remiser yonhon-nukite en changeant de garde. Tori bloque puis saisit le poignet de uke. Uke termine la séquence en effectuant un mawari-ashi complet puis tettsui-uchi à la nuque avant d’entamer la projection dans une forme de ō-soto-gari.
+1. Tori attaque *oi-zuki* au corps. Uke effectue un mawari-ashi pour bloquer *uchi-uke* et, dans le même temps, remiser *ura-zuki*.
+2. Tori, en garde droite, attaque *mae-geri* jambe arrière posée devant. Uke bloque *osae-uke*.
+3. Uke remise *nukite* en changeant de garde. Tori bloque puis saisit le poignet de uke.
+4. Uke termine la séquence en effectuant un *mawari-ashi* complet puis *tettsui-uchi* à la nuque avant de projeter tori dans une forme de *ō-soto-gari*.
+
+:::
 
 ## Séquence 4
 
+**Techniques :**
+
+- Demi-tour en *mawari-ashi* , *ryōken koshi-kamae* en *heisoku-dachi*.
+- En avançant, *mikatsuki-geri* en *kiba-dachi* droite avec *empi-uchi* suivi de *jōdan uraken-uchi*.
+- En avançant, *mikatsuki-geri* en *kiba-dachi* gauche avec *empi-uchi* suivi de *jōdan uraken-uchi*.
+- En avançant, *mikatsuki-geri* en *kiba-dachi* droite avec *empi-uchi* suivi de *jōdan uraken-uchi*.
+- Sur place, *tate-shutō*.
+- En avançant, *oi-zuki* en *zenkutsu-dachi* gauche.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
 Tori et uke sont en garde gauche.
 
-1. Tori attaque oi-zuki chūdan. Uke bloque mikazuki-geri avec retrait de la jambe avant pour gagner de la distance et, en retombant kiba-dachi, frappe empi-uchi. Uke termine la séquence en attrapant le bras avant de uke avec la main arrière et enclenche un ko-uchi-gari-maki-komi.
+1. Tori attaque *oi-zuki* au corps. Uke bloque *mikazuki-geri* avec retrait de la jambe avant pour gagner de la distance et, en retombant *kiba-dachi*, frappe *empi-uchi*.
+2. Uke termine la séquence en attrapant le bras avant de uke avec la main arrière et enclenche un *ko-uchi-gari-maki-komi*.
 
-## Séquence 5
+### Enchaîné avec la séquence 5
 
 Tori et uke sont en garde droite.
 
-1. Tori attaque oi-zuki chūdan. Uke bloque tate-shuto puis saisit le poignet. Remise oi-zuki chūdan tout en changeant de garde après un retrait de la jambe avant. Uke termine la séquence avec un ude-gatame en changeant encore une fois de garde.
+1. Tori attaque *oi-zuki* au corps. Uke bloque *tate-shutō* puis saisit le poignet de tori avant de remiser *oi-zuki* au corps tout en changeant de garde.
+2. Uke change à nouveau de garde en passant le bras de tori au-dessus et termine avec *waki-gatame*.
+
+:::
+
+## Séquence 5
+
+**Techniques :**
+
+- Grande rotation vers la gauche après avoir ramené le pied droit, *tate-zuki* droit et *ushiro empi-uchi* gauche en *kiba-dachi*.
+- Pas glissé vers la droite, *tate-zuki* gauche et *ushiro empi-uchi* droit en *kiba-dachi*, **kiai**.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori enserre uke au corps des deux bras.
+
+Uke descend en *kiba-dachi* gauche tout en levant les bras pour déserrer la prise, puis frappe avec un coup de coude gauche. Il réitère le coup de coude de l’autre côté après un déplacement glissé.
+
+:::

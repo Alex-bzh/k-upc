@@ -171,11 +171,17 @@ Tori est en garde droite, uke en garde gauche.
 
 ::: {.panel-tabset}
 
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+Tori attaque *oi-zuki* au corps. Uke bloque *shuto-uke* en *kōkutsu-dachi* grâce à un déplacement *mawari-ashi* avant d’effectuer un changement de garde et de contrer *shutō-uke* à la gorge.
+
 ### Enchaîné avec la séquence 6
 
 Tori et uke sont en garde gauche.
 
-1. Tori attaque *oi-zuki* au corps. Uke bloque *shuto-uke* en *kōkutsu-dachi* en se décalant vers l’intérieur. Il saisit le poignet de tori, effectue un changement de jambes et contre *shuto-uchi* à la gorge en avançant en *kōkutsu-dachi*. Tori se remet en garde en reculant.
+1. Tori attaque *oi-zuki* au corps. Uke bloque *shuto-uke* en *kōkutsu-dachi* en se décalant vers l’intérieur. Il saisit le poignet de tori, effectue un changement de jambes et contre *shuto-uke* à la gorge en avançant en *kōkutsu-dachi*. Tori se remet en garde en reculant.
 2. Tori est garde gauche et uke garde droite. Tori attaque à nouveau *oi-zuki* au corps. Uke bloque toujours *shuto-uke* en *kōkutsu-dachi* mais en se décalant cette fois-ci vers l’extérieur. Il saisit ensuite le poignet de tori et contre en frappant *soto-uke* au niveau du coude du bras tendu et amène tori au sol avec *ude-hishigi-waki-gatame*.
 
 :::
@@ -186,3 +192,112 @@ Tori et uke sont en garde gauche.
 
 - Quasi demi-tour avec un *shutō-uke* en *kōkutsu-dachi* droite.
 - En avançant dans la diagonale intérieure, *shutō-uke* en *kōkutsu-dachi* gauche.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori est en garde droite et uke en garde gauche.
+
+Tori attaque *oi-zuki* au corps. Uke bloque *shuto-uke* en *kōkutsu-dachi* grâce à un déplacement latéral vers l’extérieur. Il saisit le poignet de tori et, grâce à un changement de jambes, lui frappe dans les côtes avec le coude.
+
+### Intermédiaire
+
+Tori est en garde droite et uke en garde gauche.
+
+Tori attaque *oi-zuki* au corps. Uke bloque *nagashi-uke* *shuto-uke* en *kōkutsu-dachi* grâce à un déplacement *mawari-ashi* avant d’effectuer un changement de garde et de contrer *shutō-uke* à la gorge.
+
+:::
+
+## Séquence 7
+
+**Techniques :**
+
+- Rotation à 45° vers la gauche, *gyaku uchi-uke* en *zenkutsu-dachi* gauche.
+- En avançant, *mae-geri* jambe arrière posée devant.
+- Sur place, *gyaku-zuki* en *zenkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori est en garde droite, uke en garde gauche.
+
+Tori attaque *oi-zuki* au corps. Uke bloque en *gyaku uchi-uke* puis contre *mae-geri* de la jambe arrière avant de frapper une dernière fois *gyaku-zuki* au corps.
+
+:::
+
+## Séquence 8
+
+**Techniques :**
+
+- Sur place, *gyaku uchi-uke* en *moto-dachi*.
+- En avançant, *mae-geri* jambe arrière posée devant.
+- Sur place, *gyaku-zuki* en *zenkutsu-dachi* gauche.
+- En avançant, *chūdan morote-uke* en *zenkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque en *gyaku uchi-uke* puis saisit immédiatement le poignet de tori.
+2. Uke contre *mae-geri* au corps et, en retombant, effectue un *soto-uke* sur le coude du bras tendu de tori.
+3. Uke maintient sa prise de la main gauche et glisse le bras sous celui de tori pour le faire chuter avec *ko-soto-gari*.
+
+:::
+
+## Séquence 9
+
+**Techniques :**
+
+- Grande rotation vers la gauche, *gedan-barai* en *zenkutsu-dachi* gauche.
+- Sur place, *gyaku jōdan age-shuto-uke*.
+- En avançant, *jōdan age-uke* en *zenkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *mae-geri* au corps, suivi d’un *kizami-zuki* à la tête. Uke bloque *gedan-barai* puis *age-shuto-uke*.
+2. Tori saisit le poignet du bras tendu de tori avant de remiser avec un *ude-gatame* en avançant.
+
+### Enchaîné avec la séquence 10
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *mae-geri* au corps, suivi d’un *kizami-zuki* à la tête. Uke bloque *gedan-barai* puis *age-shuto-uke*.
+2. Uke contre *oi-zuki* à la tête. Tori recule pour bloquer *age-uke*.
+3. Tori enchaîne avec un autre *mae-geri* au corps de la jambe arrière. Uke bloque toujours *gedan-barai*.
+4. Tori poursuit avec un *uraken* du bras avant. Uke bloque *age-shuto-uke* et, après avoir saisi le poignet de tori, termine avec une frappe du coude en avançant.
+
+:::
+
+## Séquence 10
+
+**Techniques :**
+
+- Quasi demi-tour vers la droite, *gedan-barai* en *zenkutsu-dachi* gauche.
+- Sur place, *gyaku jōdan age-shuto-uke*.
+- En avançant, *jōdan age-uke* en *zenkutsu-dachi* gauche avec le **kiai**.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde droite.
+
+Tori attaque *mae-geri* au corps, suivi d’un *kizami-zuki* à la tête. Uke bloque *gedan-barai* puis *age-shuto-uke* avant de contrer avec un coup de coude à la tête tout en avançant.
+
+### Avancé
+
+Tori effectue une saisie directe du poignet gauche de uke.
+
+1. Uke recule la jambe gauche et se débarrasse de la saisie avec *gedan-barai*.
+2. Tori enchaîne immédiatement avec *uraken*. Uke bloque *age-shuto-uke* sur place, saisit à son tour le poignet de tori, puis rentre avec une frappe *soto-uke* sur le coude du bras tendu.
+3. Uke termine en amenant tori au sol avec *waki-gatame*.
+
+:::
