@@ -49,9 +49,12 @@ Vidéo du kata à venir.
 
 **Techniques :**
 
+- Vers la gauche, *haishu-uke* des deux bras en *kōkutsu-dachi* gauche.
+- Demi-tour vers la droite, *haishu-uke* des deux bras en *kōkutsu-dachi* droite.
+
 ::: {.panel-tabset}
 
-### Enchaîné avec la séquence 2
+### Bunkai de base
 
 Tori et uke sont en garde gauche.
 
@@ -59,5 +62,104 @@ Tori et uke sont en garde gauche.
 2. Tori enchaîne *gyaku-zuki* à la tête. Uke bloque *shuto-age-uke* du bras arrière.
 3. Tori termine avec un *zuki* au corps sur place. Uke bloque *osae-uke* du bras avant tout en changeant de garde.
 4. Uke remise *shuto-uke* sans attendre la fin du déplacement.
+
+:::
+
+## Séquence 2
+
+**Techniques :**
+
+- Pivot à angle droit, *gedan jūji-uke* en *zenkutsu-dachi* gauche.
+- En avançant, *morote-uke* en *kōkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+:::
+
+## Séquence 3
+
+**Techniques :**
+
+- Sur place, *yoko-geri-kekomi* à angle droit vers la gauche accompagné d’un *uraken-uchi*.
+- En reposant, *gyaku empi-uchi* en *zenkutsu-dachi* gauche.
+- Demi-tour, *yoko-geri-kekomi* vers la droite accompagné d’un *uraken-uchi*.
+- En reposant, *gyaku empi-uchi* en *zenkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+:::
+
+## Séquence 4
+
+**Techniques :**
+
+- Sur place, *gedan shuto-barai* bras gauche et *age-shuto-uke* du bras droit.
+- Pivot vers l’avant, *shuto-uchi* bras droit et *age-shuto-uke* bras gauche en *zenkutsu-dachi* gauche.
+- En avançant, *mae-geri* jambe arrière suivi de *uraken-tate-uchi* en reposant en *kosa-dachi* droite avec le **kiai**.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+:::
+
+## Séquence 5
+
+**Techniques :**
+
+- Grande rotation vers la droite dans la diagonale, *kakiwake-uke* en *kōkutsu-dachi* gauche.
+- En avançant, *mae-geri* jambe arrière en *zenkutsu-dachi* droite.
+- Sur place, *chūdan oi-zuki* suivi de *gyaku-zuki*.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+:::
+
+## Séquence 6
+
+**Techniques :**
+
+- Pivot à angle droit, *kakiwake-uke* en *kōkutsu-dachi* droite.
+- En avançant, *mae-geri* jambe arrière en *zenkutsu-dachi* gauche.
+- Sur place, *chūdan oi-zuki* suivi de *gyaku-zuki*.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+:::
+
+## Séquence 7
+
+**Techniques :**
+
+- Pivot vers l’axe principal, *morote-uke* en *kōkutsu-dachi* gauche.
+- En avançant, *morote-uke* en *kōkutsu-dachi* droite.
+- En avançant, *morote-uke* en *kōkutsu-dachi* gauche.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+:::
+
+## Séquence 8
+
+**Techniques :**
+
+- Sur place, basculer en *zenkutsu-dachi* gauche et tendre les bras avec les mains au niveau de la tête.
+- En avançant, *hiza-geri* avec le **kiai**.
+- Demi-tour, *shuto-uke* en *kōkutsu-dachi* gauche.
+- En avançant, *shuto-uke* en *kōkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
 
 :::
