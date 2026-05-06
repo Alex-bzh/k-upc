@@ -76,6 +76,11 @@ Tori et uke sont en garde gauche.
 
 ### Bunkai de base
 
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *mae-geri* jambe arrière. Uke bloque *jūji-uke*.
+2. Tori enchaîne *oi-zuki* au corps. Uke recule pour bloquer *uchi-uke* en *kōkutsu-dachi* droite avant de remiser avec un uppercut arrière.
+
 :::
 
 ## Séquence 3
@@ -90,6 +95,14 @@ Tori et uke sont en garde gauche.
 ::: {.panel-tabset}
 
 ### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* à la tête. Uke bloque *uraken-uchi*.
+2. Uke saisit le poignet de tori avant de remiser *yoko-geri* jambe avant suivi d’un coup de coude en retombant.
+3. Uke passe en dessous du bras de tori puis change sa saisie avant d’effectuer un *fumi-komi* sur la jambe avancée de tori pour le forcer à mettre un genou en terre.
+4. Uke termine par un coup de coude sur la nuque de tori.
+5. **Optionnel :** uke peut finir avec un étranglement *hadaka-jime*.
 
 :::
 
