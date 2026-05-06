@@ -3,10 +3,61 @@ title: "Bunkai : Heian Yondan"
 lang: fr
 ---
 
+Quatrième kata de la série initiatique *Heian*, son appellation peut se traduire par « paix et tranquillité, niveau quatre ».
+
+:::: {.grid}
+
+::: {.g-col-8}
+Vidéo du kata à venir.
+<!--
+{{< video videos/katas/heian_yondan.mp4
+    aria-label="Démonstration du kata Heian Yondan"
+    title="Kata Heian Yondan"
+>}}
+-->
+
+:::
+
+::: {.g-col-4}
+
+```{=html}
+<figure>
+  <svg viewBox="0 0 500 420" xmlns="http://www.w3.org/2000/svg">
+    <title>Embusen de Heian Yondan</title>
+
+    <g stroke="black" stroke-width="2.5" stroke-linecap="round" fill="none">
+      <line x1="220" y1="340" x2="140" y2="340"/>
+      <line x1="220" y1="340" x2="220" y2="180"/>
+      <line x1="220" y1="180" x2="140" y2="180"/>
+      <line x1="220" y1="180" x2="220" y2="20"/>
+      <line x1="220" y1="20"  x2="334" y2="134"/>
+      <line x1="277" y1="77"  x2="163" y2="163"/>
+      <line x1="220" y1="340" x2="220" y2="420"/>
+    </g>
+
+    <circle cx="220" cy="340" r="12" fill="#C0202A"/>
+  </svg>
+  <figcaption class="text-center">Embusen de Heian Yondan</figcaption>
+</figure>
+```
+
+:::
+
+::::
+
 ## Séquence 1
+
+**Techniques :**
+
+::: {.panel-tabset}
+
+### Enchaîné avec la séquence 2
 
 Tori et uke sont en garde gauche.
 
-1. Tori attaque mawashi-geri jōdan. Uke bloque tate-haishu-uke du bras avant.
-2. Tori enchaîne gyaku-zuki jōdan. Uke bloque jōdan shuto-uke du bras arrière.
-3. Tori termine avec un chūdan zuki sur place que uke bloque osae-uke du bras avant tout en changeant de garde. Uke remise sans attendre la fin du déplacement shuto-uke.
+1. Tori attaque *mawashi-geri* à la tête. Uke bloque *tate-haishu-uke* du bras avant.
+2. Tori enchaîne *gyaku-zuki* à la tête. Uke bloque *shuto-age-uke* du bras arrière.
+3. Tori termine avec un *zuki* au corps sur place. Uke bloque *osae-uke* du bras avant tout en changeant de garde.
+4. Uke remise *shuto-uke* sans attendre la fin du déplacement.
+
+:::
