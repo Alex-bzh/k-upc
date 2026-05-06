@@ -3,6 +3,43 @@ title: "Bunkai : Tekki Shodan"
 lang: fr
 ---
 
+Premier kata de la série avancée *Tekki*, son appellation peut se traduire par « cavalier de fer, niveau un ».
+
+:::: {.grid}
+
+::: {.g-col-8}
+Vidéo du kata à venir.
+<!--
+{{< video videos/katas/tekki_shodan.mp4
+    aria-label="Démonstration du kata Tekki Shodan"
+    title="Kata Tekki Shodan"
+>}}
+-->
+
+:::
+
+::: {.g-col-4}
+
+```{=html}
+<figure>
+  <svg viewBox="0 0 500 420" xmlns="http://www.w3.org/2000/svg">
+    <title>Embusen de Tekki Shodan</title>
+
+    <g stroke="black" stroke-width="2.5" stroke-linecap="round" fill="none">
+      <line x1="220" y1="340" x2="140" y2="340"/>
+      <line x1="220" y1="340" x2="300" y2="340"/>
+    </g>
+
+    <circle cx="220" cy="340" r="12" fill="#C0202A"/>
+  </svg>
+  <figcaption class="text-center">Embusen de Tekki Shodan</figcaption>
+</figure>
+```
+
+:::
+
+::::
+
 ## Séquence 1
 
 Tori et uke sont en garde droite.
