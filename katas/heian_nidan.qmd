@@ -1,5 +1,5 @@
 ---
-title: "Bunkai : Heian Nidan"
+title: "Heian Nidan"
 lang: fr
 ---
 

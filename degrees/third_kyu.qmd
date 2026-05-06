@@ -60,15 +60,15 @@ Chaque assaut est effectué d’abord en garde gauche puis ensuite en garde droi
 
 Les trois katas au programme de la ceinture verte sont :
 
-- *Heian shodan*
-- *Heian nidan*
-- *Heian sandan*
+- [*Heian shodan*](/katas/heian_shodan.qmd)
+- [*Heian nidan*](/katas/heian_nidan.qmd)
+- [*Heian sandan*](/katas/heian_sandan.qmd)
 
 Les candidat·es présentent obligatoirement le kata *heian sandan* ainsi qu’un autre de leur choix.
 
 ## Bunkai
 
-Les candidat·es présentent deux séquences issues du kata *heian sandan* en démontrant leur efficacité dans des situations de combat semi-réalistes. Une autre application peut leur être demandée sur le kata choisi en plus de *heian sandan* lors de l’épreuve précédente.
+Les candidat·es présentent deux séquences issues du kata [*heian sandan*](/katas/heian_sandan.qmd) en démontrant leur efficacité dans des situations de combat semi-réalistes. Une autre application peut leur être demandée sur le kata choisi en plus de *heian sandan* lors de l’épreuve précédente.
 
 ## Ju kumite
 

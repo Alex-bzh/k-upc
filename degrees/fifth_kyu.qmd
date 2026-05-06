@@ -65,7 +65,7 @@ Chaque assaut est effectué d’abord en garde gauche puis ensuite en garde droi
 
 ## Kata
 
-Un seul kata au programme de la ceinture jaune : *heian shodan*.
+Un seul kata au programme de la ceinture jaune : [*heian shodan*](/katas/heian_shodan.qmd).
 
 ## Bunkai
 

@@ -101,12 +101,12 @@ Chaque assaut est effectué d’abord en garde gauche puis ensuite en garde droi
 
 Les katas au programme de la ceinture noire sont :
 
-- *Heian shodan*
-- *Heian nidan*
-- *Heian sandan*
-- *Heian yondan*
-- *Heian godan*
-- *Tekki shodan*
+- [*Heian shodan*](/katas/heian_shodan.qmd)
+- [*Heian nidan*](/katas/heian_nidan.qmd)
+- [*Heian sandan*](/katas/heian_sandan.qmd)
+- [*Heian yondan*](/katas/heian_yondan.qmd)
+- [*Heian godan*](/katas/heian_godan.qmd)
+- [*Tekki shodan*](/katas/tekki_shodan.qmd)
 
 Les candidat·es choisissent deux katas librement et les exécutent l’un après l’autre.
 

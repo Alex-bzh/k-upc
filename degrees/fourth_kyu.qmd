@@ -64,14 +64,14 @@ Chaque assaut est effectué d’abord en garde gauche puis ensuite en garde droi
 
 Les deux katas au programme de la ceinture orange sont :
 
-- *Heian shodan*
-- *Heian nidan*
+- [*Heian shodan*](/katas/heian_shodan.qmd)
+- [*Heian nidan*](/katas/heian_nidan.qmd)
 
 Les candidat·es présentent obligatoirement les deux katas.
 
 ## Bunkai
 
-Les candidat·es présentent deux séquences issues du kata *heian nidan* en démontrant leur efficacité dans des situations de combat semi-réalistes. Une autre application peut leur être demandée sur le kata *heian shodan*.
+Les candidat·es présentent deux séquences issues du kata [*heian nidan*](/katas/heian_nidan.qmd) en démontrant leur efficacité dans des situations de combat semi-réalistes. Une autre application peut leur être demandée sur le kata *heian shodan*.
 
 ## Ju kumite
 
