@@ -66,6 +66,18 @@ Tori est en garde droite, uke en garde gauche.
 2. Uke repousse le bras de tori et rentre *gyaku-zuki* en *kōkutsu-dachi* avec un sursaut avant.
 3. Dans le dernier temps, uke remonte pour frapper tori avec un coup de coude du bras avant.
 
+### Enchaîné avec la séquence 2
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* au corps. Uke se décale en *mawari-ashi* pour bloquer *uchi-uke* et contrer dans le même temps *gyaku-zuki*.
+2. Uke saisit le poignet de tori des deux mains et passe sous son bras pour amorcer un *waki-gatame* sans amener tori au sol.
+3. Reprise de distance en garde gauche. Tori attaque à nouveau *oi-zuki* au corps. Uke pivote à angle droit vers la gauche pour bloquer *uchi-uke* en *kōkutsu-dachi* droite, sur l’extérieur de tori.
+4. Uke saisit le poignet de tori puis contre *gyaku-zuki*.
+5. Uke remonte sur sa posture et exécute un *empi* descendant dans le creux du coude de tori.
+6. Uke enroule sa main par le dessus et vers l’intérieur pour agripper son propre poignet dans une prise en triangle.
+7. Uke pivote de l’autre côté pour faire chuter tori.
+
 :::
 
 ## Séquence 2
@@ -84,6 +96,14 @@ Tori est en garde gauche, uke en garde droite.
 
 1. Tori attaque *oi-zuki* au corps. Uke bloque *uchi-uke* en effectuant un déplacement *mawari-ashi* puis rentre *gyaku-zuki* en *kōkutsu-dachi* avec un sursaut.
 2. Uke remonte sur sa posture afin de terminer par un étranglement arrière *hadaka-jime*.
+
+### Avancé
+
+Tori effectue une saisie directe main droite au col.
+
+1. Uke saisit main arrière le même pan de son kimono où tori a effectué la saisie. De l’autre main, il passe sous le bras de tori pour prendre le *kumikata* en garde opposée. Il recule ensuite la jambe gauche pour tendre le bras de tori et lui faire lâcher sa prise.
+2. Uke rentre de suite *gyaku-zuki* avec un léger sursaut avant.
+3. Uke termine avec *waki-gatame*.
 
 :::
 
@@ -184,7 +204,10 @@ Tori et uke sont en garde droite.
 
 ### Bunkai de base
 
+Tori et uke sont en garde gauche.
 
+1. Tori attaque *oi-zuki* à la tête. Uke bloque *nagashi-uke* et remise *shutō-uchi* au niveau de la cuisse.
+2. Uke saisit le pantalon de tori de la main droite et son col de la main gauche puis le fait chuter par-dessus sa jambe avancée.
 
 :::
 
@@ -200,6 +223,9 @@ Tori et uke sont en garde droite.
 
 ### Bunkai de base
 
+Tori et uke sont en garde droite.
 
+1. Tori attaque *oi-zuki* au corps. Uke dévie l’attaque une première fois avec *soto-uke* puis l’écarte complètement avec un *gyaku-uchi-uke* quand l’autre bras remise dans le même temps *tettsui-uchi* dans les côtes.
+2. Reprise de distance, tori en garde gauche. 
 
 :::
