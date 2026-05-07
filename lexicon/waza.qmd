@@ -9,7 +9,7 @@ Les *waza* constituent le vocabulaire de tout·e karatéka·te. Connaître l’e
 
 ### Techniques de défense avec le poing fermé
 
-| **gedan barai**
+| **gedan-barai**
 |   Blocage de l’avant-bras dans un mouvement à la fois descendant et de l’intérieur vers l’extérieur.
 | **jōdan age-uke**
 |   Blocage de l’avant-bras dans un mouvement du bas vers le haut.
@@ -34,6 +34,8 @@ Les *waza* constituent le vocabulaire de tout·e karatéka·te. Connaître l’e
 |   Défense circulaire avec le plat de la main dans un mouvement de l’extérieur vers l’intérieur.
 | **osae-uke**
 |   Défense avec pression de la main.
+| **shutō-age-uke**
+|   Blocage de l’avant-bras dans un mouvement du bas vers le haut, avec la main ouverte.
 | **shutō-barai**
 |   Blocage au niveau inférieur effectué avec le tranchant de la main, dans un mouvement circulaire allant de l’intérieur vers l’extérieur.
 | **shutō-uke**
