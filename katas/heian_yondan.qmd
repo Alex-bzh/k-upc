@@ -189,6 +189,23 @@ Tori saisit le col de uke des deux mains.
 
 ### Bunkai de base
 
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque *uchi-uke* en pivotant *mawari-ashi* et, dans le même temps, contre *ura-zuki* en *kōkutsu-dachi*.
+2. Reprise de distance, tori en garde de droite. Tori attaque *oi-zuki* suivi de *gyaku-zuki* au corps. Uke recule et bloque *uchi-uke* le premier et *gyaku-uchi-uke* le second, toujours en *kōkutsu-dachi*.
+3. Uke contre *mae-geri* jambe arrière puis, en retombant, *gyaku-empi-uchi*.
+
+### Enchaîné avec la séquence 8
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque *uchi-uke* en pivotant *mawari-ashi* et, dans le même temps, contre *ura-zuki* en *kōkutsu-dachi*.
+2. Reprise de distance, tori en garde de droite. Tori attaque *oi-zuki* suivi de *gyaku-zuki* au corps. Uke recule et bloque *uchi-uke* le premier et *gyaku-uchi-uke* le second, toujours en *kōkutsu-dachi*.
+3. Uke contre *mae-geri* jambe arrière puis, en retombant, *gyaku-empi-uchi*.
+4. Uke attrape la tête de tori et frappe coup de genou.
+5. Uke effectue un demi-tour et, en retombant en *kōkutsu-dachi*, frappe coup de coude arrière.
+6. Uke termine avec *ippon-seoi-nage*.
+
 :::
 
 ## Séquence 8
@@ -203,5 +220,12 @@ Tori saisit le col de uke des deux mains.
 ::: {.panel-tabset}
 
 ### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque *uchi-uke* en pivotant *mawari-ashi* et, dans le même temps, contre *ura-zuki* en *kōkutsu-dachi*.
+2. Uke attrape la tête de tori et frappe coup de genou.
+3. Uke effectue un demi-tour et, en retombant en *kōkutsu-dachi*, frappe coup de coude arrière.
+4. Uke termine avec *ō-goshi*.
 
 :::
