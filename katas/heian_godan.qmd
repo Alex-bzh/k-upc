@@ -132,10 +132,11 @@ Tori et uke sont en garde droite.
 
 ### Bunkai de base
 
-Tori et uke sont en garde gauche.
+Tori et uke sont en garde droite.
 
-1. Tori attaque *oi-zuki* au corps. Uke bloque *haishu-uke* en *kiba-dachi*.
-2. Uke saisit le poignet de tori et remise *mikazuki-geri* et, en retombant, administre un coup de coude dans les côtes.
+1. Tori attaque *mae-geri* au corps. Uke bloque *gedan-barai*.
+2. Tori enchaîne *oi-zuki* au corps. Uke bloque *haishu-uke* en reculant en *kiba-dachi*.
+3. Uke saisit le poignet de tori et remise *mikazuki-geri* et, en retombant, administre un coup de coude dans les côtes.
 
 :::
 
@@ -176,6 +177,9 @@ Tori et uke sont en garde droite.
 
 **Techniques :**
 
+- Demi-tour sur place, *nagashi-uke* bras avant et *shutō-uchi* bras arrière en *zenkutsu-dachi* gauche.
+- Sur place, *manji-kamae* en *kōkutsu-dachi* gauche.
+
 ::: {.panel-tabset}
 
 ### Bunkai de base
@@ -187,6 +191,10 @@ Tori et uke sont en garde droite.
 ## Séquence 8
 
 **Techniques :**
+
+- Demi-tour sur place en ramenant la jambe avant, *manji-kamae* en *heisoku-dachi*.
+- Sur place, *nagashi-uke* bras avant et *shutō-uchi* bras arrière en *zenkutsu-dachi* droite.
+- Sur place, *manji-kamae* en *kōkutsu-dachi* droite.
 
 ::: {.panel-tabset}
 
