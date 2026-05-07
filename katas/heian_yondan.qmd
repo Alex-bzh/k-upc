@@ -59,9 +59,9 @@ Vidéo du kata à venir.
 Tori et uke sont en garde gauche.
 
 1. Tori attaque *mawashi-geri* à la tête. Uke bloque *tate-haishu-uke* du bras avant.
-2. Tori enchaîne *gyaku-zuki* à la tête. Uke bloque *shuto-age-uke* du bras arrière.
+2. Tori enchaîne *gyaku-zuki* à la tête. Uke bloque *shutō-age-uke* du bras arrière.
 3. Tori termine avec un *zuki* au corps sur place. Uke bloque *osae-uke* du bras avant tout en changeant de garde.
-4. Uke remise *shuto-uke* sans attendre la fin du déplacement.
+4. Uke remise *shutō-uke* sans attendre la fin du déplacement.
 
 :::
 
@@ -110,13 +110,30 @@ Tori et uke sont en garde gauche.
 
 **Techniques :**
 
-- Sur place, *gedan shuto-barai* bras gauche et *age-shuto-uke* du bras droit.
-- Pivot vers l’avant, *shuto-uchi* bras droit et *age-shuto-uke* bras gauche en *zenkutsu-dachi* gauche.
+- Sur place, *gedan shuto-barai* bras gauche et *shutō-age-uke* du bras droit.
+- Pivot vers l’avant, *shuto-uchi* bras droit et *shutō-age-uke* bras gauche en *zenkutsu-dachi* gauche.
 - En avançant, *mae-geri* jambe arrière suivi de *uraken-tate-uchi* en reposant en *kosa-dachi* droite avec le **kiai**.
 
 ::: {.panel-tabset}
 
 ### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *mae-geri* au corps de la jambe arrière suivi de *gyaku-zuki* à la tête. Uke recule et bloque le coup de pied avec un *shutō-barai* du bras arrière et, pour l’attaque à la tête, *shutō-age-uke*.
+2. Tori enchaîne *maete-zuki* à la tête. Dans le même temps, uke bloque *shutō-age-uke* bras arrière et contre *shutō-uchi* à la gorge avec le bras avant.
+3. Uke frappe *mae-geri* jambe arrière, obligeant tori à reculer
+4. Uke termine avec *uraken*.
+
+### Avancé
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *mae geri* jambe arrière. Uke pivote vers la droite *ushiro-mawari-ashi* et bloque *sukui-uke* du bras arrière pour rediriger l’attaque de tori bien vers la gauche.
+2. Emporté par le mouvement de défense, tori effectue une rotation complète pour attaquer *uraken*. Uke bloque *shutō-age-uke* puis enroule son bras autour de celui de tori, en passant par-dessus, et vient ensuite lui agripper le col.
+3. De l’autre bras, uke frappe coup de coude dans la nuque de tori.
+4. Uke enchaîne avec un *mae-geri* dans le creux poplité de tori pour lui faire perdre un appui et en profite pour le tirer vers le sol.
+5. Dans la chute, uke dégage son bras et frappe *uraken* pour terminer.
 
 :::
 
@@ -131,6 +148,12 @@ Tori et uke sont en garde gauche.
 ::: {.panel-tabset}
 
 ### Bunkai de base
+
+Tori saisit le col de uke des deux mains.
+
+1. Uke effectue une double frappe *ura-zuki* au menton puis dégage *kakiwake*.
+2. Uke attrape la nuque de tori et enchaîne avec un coup de genou.
+3. Uke repousse tori avec le bras avant et termine avec *gyaku-zuki*.
 
 :::
 
