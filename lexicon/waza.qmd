@@ -11,7 +11,7 @@ Les *waza* constituent le vocabulaire de tout·e karatéka·te. Connaître l’e
 
 | **gedan-barai**
 |   Blocage de l’avant-bras dans un mouvement à la fois descendant et de l’intérieur vers l’extérieur.
-| **jōdan age-uke**
+| **age-uke**
 |   Blocage de l’avant-bras dans un mouvement du bas vers le haut.
 | **otoshi-uke**
 |   Blocage descendant de l’avant-bras dans un mouvement de l’avant vers l’arrière comme avec un rouleau.
