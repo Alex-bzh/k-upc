@@ -57,6 +57,8 @@ Les *waza* constituent le vocabulaire de tout·e karatéka·te. Connaître l’e
 |   Défense en écartant les bras comme pour faire lâcher une prise.
 | **morote-uke**
 |   Blocage en forme de *uchi-uke* mais avec le second poing en renfort.
+| **shutō-jūji-uke**
+|   Blocage en croix avec les mains ouvertes.
 
 
 ## Attaques directes de poing (*Tsuki-waza*){#tsuki-waza}
