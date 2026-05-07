@@ -44,16 +44,26 @@ Vidéo du kata à venir.
 
 **Techniques :**
 
+- Vers la gauche, *uchi-uke* en *kōkutsu-dachi* gauche.
+- Sur place, *chūdan gyaku-zuki* en *kōkutsu-dachi* gauche.
+- Sur place, *chūdan kagi-zuki* en *heisoku-dachi*.
+
 ::: {.panel-tabset}
 
 ### Bunkai de base
 
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *gyaku-zuki* au corps. Uke bloque *uchi-uke* et contre *gyaku-zuki*.
+2. Uke remonte en *heisoku-dachi* et frappe *kagi-zuki*.
+
 ### Avancé
 
-Tori est en garde droite, uke en garde gauche
+Tori est en garde droite, uke en garde gauche.
 
-1. Tori attaque oi-zuki chūdan. Uke amorce un blocage gyaku nagashi-uke de l’intérieur vers l’extérieur avant d’agripper le poignet de tori par l’intérieur et, dans le même temps, son bras avant effectue un uchi-uke afin d’effectuer une clé de coude. **Remarque :** pour bien effectuer la clé de coude, il est important que uke s’efface en pivotant vers l’intérieur afin de laisser tori ouvrir son épaule.
-2. Uke repousse du bras avant celui de tori qui était cisaillé et rentre gyaku-zuki en kōkutsu-dachi avec un sursaut avant.
+1. Tori attaque *oi-zuki* au corps. Uke bloque *gyaku-uchi-uke* et agrippe le poignet de tori. Dans le même temps, il passe le bras avant sous celui de tori afin d’appliquer un *ude-gatame* dans une forme de *uchi-uke*.  
+**Remarque :** pour bien effectuer la clé de coude, il est important que uke s’efface en pivotant vers l’intérieur afin de laisser tori ouvrir son épaule.
+2. Uke repousse le bras de tori et rentre *gyaku-zuki* en *kōkutsu-dachi* avec un sursaut avant.
 3. Dans le dernier temps, uke remonte pour frapper tori avec un coup de coude du bras avant.
 
 :::
@@ -62,14 +72,18 @@ Tori est en garde droite, uke en garde gauche
 
 **Techniques :**
 
+- Vers la droite, *uchi-uke* en *kōkutsu-dachi* droite.
+- Sur place, *chūdan-gyaku-zuki* en *kōkutsu-dachi* droite.
+- Sur place, *chūdan-kagi-zuki* en *heisoku-dachi*.
+
 ::: {.panel-tabset}
 
 ### Bunkai de base
 
 Tori est en garde gauche, uke en garde droite.
 
-1. Tori attaque oi-zuki chūdan. Uke effectue un déplacement mawari-ashi à angle droit de l’attaque tout en bloquant uchi-uke, puis rentre gyaku-zuki en kōkutsu-dachi avec un yori-ashi.
-2. Uke poursuit en remontant sur sa posture afin de se rapprocher de tori et de terminer en hadaka-jime ou tate-ushiro-jime.
+1. Tori attaque *oi-zuki* au corps. Uke bloque *uchi-uke* en effectuant un déplacement *mawari-ashi* puis rentre *gyaku-zuki* en *kōkutsu-dachi* avec un sursaut.
+2. Uke remonte sur sa posture afin de terminer par un étranglement arrière *hadaka-jime*.
 
 :::
 
@@ -77,16 +91,32 @@ Tori est en garde gauche, uke en garde droite.
 
 **Techniques :**
 
+- Vers l’avant, *morote-uke* en *kōkutsu-dachi* droite.
+- En avançant, *gedan-jūji-uke* en *zenkutsu-dachi* gauche.
+- Sur place, *jōdan-shutō-jūji-uke* en *zenkutsu-dachi* gauche.
+- Sur place, *osae-uke* en *zenkutsu-dachi* gauche.
+- Sur place, *tettsui-uchi* en *zenkutsu-dachi* gauche.
+- En avançant, *chūdan-oi-zuki* en *zenkutsu-dachi* droite avec le **kiai**.
+
 ::: {.panel-tabset}
 
 ### Bunkai de base
 
 Tori et uke sont en garde droite.
 
-1. Tori attaque oi-zuki chūdan. Uke se décale en mawari-ashi tout en éxécutant dans le même temps un blocage uchi-uke et un gyaku ura-zuki.
-2. Reprise de distance. Tori, maintenant en garde gauche, attaque mae-geri chūdan. Uke bloque gedan-barai avec un changement de garde et remise gyaku-zuki chūdan.
-3. Reprise de distance. Tori est garde droite, uke garde gauche. Tori attaque oi-zuki jōdan. Uke bloque gyaku age-shuto-uko et contre shuto-uchi à la gorge.
-4. **Optionnel :** Uke saisit le bras de tori ainsi que son col du côté gauche et, en pivotant, effectue un tai-otoshi pour le mettre au sol.
+1. Tori attaque *oi-zuki* au corps. Uke bloque *morote-uke*.
+2. Tori enchaîne *mae-geri* au corps suivi de *kizami-zuki* à la tête. Uke recule pour bloquer *jūji-uke* suivi de *shutō-jūji-uke*.
+3. Uke effectue un *waki-gatame* avant de contrer *tettsui-uchi* sur place.
+4. Uke change de garde et fait chuter tori grâce à un *ō-soto-gari*.
+
+### Avancé
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque *uchi-uke* et contre dans le même *gyaku ura-zuki* en effectuant un pivot en *mawari-ashi*.
+2. Reprise de distance, tori en garde gauche. Tori attaque *mae-geri* jambe arrière. Uke bloque *gedan-barai* en reculant puis contre *gyaku-zuki*.
+3. Reprise de distance, tori en garde droite. Tori attaque *oi-zuki* à la tête. Uke bloque *shutō-age-uke* du bras avant et remise *shutō-uchi* à la gorge du bras arrière.
+4. Uke termine avec *tai-otoshi*, le bras qui tire figurant le *tettsui* et la frappe au sol pour le dernier *zuki*.
 
 :::
 
