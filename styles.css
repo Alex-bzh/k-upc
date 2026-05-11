@@ -1,2 +1,30 @@
 /* css styles */
 .centered-figure { text-align: center; }
+
+/* === Panel Tabset — thème United === */
+
+/* Tab bar */
+.panel-tabset > .nav-tabs {
+  border-bottom: 1px solid #e95420;
+}
+
+/* Active tab */
+.panel-tabset > .nav-tabs .nav-link.active {
+  background-color: #e95420;
+  color: #fff;
+  border-color: #e95420;
+}
+
+/* Inactive tabs hover */
+.panel-tabset > .nav-tabs .nav-link:hover {
+  color: #e95420;
+  background-color: rgba(233, 84, 32, 0.08);
+  border-color: #f1b39d #f1b39d #e95420;
+}
+
+/* Content panel */
+.panel-tabset > .tab-content {
+  border: 1px solid #e95420;
+  border-top: none;
+  padding: 1rem;
+}
