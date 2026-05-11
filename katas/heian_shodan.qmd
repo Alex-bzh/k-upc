@@ -181,6 +181,16 @@ Tori et uke sont en garde gauche.
 - Demi-tour avec un *gedan-barai* en *zenkutsu-dachi* droite.
 - En avançant, *oi-zuki chūdan* en *zenkutsu-dachi* gauche.
 
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori effectue une saisie directe sur le poignet gauche de uke.
+
+Uke dégage la saisie avec un *gedan-barai* du bras droit en reculant en *zenkutsu-dachi* droite. Changement de garde puis contre *oi-zuki* à la tête.
+
+:::
+
 ## Séquence 6
 
 **Techniques :**
