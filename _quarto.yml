@@ -53,7 +53,7 @@ website:
       collapse-level: 2
       contents:
         - href: katas/principles.qmd
-          text: "Principes"
+          text: "Principes des katas et *bunkai*"
         - section: "1^er^ dan"
           contents:
             - href: katas/heian_shodan.qmd
