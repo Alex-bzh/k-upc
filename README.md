@@ -1,6 +1,6 @@
 # Université Paris Cité karate club
 
-Showcase website for the  Université Paris Cité karate club,
+Showcase website for the Université Paris Cité karate club,
 created using [Quarto](https://quarto.org/) for simple and reproductible publication.
 
 [![Site](https://img.shields.io/badge/Site-k--upc.fr-blue)](https://k-upc.fr/)  
@@ -25,19 +25,19 @@ To build the site locally, install [Quarto CLI](https://quarto.org/docs/get-star
 
 1. Clone the repository:
 
-    ```sh
-    git clone https://github.com/Alex-bzh/k-upc.git
-    cd k-upc
-    ```
+   ```sh
+   git clone https://github.com/Alex-bzh/k-upc.git
+   cd k-upc
+   ```
 
 2. Create the website:
 
-    ```sh
-    quarto render .
-    ```
+   ```sh
+   quarto render .
+   ```
 
 3. Optionnally, you can launch a local server to preview the website:
 
-    ```sh
-    quarto preview .
-    ```
+   ```sh
+   quarto preview .
+   ```
