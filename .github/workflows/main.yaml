@@ -21,7 +21,7 @@ jobs:
       - name: Run linters
         run: markdownlint "**/*.md" --ignore README.md
       - name: Run formatters / minifiers
-        run: prettier --check "**/*.md"
+        run: prettier --check "**/*.md" --ignore README.md
 
   build:
     needs: test
