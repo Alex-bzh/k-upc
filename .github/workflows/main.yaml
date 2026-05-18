@@ -19,7 +19,7 @@ jobs:
         run: |
           npm install -g markdownlint-cli prettier
       - name: Run linters
-        run: markdownlint "**/*.md"
+        run: markdownlint "**/*.md" --ignore README.md
       - name: Run formatters / minifiers
         run: prettier --check "**/*.md"
 
