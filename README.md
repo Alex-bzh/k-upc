@@ -4,7 +4,7 @@ Official showcase website for the Université Paris Cité karate club,
 built with [Quarto](https://quarto.org/) for simple and reproducible static publishing.
 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Built with Quarto](https://img.shields.io/badge/Built%20with-Quarto-39729E)](https://quarto.org/)
+[![Built with Quarto](https://img.shields.io/badge/Built%20with-Quarto-D97706)](https://quarto.org/)
 [![Site](https://img.shields.io/badge/Site-k--upc.fr-blue)](https://k-upc.fr/)
 
 ## About
