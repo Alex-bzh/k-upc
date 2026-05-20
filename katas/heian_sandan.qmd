@@ -8,7 +8,7 @@ Troisième kata de la série initiatique *Heian*, son appellation peut se tradui
 :::: {.grid}
 
 ::: {.g-col-8}
-{{< video videos/katas/heian_sandan.mp4
+{{< video /videos/katas/heian_sandan.webm
     aria-label="Démonstration du kata Heian Sandan"
     title="Kata Heian Sandan"
 >}}

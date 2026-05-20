@@ -8,7 +8,7 @@ lang: fr
 :::: {.grid}
 
 ::: {.g-col-8}
-{{< video videos/katas/empi.mp4
+{{< video /videos/katas/empi.webm
     aria-label="Démonstration du kata Empi"
     title="Kata Empi"
 >}}
