@@ -22,8 +22,8 @@ lang: fr
     <title>Embusen de Empi</title>
 
     <g stroke="black" stroke-width="2.5" stroke-linecap="round" fill="none">
-      <line x1="220" y1="340" x2="140" y2="340"/>
       <line x1="220" y1="340" x2="220" y2="100"/>
+      <line x1="220" y1="340" x2="60"  y2="340"/>
     </g>
 
     <circle cx="220" cy="340" r="12" fill="#C0202A"/>
