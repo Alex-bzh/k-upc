@@ -77,7 +77,7 @@ Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* 
 
 ::: {.g-col-4}
 {{< video /videos/bunkai/heian_shodan/1_2.webm
-    aria-label="Application martiale basique de la première séquence du kata"
+    aria-label="Application martiale avancée de la première séquence du kata Heian Shodan"
     title="Bunkai avancé, séquence 1"
 >}}
 :::
@@ -94,10 +94,25 @@ Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* 
 
 ### Enchaîné avec la séquence 2
 
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_shodan/1_3.webm
+    aria-label="Application martiale des séquences 1 et 2 du kata Heian Shodan"
+    title="Bunkai avancé, séquences 1 & 2"
+>}}
+:::
+
+::: {.g-col-8}
+
 Tori est en garde droite, uke en garde gauche.
 
 1. Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* et remise avec un *gyaku-zuki* en poursuite pour se repositionner derrière tori en garde droite. Tori se remet en garde gauche avec un *mawari-ashi*.
 2. Tori est en garde gauche et uke en garde droite. Tori attaque *mae-geri* de la jambe arrière. Uke bloque *gedan-barai* puis remise *tettsui-uchi* au niveau de la nuque avant de terminer avec un *ō-soto-gari*.
+
+:::
+
+:::
 
 :::
 
@@ -113,17 +128,47 @@ Tori est en garde droite, uke en garde gauche.
 
 ### Bunkai de base
 
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_shodan/2_1.webm
+    aria-label="Application martiale basique de la seconde séquence du kata"
+    title="Bunkai de base, séquence 2"
+>}}
+:::
+
+::: {.g-col-8}
+
 Tori et uke sont en garde droite.
 
 Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* et remise une première fois *tettsui-uchi* avant d’enchaîner *oi-zuki* après un changement de garde.
 
+:::
+
+:::
+
 ### Avancé
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_shodan/2_2.webm
+    aria-label="Application martiale avancée de la seconde séquence du kata"
+    title="Bunkai avancé, séquence 2"
+>}}
+:::
+
+::: {.g-col-8}
 
 Tori et uke sont en garde droite.
 
 1. Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* avec un léger recul.
 2. Tori enchaîne avec un *gyaku-zuki* au corps. Uke bloque *soto-uke* avant de remiser du même bras avec un coup de coude au visage grâce à un léger sursaut avant.
 3. Uke poursuit avec un *hiza-geri* de la jambe arrière au corps avant de finir en *ō-soto-gari*.
+
+:::
+
+:::
 
 :::
 
