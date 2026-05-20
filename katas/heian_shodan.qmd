@@ -11,7 +11,8 @@ Premier kata de la série initiatique *Heian*, son appellation peut se traduire 
 {{< video videos/katas/heian_shodan.mp4
     aria-label="Démonstration du kata Heian Shodan"
     title="Kata Heian Shodan"
-}}
+>}}
+
 :::
 
 ::: {.g-col-4}
@@ -60,7 +61,7 @@ Vidéo du bunkai à venir.
 {{< video videos/bunkai/heian_shodan/sequence_1.mp4
     aria-label="Application martiale basique de la première séquence du kata"
     title="Bunkai de base, séquence 1"
-}}
+>}}
 :::
 
 ::: {.g-col-4}
