@@ -3,6 +3,39 @@ title: "Empi"
 lang: fr
 ---
 
+
+
+:::: {.grid}
+
+::: {.g-col-8}
+{{< video videos/katas/empi.mp4
+    aria-label="Démonstration du kata Empi"
+    title="Kata Empi"
+>}}
+:::
+
+::: {.g-col-4}
+
+```{=html}
+<figure>
+  <svg viewBox="0 0 500 420" xmlns="http://www.w3.org/2000/svg">
+    <title>Embusen de Empi</title>
+
+    <g stroke="black" stroke-width="2.5" stroke-linecap="round" fill="none">
+      <line x1="220" y1="340" x2="140" y2="340"/>
+      <line x1="220" y1="340" x2="220" y2="100"/>
+    </g>
+
+    <circle cx="220" cy="340" r="12" fill="#C0202A"/>
+  </svg>
+  <figcaption class="text-center">Embusen de Empi</figcaption>
+</figure>
+```
+
+:::
+
+::::
+
 ## Séquence 1
 
 Tori garde droite, uke garde gauche.

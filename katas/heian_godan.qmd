@@ -8,14 +8,10 @@ Dernier kata de la série initiatique *Heian*, son appellation peut se traduire 
 :::: {.grid}
 
 ::: {.g-col-8}
-Vidéo du kata à venir.
-<!--
 {{< video videos/katas/heian_godan.mp4
     aria-label="Démonstration du kata Heian Godan"
     title="Kata Heian Godan"
 >}}
--->
-
 :::
 
 ::: {.g-col-4}

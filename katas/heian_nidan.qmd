@@ -8,14 +8,10 @@ Second kata de la série initiatique *Heian*, son appellation peut se traduire p
 :::: {.grid}
 
 ::: {.g-col-8}
-Vidéo du kata à venir.
-<!--
 {{< video videos/katas/heian_nidan.mp4
     aria-label="Démonstration du kata Heian Nidan"
     title="Kata Heian Nidan"
 >}}
--->
-
 :::
 
 ::: {.g-col-4}

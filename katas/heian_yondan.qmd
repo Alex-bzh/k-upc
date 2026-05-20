@@ -8,14 +8,10 @@ Quatrième kata de la série initiatique *Heian*, son appellation peut se tradui
 :::: {.grid}
 
 ::: {.g-col-8}
-Vidéo du kata à venir.
-<!--
 {{< video videos/katas/heian_yondan.mp4
     aria-label="Démonstration du kata Heian Yondan"
     title="Kata Heian Yondan"
 >}}
--->
-
 :::
 
 ::: {.g-col-4}
