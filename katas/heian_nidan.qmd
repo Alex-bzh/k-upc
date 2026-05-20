@@ -53,13 +53,36 @@ Second kata de la série initiatique *Heian*, son appellation peut se traduire p
 
 ### Bunkai de base
 
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_nidan/k2s1n1.webm
+    aria-label="Application martiale basique de la première séquence du kata"
+    title="Bunkai de base, séquence 1"
+>}}
+:::
+
+::: {.g-col-8}
 Tori est en garde gauche, uke en garde droite.
 
 1. Tori attaque *oi-zuki* à la tête. Uke bloque avec la combinaison *ude-soete* et *jōdan tate-uke* en *kōkutsu-dachi*.
 2. Tori enchaîne sur place *gyaku-zuki* au corps. Uke bloque *soto-uke* sur place puis remise avec *ura-zuki* avant de déplier le *tettsui-uchi*.
+:::
+
+:::
 
 ### Intermédiaire
 
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_nidan/k2s1n2.webm
+    aria-label="Application martiale intermédiaire de la première séquence du kata"
+    title="Bunkai intermédiaire, séquence 1"
+>}}
+:::
+
+::: {.g-col-8}
 Tori et uke sont en garde gauche.
 
 1. Tori attaque *oi-zuki* au corps en avançant. Uke bloque avec *uchi-uke* en *kōkutsu-dachi* en se déplaçant vers l’intérieur.
@@ -67,7 +90,22 @@ Tori et uke sont en garde gauche.
 3. Uke remise du bras gauche avec un coup de coude circulaire avant de saisir la nuque de tori et de frapper avec un uppercut du bras arrière.
 4. Uke s’appuie sur tori pour le repousser et reprendre une posture *kōkutsu-dachi*.
 
+:::
+
+:::
+
 ### Enchaîné avec la séquence 2
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_nidan/k2s1n4.webm
+    aria-label="Application martiale des séquences 1 & 2 du kata Heian Nidan"
+    title="Bunkai avancé des séquences 1 et 2"
+>}}
+:::
+
+::: {.g-col-8}
 
 Tori et uke sont en garde gauche.
 
@@ -77,6 +115,10 @@ Tori et uke sont en garde gauche.
 4. Uke effectue à présent un changement de garde en saisissant le poignet de tori avec la main gauche et remise *uraken-uchi* de l’autre.
 5. Uke agrippe de la main droite la nuque de tori et finit avec un coup de coude circulaire à la tête.
 6. Uke termine en saisissant le col du kimono de tori et, comme il est dans son dos, l’attire de force au sol.
+
+:::
+
+:::
 
 :::
 
