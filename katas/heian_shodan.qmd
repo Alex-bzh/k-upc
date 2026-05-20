@@ -57,7 +57,7 @@ Premier kata de la série initiatique *Heian*, son appellation peut se traduire 
 ::: {.grid}
 
 ::: {.g-col-4}
-{{< video /videos/bunkai/heian_shodan/sequence_1.webm
+{{< video /videos/bunkai/heian_shodan/1_1.webm
     aria-label="Application martiale basique de la première séquence du kata"
     title="Bunkai de base, séquence 1"
 >}}
@@ -73,9 +73,24 @@ Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* 
 
 ### Avancé
 
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_shodan/1_2.webm
+    aria-label="Application martiale basique de la première séquence du kata"
+    title="Bunkai avancé, séquence 1"
+>}}
+:::
+
+::: {.g-col-8}
+
 Tori et uke sont en garde gauche.
 
 Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* et remise *gyaku-zuki* au corps avant de finir avec de finir avec *hiza-geri* de la jambe arrière.
+
+:::
+
+:::
 
 ### Enchaîné avec la séquence 2
 
