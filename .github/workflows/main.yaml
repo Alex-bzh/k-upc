@@ -71,7 +71,7 @@ jobs:
       - name: rsync deployments
         uses: burnett01/rsync-deployments@7.1.0
         with:
-          switches: -avz --delete
+          switches: -avz --delete --exclude='videos/'
           path: site/
           remote_path: /var/www/html/k-upc
           remote_host: ${{ secrets.OVH_HOST }}
