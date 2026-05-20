@@ -19,6 +19,13 @@ _site/
 .vscode/
 .idea/
 
+# Vidéos
+**/*.avi
+**/*.mkv
+**/*.mov
+**/*.mp4
+**/*.webm
+
 # OS
 .DS_Store
 Thumbs.db
