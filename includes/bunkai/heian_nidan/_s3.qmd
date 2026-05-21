@@ -1,0 +1,27 @@
+## Séquence 3
+
+**Techniques :**
+
+- Sur place, *yoko-geri* de la jambe droite vers l’arrière selon l’axe principal du kata, accompagné d’un *uraken-uchi*.
+- En retombant, *shutō-uke* en *kōkutsu-dachi* jambe gauche devant.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* à la tête. Uke bloque *uraken-uchi* en reculant et saisit de suite le poignet de tori.
+2. Uke enchaîne avec un *yoko-geri* en pas chassé qui fait reculer tori d’un pas.
+3. Reprise de distance, tori en garde gauche et uke en garde droite. Tori attaque *mawashi-geri* à la tête. Uke dévie *gyaku-nagashi-uke* en pivotant vers l’intérieur autour du pied avant puis bloque *shuto-uke* en *kōkutsu-dachi* gauche.
+4. Uke saisit le poignet du bras de tori et rentre *shuto-uke* en *kōkutsu-dachi* droite.
+
+### Intermédiaire
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* à la tête. Uke bloque *uraken-uchi* en reculant et saisit de suite le poignet de tori.
+2. Uke enchaîne avec un *yoko-geri* en pas chassé et, avant de reposer la jambe, il évacue vers l’extérieur le bras de tori afin de rentrer un coup de coude en *kōkutsu-dachi* arrière grâce à un changement de prise.
+3. **Optionnel :** Uke termine en *ippon-seoi-nage*.
+
+:::

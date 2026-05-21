@@ -1,0 +1,80 @@
+## Séquence 1
+
+**Techniques :**
+
+- Vers la gauche, *jōdan tate-uke* du bras gauche et *ude-soete* du bras droit en *kōkutsu-dachi* gauche.
+- Sur place, *soto-ude-uke* du bras gauche et *chūdan ura-zuki* du bras droit.
+- Sur place, *jōdan tettsui-uchi* du bras gauche.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_nidan/k2s1n1.webm
+    aria-label="Application martiale basique de la première séquence du kata"
+    title="Bunkai de base, séquence 1"
+>}}
+:::
+
+::: {.g-col-8}
+Tori est en garde gauche, uke en garde droite.
+
+1. Tori attaque *oi-zuki* à la tête. Uke bloque avec la combinaison *ude-soete* et *jōdan tate-uke* en *kōkutsu-dachi*.
+2. Tori enchaîne sur place *gyaku-zuki* au corps. Uke bloque *soto-uke* sur place puis remise avec *ura-zuki* avant de déplier le *tettsui-uchi*.
+:::
+
+:::
+
+### Intermédiaire
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_nidan/k2s1n2.webm
+    aria-label="Application martiale intermédiaire de la première séquence du kata"
+    title="Bunkai intermédiaire, séquence 1"
+>}}
+:::
+
+::: {.g-col-8}
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* au corps en avançant. Uke bloque avec *uchi-uke* en *kōkutsu-dachi* en se déplaçant vers l’intérieur.
+2. Tori enchaîne avec un crochet à la tête du bras arrière que uke bloque avec *age-uke* du bras arrière toujours en *kōkutsu-dachi*.
+3. Uke remise du bras gauche avec un coup de coude circulaire avant de saisir la nuque de tori et de frapper avec un uppercut du bras arrière.
+4. Uke s’appuie sur tori pour le repousser et reprendre une posture *kōkutsu-dachi*.
+
+:::
+
+:::
+
+### Enchaîné avec la séquence 2
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_nidan/k2s1n4.webm
+    aria-label="Application martiale des séquences 1 & 2 du kata Heian Nidan"
+    title="Bunkai avancé des séquences 1 et 2"
+>}}
+:::
+
+::: {.g-col-8}
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* au corps en avançant. Uke bloque avec *uchi-uke* en *kōkutsu-dachi* en se déplaçant vers l’intérieur.
+2. Tori enchaîne avec un crochet à la tête du bras arrière que uke bloque avec *age-uke* du bras arrière toujours en *kōkutsu-dachi*. Uke remise du bras gauche avec un coup de coude circulaire avant de frapper avec un uppercut au corps du bras arrière.
+3. Reprise de distance, tori en garde droite et uke en garde gauche. Tori attaque une nouvelle fois *oi-zuki* à la tête. Uke dévie *gyaku-nagashi-uke* puis bloque définitivement avec *tettsui-uchi* en se décalant bien vers l’extérieur de tori.
+4. Uke effectue à présent un changement de garde en saisissant le poignet de tori avec la main gauche et remise *uraken-uchi* de l’autre.
+5. Uke agrippe de la main droite la nuque de tori et finit avec un coup de coude circulaire à la tête.
+6. Uke termine en saisissant le col du kimono de tori et, comme il est dans son dos, l’attire de force au sol.
+
+:::
+
+:::
+
+:::

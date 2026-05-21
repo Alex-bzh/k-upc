@@ -1,0 +1,29 @@
+## Séquence 4
+
+**Techniques :**
+
+- En avançant, *shutō-uke* en *kōkutsu-dachi* droite.
+- En avançant, *shutō-uke* en *kōkutsu-dachi* gauche.
+- Sur place, *osae-uke* de la main avant.
+- En avançant, *yonhon-nukite* en *zenkutsu-dachi* droite, **kiai** à la fin.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque *shuto-uke* en pivotant *mawari-ashi* vers l’intérieur.
+2. Tori enchaîne *gyaku-zuki*. Uke bloque *osae-uke* et remise *nukite* en changeant de garde.
+3. **Optionnel :** Uke agrippe la nuque de tori de la main droite qui vient de frapper et appuie le plus possible pour que tori baisse la tête et mette du poids sur sa jambe droite. Uke termine avec un *ankle pick* en poussant tori.
+
+### Avancé
+
+Tori est en garde droite, uke en garde gauche.
+
+1. Tori attaque *oi-zuki* au corps. En un seul mouvement, uke dévie *nagashi-uke* vers l’extérieur et frappe *gyaku-zuki* au corps avant de retomber en *kōkutsu-dachi*.
+2. Uke attrape de la main gauche la nuque de tori et frappe avec un coup de coude remontant.
+3. Uke pivote *mawari-ashi* vers l’extérieur afin de déplacer le poids de tori et frappe coup de genou arrière en posant la jambe devant.
+4. Avec la main gauche, uke glisse sous la gorge de tori, puis, tout en pivotant pour se mettre dos à lui, lui saisit la nuque afin de le faire chuter avec un *tai-otoshi*.
+
+:::

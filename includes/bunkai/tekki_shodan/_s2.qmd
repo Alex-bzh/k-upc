@@ -1,0 +1,15 @@
+## Séquence 2
+
+**Techniques :**
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori est en garde droite, uke en garde gauche.
+
+1. Tori attaque gyaku-zuki chūdan en tsugi-ashi. Uke bloque gyaku uchi-uke.
+2. Tori enchaîne mae-geri chūdan jambe arrière posée devant suivi de gyaku-zuki jōdan. Uke bloque le coup de pied avec un gyaku gedan-barai et le coup de poing avec un jōdan age-uke avant de terminer la séquence par un uraken-uchi.
+3. **Optionnel :** Uke attrape la nuque de uke après le uraken-uchi et, avec le bras arrière frappe empi-uchi.
+
+:::

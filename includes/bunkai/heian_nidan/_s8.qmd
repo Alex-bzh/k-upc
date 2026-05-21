@@ -1,0 +1,20 @@
+## Séquence 8
+
+**Techniques :**
+
+- Sur place, *gyaku uchi-uke* en *moto-dachi*.
+- En avançant, *mae-geri* jambe arrière posée devant.
+- Sur place, *gyaku-zuki* en *zenkutsu-dachi* gauche.
+- En avançant, *chūdan morote-uke* en *zenkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque en *gyaku uchi-uke* puis saisit immédiatement le poignet de tori.
+2. Uke contre *mae-geri* au corps et, en retombant, effectue un *soto-uke* sur le coude du bras tendu de tori.
+3. Uke maintient sa prise de la main gauche et glisse le bras sous celui de tori pour le faire chuter avec *ko-soto-gari*.
+
+:::

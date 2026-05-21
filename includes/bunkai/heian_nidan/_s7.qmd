@@ -1,0 +1,17 @@
+## Séquence 7
+
+**Techniques :**
+
+- Rotation à 45° vers la gauche, *gyaku uchi-uke* en *zenkutsu-dachi* gauche.
+- En avançant, *mae-geri* jambe arrière posée devant.
+- Sur place, *gyaku-zuki* en *zenkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori est en garde droite, uke en garde gauche.
+
+Tori attaque *oi-zuki* au corps. Uke bloque en *gyaku uchi-uke* puis contre *mae-geri* de la jambe arrière avant de frapper une dernière fois *gyaku-zuki* au corps.
+
+:::

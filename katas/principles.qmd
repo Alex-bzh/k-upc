@@ -3,6 +3,8 @@ title: "Katas et *bunkai*"
 lang: fr
 ---
 
+{{< lipsum 1 >}}
+
 ## Qu’est-ce qu’un *bunkai* ?
 
 ### Définition

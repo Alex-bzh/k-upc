@@ -1,0 +1,19 @@
+## Séquence 2
+
+**Techniques :**
+
+- Demi-tour, *jōdan tate-uke* du bras droit et *ude soete* du bras gauche en *kōkutsu-dachi* droite.
+- Sur place, *soto-ude-uke* du bras droit et *chūdan ura-zuki* du bras gauche.
+- Sur place, *jōdan tettsui-uchi* du bras droit.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *oi-zuki* à la tête. Uke bloque avec la combinaison *ude-soete* et *jōdan tate-uke* en *kōkutsu-dachi*.
+2. Tori enchaîne sur place *gyaku-zuki* au corps. Uke bloque *soto-uke* sur place puis remise avec *ura-zuki* en sursaut avant tout en veillant bien à ce que sa jambe avant soit à l’extérieur de la garde tori.
+3. Uke frappe *tettsui-uchi* à la tête puis attrape les jambes de tori afin de le faire chuter en arrière.
+
+:::

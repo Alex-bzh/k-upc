@@ -1,0 +1,27 @@
+## Séquence 9
+
+**Techniques :**
+
+- Grande rotation vers la gauche, *gedan-barai* en *zenkutsu-dachi* gauche.
+- Sur place, *gyaku jōdan age-shuto-uke*.
+- En avançant, *jōdan age-uke* en *zenkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *mae-geri* au corps, suivi d’un *kizami-zuki* à la tête. Uke bloque *gedan-barai* puis *age-shuto-uke*.
+2. Tori saisit le poignet du bras tendu de tori avant de remiser avec un *ude-gatame* en avançant.
+
+### Enchaîné avec la séquence 10
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *mae-geri* au corps, suivi d’un *kizami-zuki* à la tête. Uke bloque *gedan-barai* puis *age-shuto-uke*.
+2. Uke contre *oi-zuki* à la tête. Tori recule pour bloquer *age-uke*.
+3. Tori enchaîne avec un autre *mae-geri* au corps de la jambe arrière. Uke bloque toujours *gedan-barai*.
+4. Tori poursuit avec un *uraken* du bras avant. Uke bloque *age-shuto-uke* et, après avoir saisi le poignet de tori, termine avec une frappe du coude en avançant.
+
+:::

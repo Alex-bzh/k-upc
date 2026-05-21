@@ -1,0 +1,14 @@
+## Séquence 1
+
+**Techniques :**
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque oi-zuki chūdan. Uke bloque haishu-uke avant d’agripper le poignet par l’extérieur.
+2. Uke remise yoko-geri-kekomi chūdan et, en retombant en kiba-dachi, frappe kagi-zuki.
+
+:::

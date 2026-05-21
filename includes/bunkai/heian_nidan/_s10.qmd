@@ -1,0 +1,25 @@
+## Séquence 10
+
+**Techniques :**
+
+- Quasi demi-tour vers la droite, *gedan-barai* en *zenkutsu-dachi* gauche.
+- Sur place, *gyaku jōdan age-shuto-uke*.
+- En avançant, *jōdan age-uke* en *zenkutsu-dachi* gauche avec le **kiai**.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde droite.
+
+Tori attaque *mae-geri* au corps, suivi d’un *kizami-zuki* à la tête. Uke bloque *gedan-barai* puis *age-shuto-uke* avant de contrer avec un coup de coude à la tête tout en avançant.
+
+### Avancé
+
+Tori effectue une saisie directe du poignet gauche de uke.
+
+1. Uke recule la jambe gauche et se débarrasse de la saisie avec *gedan-barai*.
+2. Tori enchaîne immédiatement avec *uraken*. Uke bloque *age-shuto-uke* sur place, saisit à son tour le poignet de tori, puis rentre avec une frappe *soto-uke* sur le coude du bras tendu.
+3. Uke termine en amenant tori au sol avec *waki-gatame*.
+
+:::
