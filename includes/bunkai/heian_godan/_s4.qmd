@@ -1,0 +1,19 @@
+## Séquence 4
+
+**Techniques :**
+
+- Demi-tour en rotation autour du pied arrière, *gedan-barai* en *kiba-dachi* droite.
+- Demi-tour sur place, *haishu-uke* en *kiba-dachi* gauche.
+- En avançant, *mikatsuki-geri* jambe arrière puis, en retombant, *empi-uchi* en *kiba-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *mae-geri* au corps. Uke bloque *gedan-barai*.
+2. Tori enchaîne *oi-zuki* au corps. Uke bloque *haishu-uke* en reculant en *kiba-dachi*.
+3. Uke saisit le poignet de tori et remise *mikazuki-geri* et, en retombant, administre un coup de coude dans les côtes.
+
+:::

@@ -1,0 +1,19 @@
+## Séquence 6
+
+**Techniques :**
+
+- Pivot à angle droit, *kakiwake-uke* en *kōkutsu-dachi* droite.
+- En avançant, *mae-geri* jambe arrière en *zenkutsu-dachi* gauche.
+- Sur place, *chūdan oi-zuki* suivi de *gyaku-zuki*.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori saisit le col de uke des deux mains.
+
+1. Uke arme son *kakiwake* en passant par l’extérieur en croisant bien les bras. Il pivote *mawari-ashi* en reculant la jambe gauche et contre *uraken* avec le bras avant.
+2. Uke attrape son revers de kimono avec la main gauche et, avec l’autre, passe sous le bras de tori pour appliquer son *kakiwake*. Dans un geste sec, il se dégage de la saisie de tori.
+3. Uke frappe *mae-geri* jambe arrière et enchaîne *oi-zuki* à la tête et *gyaku-zuki* au corps.
+
+:::

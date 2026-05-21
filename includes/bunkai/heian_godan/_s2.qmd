@@ -1,0 +1,26 @@
+## Séquence 2
+
+**Techniques :**
+
+- Vers la droite, *uchi-uke* en *kōkutsu-dachi* droite.
+- Sur place, *chūdan-gyaku-zuki* en *kōkutsu-dachi* droite.
+- Sur place, *chūdan-kagi-zuki* en *heisoku-dachi*.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori est en garde gauche, uke en garde droite.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque *uchi-uke* en effectuant un déplacement *mawari-ashi* puis rentre *gyaku-zuki* en *kōkutsu-dachi* avec un sursaut.
+2. Uke remonte sur sa posture afin de terminer par un étranglement arrière *hadaka-jime*.
+
+### Avancé
+
+Tori effectue une saisie directe main droite au col.
+
+1. Uke saisit main arrière le même pan de son kimono où tori a effectué la saisie. De l’autre main, il passe sous le bras de tori pour prendre le *kumikata* en garde opposée. Il recule ensuite la jambe gauche pour tendre le bras de tori et lui faire lâcher sa prise.
+2. Uke rentre de suite *gyaku-zuki* avec un léger sursaut avant.
+3. Uke termine avec *waki-gatame*.
+
+:::

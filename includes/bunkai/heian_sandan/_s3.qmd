@@ -1,0 +1,22 @@
+## Séquence 3
+
+**Techniques :**
+
+- Rotation à angle droit vers l’avant, *chūdan morote-uke* en *kōkutsu-dachi* gauche.
+- Sur place, *osae-uke*.
+- En avançant, *yonhon-nukite* en *zenkutsu-dachi* droite.
+- Rotation *mawari-ashi* vers l’avant, *chūdan tettsui-uchi* en *kiba-dachi* gauche.
+- En avançant, *oi-zuki* en *zenkutsu-dachi* droite avec **kiai**.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* au corps. Uke effectue un mawari-ashi pour bloquer *uchi-uke* et, dans le même temps, remiser *ura-zuki*.
+2. Tori, en garde droite, attaque *mae-geri* jambe arrière posée devant. Uke bloque *osae-uke*.
+3. Uke remise *nukite* en changeant de garde. Tori bloque puis saisit le poignet de uke.
+4. Uke termine la séquence en effectuant un *mawari-ashi* complet puis *tettsui-uchi* à la nuque avant de projeter tori dans une forme de *ō-soto-gari*.
+
+:::

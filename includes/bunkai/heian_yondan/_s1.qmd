@@ -1,0 +1,19 @@
+## Séquence 1
+
+**Techniques :**
+
+- Vers la gauche, *haishu-uke* des deux bras en *kōkutsu-dachi* gauche.
+- Demi-tour vers la droite, *haishu-uke* des deux bras en *kōkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *mawashi-geri* à la tête. Uke bloque *tate-haishu-uke* du bras avant.
+2. Tori enchaîne *gyaku-zuki* à la tête. Uke bloque *shutō-age-uke* du bras arrière.
+3. Tori termine avec un *zuki* au corps sur place. Uke bloque *osae-uke* du bras avant tout en changeant de garde.
+4. Uke remise *shutō-uke* sans attendre la fin du déplacement.
+
+:::

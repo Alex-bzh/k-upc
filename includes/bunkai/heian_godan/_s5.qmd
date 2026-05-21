@@ -1,0 +1,17 @@
+## Séquence 5
+
+**Techniques :**
+
+- Sur place, *morote-uke* en *kōsa-dachi* droite.
+- Demi-tour sur place, *morote-kōhō-zuki-age* en *renoji-dachi*.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque *uchi-uke* puis remise *gyaku-zuki* en *kōsa-dachi*.
+2. Uke lâche la nuque de tori mais saisit son bras de la main gauche. Il recule ensuite la jambe arrière pour frapper du bras droit avec un coup de coude remontant.
+
+:::

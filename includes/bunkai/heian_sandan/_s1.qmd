@@ -1,0 +1,33 @@
+## Séquence 1
+
+**Techniques :**
+
+- Vers la gauche, *uchi-uke* en *kōkutsu-dachi* gauche.
+- En ramenant le pied arrière, *kōsa-uke* avec le poing droit en haut en *heisoku-dachi*.
+- Sur place, *kōsa-uke* avec le poing gauche en haut en *heisoku-dachi*.
+
+::: {.panel-tabset}
+
+### Bunkai intermédiaire
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_sandan/k3s1n2.webm
+    aria-label="Application martiale intermédiaire de la première séquence du kata"
+    title="Bunkai intermédiaire, séquence 1"
+>}}
+:::
+
+::: {.g-col-8}
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* suivi de *gyaku-zuki*, tous les deux au corps. Uke bloque *uchi-uke* puis *gyaku uchi-uke* avant de remiser *kizami-zuki* au corps.
+2. Tori, en garde droite, attaque *oi-zuki*. Uke effectue un déplacement *mawari-ashi* d’à peine un quart de tour vers l’extérieur de tori et bloque *uchi-uke* du bras avant tout en frappant *gyaku tettsui-uchi* de l’autre.
+
+:::
+
+:::
+
+:::

@@ -1,0 +1,17 @@
+## Séquence 7
+
+**Techniques :**
+
+- Demi-tour sur place, *nagashi-uke* bras avant et *shutō-uchi* bras arrière en *zenkutsu-dachi* gauche.
+- Sur place, *manji-kamae* en *kōkutsu-dachi* gauche.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* à la tête. Uke bloque *nagashi-uke* et remise *shutō-uchi* au niveau de la cuisse.
+2. Uke saisit le pantalon de tori de la main droite et son col de la main gauche puis le fait chuter par-dessus sa jambe avancée.
+
+:::

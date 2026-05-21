@@ -1,0 +1,16 @@
+## Séquence 5
+
+**Techniques :**
+
+- Grande rotation vers la gauche après avoir ramené le pied droit, *tate-zuki* droit et *ushiro empi-uchi* gauche en *kiba-dachi*.
+- Pas glissé vers la droite, *tate-zuki* gauche et *ushiro empi-uchi* droit en *kiba-dachi*, **kiai**.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori enserre uke au corps des deux bras.
+
+Uke descend en *kiba-dachi* gauche tout en levant les bras pour déserrer la prise, puis frappe avec un coup de coude gauche. Il réitère le coup de coude de l’autre côté après un déplacement glissé.
+
+:::

@@ -1,0 +1,19 @@
+## Séquence 5
+
+**Techniques :**
+
+- Grande rotation vers la droite dans la diagonale, *kakiwake-uke* en *kōkutsu-dachi* gauche.
+- En avançant, *mae-geri* jambe arrière en *zenkutsu-dachi* droite.
+- Sur place, *chūdan oi-zuki* suivi de *gyaku-zuki*.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori saisit le col de uke des deux mains.
+
+1. Uke effectue une double frappe *ura-zuki* au menton puis dégage *kakiwake* en reculant la jambe droite.
+2. Uke attrape la nuque de tori et enchaîne avec un coup de genou.
+3. Uke repousse tori avec le bras avant et termine avec *gyaku-zuki*.
+
+:::

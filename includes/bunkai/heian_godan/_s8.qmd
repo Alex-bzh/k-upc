@@ -1,0 +1,18 @@
+## Séquence 8
+
+**Techniques :**
+
+- Demi-tour sur place en ramenant la jambe avant, *manji-kamae* en *heisoku-dachi*.
+- Sur place, *nagashi-uke* bras avant et *shutō-uchi* bras arrière en *zenkutsu-dachi* droite.
+- Sur place, *manji-kamae* en *kōkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *oi-zuki* au corps. Uke dévie l’attaque une première fois avec *soto-uke* puis l’écarte complètement avec un *gyaku-uchi-uke* quand l’autre bras remise dans le même temps *tettsui-uchi* dans les côtes.
+2. Reprise de distance, tori en garde gauche. 
+
+:::

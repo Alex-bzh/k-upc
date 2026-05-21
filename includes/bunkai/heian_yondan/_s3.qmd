@@ -1,0 +1,22 @@
+## Séquence 3
+
+**Techniques :**
+
+- Sur place, *yoko-geri-kekomi* à angle droit vers la gauche accompagné d’un *uraken-uchi*.
+- En reposant, *gyaku empi-uchi* en *zenkutsu-dachi* gauche.
+- Demi-tour, *yoko-geri-kekomi* vers la droite accompagné d’un *uraken-uchi*.
+- En reposant, *gyaku empi-uchi* en *zenkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* à la tête. Uke bloque *uraken-uchi*.
+2. Uke saisit le poignet de tori avant de remiser *yoko-geri* jambe avant suivi d’un coup de coude en retombant.
+3. Uke passe en dessous du bras de tori puis change sa saisie avant d’effectuer un *fumi-komi* sur la jambe avancée de tori pour le forcer à mettre un genou en terre.
+4. Uke termine par un coup de coude sur la nuque de tori.
+5. **Optionnel :** uke peut finir avec un étranglement *hadaka-jime*.
+
+:::

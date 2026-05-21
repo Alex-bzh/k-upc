@@ -1,0 +1,17 @@
+## Séquence 2
+
+**Techniques :**
+
+- Pivot à angle droit, *gedan jūji-uke* en *zenkutsu-dachi* gauche.
+- En avançant, *morote-uke* en *kōkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *mae-geri* jambe arrière. Uke bloque *jūji-uke*.
+2. Tori enchaîne *oi-zuki* au corps. Uke recule pour bloquer *uchi-uke* en *kōkutsu-dachi* droite avant de remiser avec un uppercut arrière.
+
+:::

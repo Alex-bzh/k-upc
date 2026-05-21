@@ -1,0 +1,39 @@
+## Séquence 1
+
+**Techniques :**
+
+- Vers la gauche, *uchi-uke* en *kōkutsu-dachi* gauche.
+- Sur place, *chūdan gyaku-zuki* en *kōkutsu-dachi* gauche.
+- Sur place, *chūdan kagi-zuki* en *heisoku-dachi*.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *gyaku-zuki* au corps. Uke bloque *uchi-uke* et contre *gyaku-zuki*.
+2. Uke remonte en *heisoku-dachi* et frappe *kagi-zuki*.
+
+### Avancé
+
+Tori est en garde droite, uke en garde gauche.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque *gyaku-uchi-uke* et agrippe le poignet de tori. Dans le même temps, il passe le bras avant sous celui de tori afin d’appliquer un *ude-gatame* dans une forme de *uchi-uke*.  
+**Remarque :** pour bien effectuer la clé de coude, il est important que uke s’efface en pivotant vers l’intérieur afin de laisser tori ouvrir son épaule.
+2. Uke repousse le bras de tori et rentre *gyaku-zuki* en *kōkutsu-dachi* avec un sursaut avant.
+3. Dans le dernier temps, uke remonte pour frapper tori avec un coup de coude du bras avant.
+
+### Enchaîné avec la séquence 2
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* au corps. Uke se décale en *mawari-ashi* pour bloquer *uchi-uke* et contrer dans le même temps *gyaku-zuki*.
+2. Uke saisit le poignet de tori des deux mains et passe sous son bras pour amorcer un *waki-gatame* sans amener tori au sol.
+3. Reprise de distance en garde gauche. Tori attaque à nouveau *oi-zuki* au corps. Uke pivote à angle droit vers la gauche pour bloquer *uchi-uke* en *kōkutsu-dachi* droite, sur l’extérieur de tori.
+4. Uke saisit le poignet de tori puis contre *gyaku-zuki*.
+5. Uke remonte sur sa posture et exécute un *empi* descendant dans le creux du coude de tori.
+6. Uke enroule sa main par le dessus et vers l’intérieur pour agripper son propre poignet dans une prise en triangle.
+7. Uke pivote de l’autre côté pour faire chuter tori en accompagnant avec un *ko-soto-gari*.
+
+:::

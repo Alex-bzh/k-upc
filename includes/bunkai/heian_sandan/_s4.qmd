@@ -1,0 +1,28 @@
+## Séquence 4
+
+**Techniques :**
+
+- Demi-tour en *mawari-ashi* , *ryōken koshi-kamae* en *heisoku-dachi*.
+- En avançant, *mikatsuki-geri* en *kiba-dachi* droite avec *empi-uchi* suivi de *jōdan uraken-uchi*.
+- En avançant, *mikatsuki-geri* en *kiba-dachi* gauche avec *empi-uchi* suivi de *jōdan uraken-uchi*.
+- En avançant, *mikatsuki-geri* en *kiba-dachi* droite avec *empi-uchi* suivi de *jōdan uraken-uchi*.
+- Sur place, *tate-shutō*.
+- En avançant, *oi-zuki* en *zenkutsu-dachi* gauche.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque *mikazuki-geri* avec retrait de la jambe avant pour gagner de la distance et, en retombant *kiba-dachi*, frappe *empi-uchi*.
+2. Uke termine la séquence en attrapant le bras avant de uke avec la main arrière et enclenche un *ko-uchi-gari-maki-komi*.
+
+### Enchaîné avec la séquence 5
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque *tate-shutō* puis saisit le poignet de tori avant de remiser *oi-zuki* au corps tout en changeant de garde.
+2. Uke change à nouveau de garde en passant le bras de tori au-dessus et termine avec *waki-gatame*.
+
+:::

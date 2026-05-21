@@ -1,0 +1,32 @@
+## Séquence 3
+
+**Techniques :**
+
+- Vers l’avant, *morote-uke* en *kōkutsu-dachi* droite.
+- En avançant, *gedan-jūji-uke* en *zenkutsu-dachi* gauche.
+- Sur place, *jōdan-shutō-jūji-uke* en *zenkutsu-dachi* gauche.
+- Sur place, *osae-uke* en *zenkutsu-dachi* gauche.
+- Sur place, *tettsui-uchi* en *zenkutsu-dachi* gauche.
+- En avançant, *chūdan-oi-zuki* en *zenkutsu-dachi* droite avec le **kiai**.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque *morote-uke*.
+2. Tori enchaîne *mae-geri* au corps suivi de *kizami-zuki* à la tête. Uke recule pour bloquer *jūji-uke* suivi de *shutō-jūji-uke*.
+3. Uke effectue un *waki-gatame* avant de contrer *tettsui-uchi* sur place.
+4. Uke change de garde et fait chuter tori grâce à un *ō-soto-gari*.
+
+### Avancé
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *oi-zuki* au corps. Uke bloque *uchi-uke* et contre dans le même *gyaku ura-zuki* en effectuant un pivot en *mawari-ashi*.
+2. Reprise de distance, tori en garde gauche. Tori attaque *mae-geri* jambe arrière. Uke bloque *gedan-barai* en reculant puis contre *gyaku-zuki*.
+3. Reprise de distance, tori en garde droite. Tori attaque *oi-zuki* à la tête. Uke bloque *shutō-age-uke* du bras avant et remise *shutō-uchi* à la gorge du bras arrière.
+4. Uke termine avec *tai-otoshi*, le bras qui tire figurant le *tettsui* et la frappe au sol pour le dernier *zuki*.
+
+:::
