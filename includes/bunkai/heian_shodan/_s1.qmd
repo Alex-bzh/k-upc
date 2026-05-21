@@ -1,0 +1,72 @@
+## Séquence 1
+
+**Techniques :**
+
+- Vers la gauche, *gedan-barai* en *zenkutsu-dachi* gauche.
+- En avançant, *oi-zuki chūdan* en *zenkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_shodan/k1s1n1.webm
+    aria-label="Application martiale basique de la première séquence du kata"
+    title="Bunkai de base, séquence 1"
+>}}
+:::
+
+::: {.g-col-8}
+Tori et uke sont en garde gauche.
+
+Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* et remise *oi-zuki* après un changement de garde.
+:::
+
+:::
+
+### Avancé
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_shodan/k1s1n3.webm
+    aria-label="Application martiale avancée de la première séquence du kata Heian Shodan"
+    title="Bunkai avancé, séquence 1"
+>}}
+:::
+
+::: {.g-col-8}
+
+Tori et uke sont en garde gauche.
+
+Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* et remise *gyaku-zuki* au corps avant de finir avec de finir avec *hiza-geri* de la jambe arrière.
+
+:::
+
+:::
+
+### Enchaîné avec la séquence 2
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_shodan/k1s1n4.webm
+    aria-label="Application martiale des séquences 1 et 2 du kata Heian Shodan"
+    title="Bunkai avancé, séquences 1 & 2"
+>}}
+:::
+
+::: {.g-col-8}
+
+Tori est en garde droite, uke en garde gauche.
+
+1. Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* et remise avec un *gyaku-zuki* en poursuite pour se repositionner derrière tori en garde droite. Tori se remet en garde gauche avec un *mawari-ashi*.
+2. Tori est en garde gauche et uke en garde droite. Tori attaque *mae-geri* de la jambe arrière. Uke bloque *gedan-barai* puis remise *tettsui-uchi* au niveau de la nuque avant de terminer avec un *ō-soto-gari*.
+
+:::
+
+:::
+
+:::

@@ -1,0 +1,24 @@
+## Séquence 6
+
+**Techniques :**
+
+- Déplacement à angle droit autour du pied arrière, *gedan-barai* en *zenkutsu-dachi* gauche.
+- En avançant, trois *oi-zuki chūdan* en *zenkutsu-dachi* avec **kiai** sur le dernier.
+
+::: {.panel-tabset}
+
+### Bunkai intermédiaire
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *mae-geri* au corps. Uke bloque *gedan-barai* avec un retrait de la jambe avant et contre *oi-zuki* au corps.
+2. Reprise de distance en garde droite. Cette fois-ci, uke attaque *oi-zuki* au corps et tori bloque *uchi-uke*. Uke poursuit avec un *mae-geri* au corps enchaîné avec un coup de coude au visage.
+
+### Avancé
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *mae-geri* au corps. Uke bloque *gedan-barai* avec un retrait de la jambe avant et contre *oi-zuki* au corps. Tori bloque *osae-uke* avec un sursaut arrière.
+2. Tori et uke sont maintenant en garde droite. Uke enchaîne avec un *oi-zuki* au corps. Tori bloque *uchi-uke* en reculant la jambe. Uke saisit le poignet, effectue un changement de jambes et contre *oi-zuki* à la tête.
+
+:::

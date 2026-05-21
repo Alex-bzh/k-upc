@@ -10,7 +10,9 @@ listing:
 ---
 
 ::: {.column-body}
-{{< include ./includes/carousel.html >}}
+
+{{< include /includes/_carousel.html >}}
+
 :::
 
 ::: {.column-margin}

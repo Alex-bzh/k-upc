@@ -1,0 +1,22 @@
+## Séquence 8
+
+**Techniques :**
+
+- Quasi demi-tour avec un *shutō-uke* en *kōkutsu-dachi* droite.
+- En avançant dans la diagonale intérieure, *shutō-uke* en *kōkutsu-dachi* gauche.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori est en garde droite et uke en garde gauche.
+
+Tori attaque *oi-zuki* au corps. Uke bloque *shuto-uke* en *kōkutsu-dachi* grâce à un déplacement latéral vers l’extérieur. Il saisit le poignet de tori et, grâce à un changement de jambes, lui frappe dans les côtes avec le coude.
+
+### Intermédiaire
+
+Tori est en garde droite et uke en garde gauche.
+
+Tori attaque *oi-zuki* au corps. Uke bloque *nagashi-uke* *shuto-uke* en *kōkutsu-dachi* grâce à un déplacement *mawari-ashi* avant d’effectuer un changement de garde et de contrer *shutō-uke* à la gorge.
+
+:::

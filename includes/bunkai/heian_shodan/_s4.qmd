@@ -1,0 +1,23 @@
+## Séquence 4
+
+**Techniques :**
+
+- Grande rotation autour du pied arrière, *gedan-barai* en *zenkutsu-dachi* gauche.
+- En avançant, *oi-zuki chūdan* en *zenkutsu-dachi* droite.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+Tori et uke sont en garde gauche.
+
+Tori attaque *oi-zuki* au corps. Uke bloque *soto-uke* du bras avant et remise avec un *tettsui-uchi* au niveau *gedan* avant de projeter tori au sol avec *ō-soto-gari*.
+
+### Enchaîné avec la séquence 5
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque avec un *mae-geri* au corps de la jambe arrière que uke bloque avec *gedan-barai*.
+2. Uke enchaîne avec *oi-zuki* au corps. Tori bloque *sote-uke* et remise immédiatement *gyaku-zuki* à la tête. Uke bloque à son tour en *sote-uke* puis se débarrasse du bras de tori avec un mouvement circulaire dans l’esprit d’un *gedan-barai* avant de remiser avec un *gyaku-zuki* à la tête en poursuite pour se retrouver en garde gauche derrière lui.
+
+:::

@@ -1,0 +1,76 @@
+## Séquence 3
+
+**Techniques :**
+
+- Déplacement à angle droit autour du pied arrière, *gedan-barai* en *zenkutsu-dachi* gauche.
+- Sur place, *shutō-age-uke* du bras gauche.
+- En avançant, suivent trois *jōdan age-uke* en *zenkutsu-dachi* avec **kiai** sur le dernier.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_shodan/k1s3n1.webm
+    aria-label="Application martiale basique de la troisième séquence du kata"
+    title="Bunkai de base, séquence 3"
+>}}
+:::
+
+::: {.g-col-8}
+
+Tori et uke sont en garde gauche.
+
+Tori attaque *mae-geri* au corps puis enchaîne avec *kizami-zuki* à la tête. Uke bloque les deux attaques du bras gauche avec un *gedan-barai* suivi d’un *age-uke* avant de contre-attaquer avec un coup de coude à la tête en avançant.
+
+:::
+
+:::
+
+### Intermédiaire
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_shodan/k1s3n2.webm
+    aria-label="Application martiale intermédiaire de la troisième séquence du kata"
+    title="Bunkai intermédiaire, séquence 3"
+>}}
+:::
+
+::: {.g-col-8}
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *mae-geri* au corps puis enchaîne avec *kizami-zuki* à la tête. Uke bloque les deux attaques du bras gauche avec un *gedan-barai* suivi d’un *age-uke*. Il contre ensuite par un *gyaku-zuki* au corps avant d’avancer et d’appliquer un *ude-gatame* du bras qui vient de frapper.
+2. Tori recule en garde gauche, uke reste en garde droite. Tori attaque *oi-zuki* à la tête. Uke bloque *age-uke* gauche en reculant puis contre *mae-geri* de la jambe arrière avant de finir avec un coup de coude au visage.
+
+:::
+
+:::
+
+### Avancé
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_shodan/k1s3n3.webm
+    aria-label="Application martiale avancée de la troisième séquence du kata"
+    title="Bunkai avancé, séquence 3"
+>}}
+:::
+
+::: {.g-col-8}
+
+Tori et uke sont en garde gauche.
+
+1. Tori attaque *mae-geri* au corps puis enchaîne avec *kizami-zuki* à la tête. Uke bloque les deux attaques du bras gauche avec un *gedan-barai* suivi d’un *age-uke* avant de contre-attaquer avec un coup de coude à la tête en avançant.
+2. Reprise de distance en garde droite. Tori avance avec un *oi-zuki* à la tête. Uke recule pour bloquer *age-uke*. Il lui saisit ensuite le poignet afin de frapper *soto-uke* sur le coude du bras tendu et de finir en *ude-hishigi-waki-gatame* pour amener tori au sol.
+
+:::
+
+:::
+
+:::

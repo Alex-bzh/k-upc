@@ -1,0 +1,55 @@
+## Séquence 2
+
+**Techniques :**
+
+- Demi-tour avec un *gedan-barai* en *zenkutsu-dachi* droite.
+- Sur place, *tate-mawashi tettsui-uchi* en *moto-dachi*.
+- En avançant, *oi-zuki chūdan* en *zenkutsu-dachi* gauche.
+
+::: {.panel-tabset}
+
+### Bunkai de base
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_shodan/k1s2n1.webm
+    aria-label="Application martiale basique de la seconde séquence du kata"
+    title="Bunkai de base, séquence 2"
+>}}
+:::
+
+::: {.g-col-8}
+
+Tori et uke sont en garde droite.
+
+Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* et remise une première fois *tettsui-uchi* avant d’enchaîner *oi-zuki* après un changement de garde.
+
+:::
+
+:::
+
+### Avancé
+
+::: {.grid}
+
+::: {.g-col-4}
+{{< video /videos/bunkai/heian_shodan/k1s2n3.webm
+    aria-label="Application martiale avancée de la seconde séquence du kata"
+    title="Bunkai avancé, séquence 2"
+>}}
+:::
+
+::: {.g-col-8}
+
+Tori et uke sont en garde droite.
+
+1. Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* avec un léger recul.
+2. Tori enchaîne avec un *gyaku-zuki* au corps. Uke bloque *soto-uke* avant de remiser du même bras avec un coup de coude au visage grâce à un léger sursaut avant.
+3. Uke poursuit avec un *hiza-geri* de la jambe arrière au corps avant de finir en *ō-soto-gari*.
+
+:::
+
+:::
+
+:::
