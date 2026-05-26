@@ -12,11 +12,13 @@
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-4 #vid-k2s1n1}
 {{< video /videos/bunkai/heian_nidan/k2s1n1.webm
     aria-label="Application martiale basique de la première séquence du kata"
     title="Bunkai de base, séquence 1"
 >}}
+
+*Séquence 1, bunkai fondamental* par Régis et Zübeyr. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-8}
@@ -32,11 +34,13 @@ Tori est en garde gauche, uke en garde droite.
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-4 #vid-k2s1n2}
 {{< video /videos/bunkai/heian_nidan/k2s1n2.webm
     aria-label="Application martiale intermédiaire de la première séquence du kata"
     title="Bunkai intermédiaire, séquence 1"
 >}}
+
+*Séquence 1, bunkai intermédiaire* par Régis et Zübeyr. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-8}
@@ -55,11 +59,13 @@ Tori et uke sont en garde gauche.
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-4 #vid-k2s1n4}
 {{< video /videos/bunkai/heian_nidan/k2s1n4.webm
     aria-label="Application martiale des séquences 1 & 2 du kata Heian Nidan"
     title="Bunkai avancé des séquences 1 et 2"
 >}}
+
+*Bunkai des séquences 1 & 2* par Régis et Zübeyr. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-8}

@@ -12,11 +12,13 @@
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-4 #vid-k1s3n1}
 {{< video /videos/bunkai/heian_shodan/k1s3n1.webm
     aria-label="Application martiale basique de la troisième séquence du kata"
     title="Bunkai de base, séquence 3"
 >}}
+
+*Séquence 3, bunkai fondamental* par Fallone et Sarah. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-8}
@@ -33,11 +35,13 @@ Tori attaque *mae-geri* au corps puis enchaîne avec *kizami-zuki* à la tête. 
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-4 #vid-k1s3n2}
 {{< video /videos/bunkai/heian_shodan/k1s3n2.webm
     aria-label="Application martiale intermédiaire de la troisième séquence du kata"
     title="Bunkai intermédiaire, séquence 3"
 >}}
+
+*Séquence 3, bunkai intermédiaire* par Fallone et Sarah. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-8}
@@ -55,11 +59,13 @@ Tori et uke sont en garde gauche.
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-4 #vid-k1s3n3}
 {{< video /videos/bunkai/heian_shodan/k1s3n3.webm
     aria-label="Application martiale avancée de la troisième séquence du kata"
     title="Bunkai avancé, séquence 3"
 >}}
+
+*Séquence 3, bunkai avancé* par Fallone et Sarah. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-8}

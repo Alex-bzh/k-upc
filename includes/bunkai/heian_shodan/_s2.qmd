@@ -12,11 +12,13 @@
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-4 #vid-k1s2n1}
 {{< video /videos/bunkai/heian_shodan/k1s2n1.webm
     aria-label="Application martiale basique de la seconde séquence du kata"
     title="Bunkai de base, séquence 2"
 >}}
+
+*Séquence 2, bunkai fondamental* par Gaia et Camélia. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-8}
@@ -33,11 +35,13 @@ Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* 
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-4 #vid-k1s2n3}
 {{< video /videos/bunkai/heian_shodan/k1s2n3.webm
     aria-label="Application martiale avancée de la seconde séquence du kata"
     title="Bunkai avancé, séquence 2"
 >}}
+
+*Séquence 2, bunkai avancé* par Gaia et Camélia. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-8}
