@@ -11,13 +11,13 @@
 
 ::: {.grid}
 
-::: {.g-col-4 #vid-heian-shodan-bunkai-s1}
+::: {.g-col-4 #vid-k1s1n1}
 {{< video /videos/bunkai/heian_shodan/k1s1n1.webm
     aria-label="Application martiale basique de la première séquence du kata"
     title="Bunkai de base, séquence 1"
 >}}
 
-*Heian Shodan, bunkai de base, séquence 1* par Gaia et Camélia [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) J. Quenez.
+*Séquence 1, bunkai fondamental* par Gaia et Camélia. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-8}
@@ -32,11 +32,13 @@ Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* 
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-4 #vid-k1s1n3}
 {{< video /videos/bunkai/heian_shodan/k1s1n3.webm
     aria-label="Application martiale avancée de la première séquence du kata Heian Shodan"
     title="Bunkai avancé, séquence 1"
 >}}
+
+*Séquence 1, bunkai avancé* par Gaia et Camélia. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-8}
@@ -53,11 +55,13 @@ Tori attaque *mae-geri* au corps de la jambe arrière. Uke bloque *gedan-barai* 
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-4 #vid-k1s1n4}
 {{< video /videos/bunkai/heian_shodan/k1s1n4.webm
     aria-label="Application martiale des séquences 1 et 2 du kata Heian Shodan"
     title="Bunkai avancé, séquences 1 & 2"
 >}}
+
+*Bunkai des séquences 1 & 2* par Gaia et Camélia. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-8}
