@@ -12,11 +12,13 @@
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-4 #vid-k3s1n2}
 {{< video /videos/bunkai/heian_sandan/k3s1n2.webm
     aria-label="Application martiale intermédiaire de la première séquence du kata"
     title="Bunkai intermédiaire, séquence 1"
 >}}
+
+*Séquence 1, bunkai intermédiaire* par Régis et Zübeyr. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-8}

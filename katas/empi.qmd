@@ -7,11 +7,13 @@ lang: fr
 
 :::: {.grid}
 
-::: {.g-col-8}
+::: {.g-col-8 #vid-empi}
 {{< video /videos/katas/empi.webm
     aria-label="Démonstration du kata Empi"
     title="Kata Empi"
 >}}
+
+*Empi* par Régis. CC BY-NC-ND, J. Quenez.
 :::
 
 ::: {.g-col-4}
