@@ -102,5 +102,5 @@ format:
 crossref:
   custom:
     - kind: float
-      reference-prefix: Vidéo
+      reference-prefix: "Vidéo "
       key: vid
