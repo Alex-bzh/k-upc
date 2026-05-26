@@ -7,11 +7,13 @@ Premier kata de la série initiatique *Heian*, son appellation peut se traduire 
 
 :::: {.grid}
 
-::: {.g-col-8}
+::: {.g-col-8 #vid-heian-shodan}
 {{< video /videos/katas/heian_shodan.webm
     aria-label="Démonstration du kata Heian Shodan"
     title="Kata Heian Shodan"
 >}}
+
+*Heian Shodan* par Fallone. [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) J. Quenez.
 
 :::
 

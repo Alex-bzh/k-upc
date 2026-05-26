@@ -98,3 +98,9 @@ format:
     theme: united
     css: styles.css
     toc: true
+
+crossref:
+  custom:
+    - kind: float
+      reference-prefix: Video
+      key: vid

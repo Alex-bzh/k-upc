@@ -11,11 +11,13 @@
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-4 #vid-heian-shodan-bunkai-s1}
 {{< video /videos/bunkai/heian_shodan/k1s1n1.webm
     aria-label="Application martiale basique de la première séquence du kata"
     title="Bunkai de base, séquence 1"
 >}}
+
+*Heian Shodan, bunkai de base, séquence 1* par Gaia et Camélia [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) J. Quenez.
 :::
 
 ::: {.g-col-8}
