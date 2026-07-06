@@ -55,6 +55,8 @@ Les *waza* constituent le vocabulaire de tout·e karatéka·te. Connaître l’e
 |   Blocage avec les bras croisés.
 | **kakiwake-uke**
 |   Défense en écartant les bras comme pour faire lâcher une prise.
+| **manji-uke**
+|   Double blocage en forme de gedan barai à l’avant et de jōdan uchi-uke à l’arrière.
 | **morote-uke**
 |   Blocage en forme de *uchi-uke* mais avec le second poing en renfort.
 | **shutō-jūji-uke**
