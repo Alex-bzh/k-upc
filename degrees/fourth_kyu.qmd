@@ -21,6 +21,7 @@ En plus des techniques de [la ceinture jaune](./fifth_kyu.qmd), le programme inc
 
 - **Déplacements**
   - [*Okuri-ashi*](/lexicon/unsoku.qmd)
+  - [*Yori-ashi*](/lexicon/unsoku.qmd)
 
 - **Postures hautes**
   - [*Uchi-hachiji-dachi*](/lexicon/tachi.qmd#postures-hautes)
