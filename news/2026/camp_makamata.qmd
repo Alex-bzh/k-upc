@@ -7,7 +7,9 @@ date: "2026-09-14"
 categories: "Rencontres"
 ---
 
-![Dany Makamata](/images/news/2026/makamata.jpg){fig-align="left"}
+::: {.centered-figure}
+![Dany Makamata](/images/news/2026/makamata.jpg){fig-align="center"}
+:::
 
 Pour son stage de rentrée, l’EKV a invité Dany Makamata, membre de l’équipe de France, à nous parler de stratégie de combat et d’efficacité des techniques.
 
