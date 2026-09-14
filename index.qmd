@@ -32,7 +32,7 @@ Bâtiment Sophie Germain
 **Enseignant :** Alexandre Roulois (5^e^ dan)
 
 :::{.text-center .mt-2}
-[Inscription](https://u-paris.fr/sport/inscription-apsa/){.btn .btn-primary target="_blank"}
+[Inscription](https://u-pariscite.fr/sport/faire-du-sport/){.btn .btn-primary target="_blank"}
 :::
 
 :::
