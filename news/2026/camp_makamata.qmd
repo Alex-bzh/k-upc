@@ -1,0 +1,14 @@
+---
+title: "Stage avec Dany Makamata"
+lang: fr
+author: "Alex-Bzh"
+image: /images/news/categories/camp.png
+date: "2026-09-14"
+categories: "Rencontres"
+---
+
+![Dany Makamata](/images/news/2026/makamata.jpg){fig-align="left"}
+
+Pour son stage de rentrée, l’EKV a invité Dany Makamata, membre de l’équipe de France, à nous parler de stratégie de combat et d’efficacité des techniques.
+
+Au programme de ces deux heures, de nombreuses mises en situation issues de son expérience personnelle en compétition et un exigeant travail de déplacement pour prendre l’ascendant sur son partenaire.
