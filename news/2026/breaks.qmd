@@ -1,0 +1,16 @@
+---
+title: "Périodes de congés"
+lang: fr
+author: "Alex-Bzh"
+image: /images/news/categories/break.jpg
+date: "2026-09-14"
+categories: "Vie du club"
+---
+
+Le calendrier de l’université impose la suspension des cours pendant les périodes suivantes :
+
+- du 25 au 30 octobre 2026
+- du 21 décembre 2026 au 8 janvier 2027
+- du 5 au 16 avril 2027
+
+Fin des cours le jeudi 3 juin 2027.
