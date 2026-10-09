@@ -39,7 +39,7 @@ Au terme des saluts assis, le ou la professeur·e se relève seul·e, en levant 
 
 ## Les *kihon*
 
-### Le *kihon* en ligne
+### Le *kihon* linéaire
 
 Les candidat·es sont en posture *hachiji-dachi*. Au premier commandement *yoi*, ils et elles saluent le jury et reprennent leur posture de départ. Le second commandement leur indique la garde à adopter : gauche ou droite, et, éventuellement la posture. Si cette dernière est omise, les candidat·es devront se positionner par défaut en *zenkutsu-dachi* et effectuer la technique *gedan barai*. Exemples :
 
@@ -60,11 +60,17 @@ Le jury annonce ensuite la technique puis, après un temps de réflexion pendant
 6. « *San* ! » Une dernière fois.
 7. « *Mawatte* ! » Demi-tour.
 
-### La version multidirectionnelle
+### Le kihon en poursuite
 
-Les candidat·es font face au jury, en posture *hachiji-dachi*. Après un salut debout, le jury leur demande de se mettre en garde de combat *fudo-dachi*.
+On définit pour cette épreuve un point de départ `A` ainsi que trois directions :
 
-Le jury annonce ensuite l’enchaînement et, à la demande des candidat·es, peut le démontrer. Si tout le monde est prêt, le jury déclenche l’épreuve par le commandement « *hajime* ». Les candidat·es effectuent l’enchaînement une première fois, reviennent en position de départ avant de se positionner dans une autre direction pour lancer la seconde itération.
+- `90°` pour celle qui pointe vers le jury ;
+- `0°` pour celle qui pointe vers la gauche des candidat·es ;
+-  `180°` pour celle qui pointe à l’opposé de `0°`.
+
+On suppose aussi qu’après chaque itération les candidat·es reviennent au point `A` dans la direction exécutée tout en conservant la garde initiale.
+
+Les candidat·es font face au jury, en posture *hachiji-dachi*. Après un salut debout, le jury annonce l’enchaînement à exécuter. Les candidat·es se mettent alors en posture de combat *hidari fudo-dachi kamae* dans la direction `0°`. Si tout le monde est prêt, le jury déclenche l’épreuve par le commandement « *hajime* ». L’enchaînement est exécuté une première fois dans cette direction, puis une seconde dans la direction `90°` et enfin une dernière dans la direction `180°`. Ils et elles passent ensuite en *migi fudo-dachi kamae* sur place et reproduisent le schéma dans l’autre garde.
 
 À la toute fin, le jury annonce « *yame* » et les candidat·es peuvent se remettre en *hachiji-dachi*.
 

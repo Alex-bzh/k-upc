@@ -22,8 +22,8 @@ La fédération française de karaté ne reconnaît pas automatiquement les grad
 L’examen de la ceinture noire est composée de six épreuves notées chacune sur 20 points :
 
 1. *Kihon*
-    1. *Kihon* en ligne
-    2. *Kihon* multidirectionnel
+    1. *Kihon* linéaire
+    2. *Kihon* en poursuite
     3. *Kihon* avec cibles
 2. *Kihon ippon kumite*
 3. *Kata*
@@ -61,15 +61,67 @@ En plus des techniques de [la ceinture marron](/learning/first_kyu.html), le pro
   - [*Haishu-uchi*](/lexicon/waza.qmd#uchi-waza)
   - [*Koken-uchi*](/lexicon/waza.qmd#uchi-waza)
 
-### Kihon en ligne
+### Programme imposé
 
-Les candidat·es sont d’abord évalué·es sur des techniques simples sur trois pas avant d’exécuter des enchaînements de trois techniques maximum, toujours sur trois pas, avec soit un demi-tour au terme de l’aller, soit en reculant ensuite.
+#### Premier kihon
 
-### Kihon multidirectionnel
+Départ en garde droite (*migi zenkutsu-dachi kamae*)
 
-Cette épreuve est subdivisée en deux parties. Tout d’abord, il est demandé aux candidat·es d’exécuter un enchaînement de trois techniques en garde gauche puis en garde droite avec retour à la position initiale.
+1. *Ayumi-ashi zenkutsu-dachi oi-zuki*
+2. *Ayumi-ashi kōkutsu-dachi shutō-uke*
+3. (sur place) *zenkutsu-dachi gyaku-zuki*
 
-Ensuite, ils et elles sont interrogé·es sur des enchaînements de trois mouvements face à un adversaire en déplacement, en garde gauche puis en garde droite.
+#### Second kihon
+
+Départ en garde droite (*migi zenkutsu-dachi kamae*)
+
+1. *Ayumi-ashi zenkutsu-dachi gedan-ude-barai*
+2. *Ayumi-ashi kōkutsu-dachi uchi-ude-uke*
+3. *Ayumi-ashi neko-ashi-dachi jōdan-age-uke*
+
+#### Troisième kihon
+
+Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
+
+1. *Ayumi-ashi zenkutsu-dachi chūdan-mae-geri*
+2. *Hiki-ashi zenkutsu-dachi soto-ude-uke*
+3. (sur place) *zenkutsu-dachi gyaku-haitō-uchi*
+
+#### Quatrième kihon
+
+Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
+
+1. *Hiki-yori-ashi zenkutsu-dachi gedan-ude-barai*
+2. *Ayumi-ashi zenkutsu-dachi oi-zuki*
+3. *Tsugi-ashi zenkutsu-dachi gyaku-zuki*
+
+#### Cinquième kihon
+
+Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
+
+1. *Ayumi-ashi fudo-dachi chūdan-yoko-geri*
+2. *Hiki-ashi fudo-dachi gedan-ude-barai*
+3. *Yori-ashi zenkutsu-dachi gyaku-teisho-uchi*
+
+#### Sixième kihon
+
+Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
+
+1. *Hiki-ashi kōkutsu-dachi uchi-ude-uke*
+2. *Hiki-ashi neko-ashi-dachi jōdan-age-uke*
+3. *Hiki-ashi shiko-dachi gedan-ude-barai*
+
+### Kihon linéaire
+
+Les candidat·es sont d’abord évalué·es sur des enchaînements de trois techniques maximum, exécutés six fois en tout avec un demi-tour après la troisième itération. À la fin d’une itération, reprendre la garde de départ.
+
+Le jour de l’examen, le jury tire au sort trois enchaînements parmi les six de la liste du programme imposé.
+
+### Kihon en poursuite
+
+Les trois enchaînements restants du programme imposé serviront à évaluer les candidat·es lors d’une épreuve dite « en poursuite ».
+
+Chaque enchaînement est à exécuter d’abord en garde gauche dans des directions de 0° à 180°, puis de 0° à 180° en garde droite. Une seule exécution est demandée dans chacune des directions choisies, avec retour à la position de départ.
 
 ### Kihon avec cibles
 
@@ -116,13 +168,7 @@ Tout kata d’un autre style de karaté peut être retenu par les candidat·es �
 
 ## Bunkai
 
-Les candidat·es présentent trois séquences issues d’un kata de la liste officielle en démontrant leur efficacité dans des situations de combat semi-réalistes. Il n’est donc pas obligatoire de présenter un *bunkai* reposant sur l’un des katas choisis librement lors de l’épreuve précédente. Par exemple, je peux tout à fait choisir d’exécuter les katas *heian godan* et *tekki shodan* et choisir plutôt des applications sur *heian nidan*.
-
-::: {.callout-important}
-Le kata retenu par les candidat·es doit obligatoirement appartenir à leur style déclaré. Si je suis inscrit·e au passage de grade en tant que *shōtōkan*, je dois alors choisir un kata *shōtōkan* dans la liste pour le 1^er^ dan.
-
-Par ailleurs, mes applications ne doivent concerner qu’un seul kata.
-:::
+Les candidat·es présentent trois séquences issues d’un des deux katas exécutés à l’épreuve précédente en démontrant leur efficacité dans des situations de combat semi-réalistes.
 
 ## Jiyu ippon kumite
 
