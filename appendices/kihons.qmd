@@ -3,7 +3,7 @@ title: "Programme imposé des kihons par dan"
 lang: fr
 ---
 
-## (Premier dan){#shodan}
+## Premier dan{#shodan}
 
 ### Premier kihon
 
@@ -53,7 +53,7 @@ Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
 2. *Hiki-ashi neko-ashi-dachi jōdan-age-uke*
 3. *Hiki-ashi shiko-dachi gedan-ude-barai*
 
-## (Deuxième dan){#nidan}
+## Deuxième dan{#nidan}
 
 ### Premier kihon
 
