@@ -79,6 +79,8 @@ Les *waza* constituent le vocabulaire de tout·e karatéka·te. Connaître l’e
 |   Coup de poing du bras avant.
 | **mawashi-zuki**
 |   Crochet.
+| **nagashi-zuki**
+|   Coup de poing du bras avant tout en esquivant sur le côté.
 | **oi-zuki**
 |   Coup de poing du bras arrière en avançant d’un pas.
 | **tate-zuki**
