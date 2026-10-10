@@ -1,0 +1,64 @@
+---
+title: "Programme imposé des kihons par dan"
+lang: fr
+---
+
+## (Premier dan){#shodan}
+
+### Premier kihon
+
+Départ en garde droite (*migi zenkutsu-dachi kamae*)
+
+1. *Ayumi-ashi zenkutsu-dachi oi-zuki*
+2. *Ayumi-ashi kōkutsu-dachi shutō-uke*
+3. (sur place) *zenkutsu-dachi gyaku-zuki*
+
+### Second kihon
+
+Départ en garde droite (*migi zenkutsu-dachi kamae*)
+
+1. *Ayumi-ashi zenkutsu-dachi gedan-ude-barai*
+2. *Ayumi-ashi kōkutsu-dachi uchi-ude-uke*
+3. *Ayumi-ashi neko-ashi-dachi jōdan-age-uke*
+
+### Troisième kihon
+
+Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
+
+1. *Ayumi-ashi zenkutsu-dachi chūdan-mae-geri*
+2. *Hiki-ashi zenkutsu-dachi soto-ude-uke*
+3. (sur place) *zenkutsu-dachi gyaku-haitō-uchi*
+
+### Quatrième kihon
+
+Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
+
+1. *Hiki-yori-ashi zenkutsu-dachi gedan-ude-barai*
+2. *Ayumi-ashi zenkutsu-dachi oi-zuki*
+3. *Tsugi-ashi zenkutsu-dachi gyaku-zuki*
+
+### Cinquième kihon
+
+Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
+
+1. *Ayumi-ashi fudo-dachi chūdan-yoko-geri*
+2. *Hiki-ashi fudo-dachi gedan-ude-barai*
+3. *Yori-ashi zenkutsu-dachi gyaku-teisho-uchi*
+
+### Sixième kihon
+
+Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
+
+1. *Hiki-ashi kōkutsu-dachi uchi-ude-uke*
+2. *Hiki-ashi neko-ashi-dachi jōdan-age-uke*
+3. *Hiki-ashi shiko-dachi gedan-ude-barai*
+
+## (Deuxième dan){#nidan}
+
+### Premier kihon
+
+Départ en garde droite (*hidari zenkutsu-dachi kamae*)
+
+1. *Ayumi-ashi fudo-dachi de-ashi-barai*
+2. *Ayumi-ashi fudo-dachi chūdan-mawashi-geri*
+3. *Ayumi-ashi fudo-dachi chūdan-ushiro-geri*

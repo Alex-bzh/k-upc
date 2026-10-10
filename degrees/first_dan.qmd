@@ -61,65 +61,15 @@ En plus des techniques de [la ceinture marron](/learning/first_kyu.html), le pro
   - [*Haishu-uchi*](/lexicon/waza.qmd#uchi-waza)
   - [*Koken-uchi*](/lexicon/waza.qmd#uchi-waza)
 
-### Programme imposé
-
-#### Premier kihon
-
-Départ en garde droite (*migi zenkutsu-dachi kamae*)
-
-1. *Ayumi-ashi zenkutsu-dachi oi-zuki*
-2. *Ayumi-ashi kōkutsu-dachi shutō-uke*
-3. (sur place) *zenkutsu-dachi gyaku-zuki*
-
-#### Second kihon
-
-Départ en garde droite (*migi zenkutsu-dachi kamae*)
-
-1. *Ayumi-ashi zenkutsu-dachi gedan-ude-barai*
-2. *Ayumi-ashi kōkutsu-dachi uchi-ude-uke*
-3. *Ayumi-ashi neko-ashi-dachi jōdan-age-uke*
-
-#### Troisième kihon
-
-Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
-
-1. *Ayumi-ashi zenkutsu-dachi chūdan-mae-geri*
-2. *Hiki-ashi zenkutsu-dachi soto-ude-uke*
-3. (sur place) *zenkutsu-dachi gyaku-haitō-uchi*
-
-#### Quatrième kihon
-
-Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
-
-1. *Hiki-yori-ashi zenkutsu-dachi gedan-ude-barai*
-2. *Ayumi-ashi zenkutsu-dachi oi-zuki*
-3. *Tsugi-ashi zenkutsu-dachi gyaku-zuki*
-
-#### Cinquième kihon
-
-Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
-
-1. *Ayumi-ashi fudo-dachi chūdan-yoko-geri*
-2. *Hiki-ashi fudo-dachi gedan-ude-barai*
-3. *Yori-ashi zenkutsu-dachi gyaku-teisho-uchi*
-
-#### Sixième kihon
-
-Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
-
-1. *Hiki-ashi kōkutsu-dachi uchi-ude-uke*
-2. *Hiki-ashi neko-ashi-dachi jōdan-age-uke*
-3. *Hiki-ashi shiko-dachi gedan-ude-barai*
-
 ### Kihon linéaire
 
 Les candidat·es sont d’abord évalué·es sur des enchaînements de trois techniques maximum, exécutés six fois en tout avec un demi-tour après la troisième itération. À la fin d’une itération, reprendre la garde de départ.
 
-Le jour de l’examen, le jury tire au sort trois enchaînements parmi les six de la liste du programme imposé.
+Le jour de l’examen, le jury tire au sort trois enchaînements parmi les six de la liste du [programme imposé](/appendices/kihons.qmd#shodan).
 
 ### Kihon en poursuite
 
-Les trois enchaînements restants du programme imposé serviront à évaluer les candidat·es lors d’une épreuve dite « en poursuite ».
+Les trois enchaînements restants du [programme imposé](/appendices/kihons.qmd#shodan) serviront à évaluer les candidat·es lors d’une épreuve dite « en poursuite ».
 
 Chaque enchaînement est à exécuter d’abord en garde gauche dans des directions de 0° à 180°, puis de 0° à 180° en garde droite. Une seule exécution est demandée dans chacune des directions choisies, avec retour à la position de départ.
 

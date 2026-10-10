@@ -23,11 +23,13 @@ website:
       - sidebar:lexicon
       - text: "Annexes"
         menu:
-          - href: about_karate.qmd
+          - href: appendices/kihons.qmd
+            text: "Kihons imposés"
+          - href: appendices/about_karate.qmd
             text: "Une histoire du karaté"
-          - href: "protocols.qmd"
+          - href: "appendices/protocols.qmd"
             text: "Les protocoles"
-          - href: documents.qmd
+          - href: appendices/documents.qmd
             text: "Documents"
 
   sidebar:
