@@ -5,6 +5,8 @@ lang: fr
 
 ## Premier dan{#shodan}
 
+::: {.panel-tabset}
+
 ### Premier kihon
 
 Départ en garde droite (*migi zenkutsu-dachi kamae*)
@@ -53,7 +55,11 @@ Départ en garde gauche (*hidari zenkutsu-dachi kamae*)
 2. *Hiki-ashi neko-ashi-dachi jōdan-age-uke*
 3. *Hiki-ashi shiko-dachi gedan-ude-barai*
 
+:::
+
 ## Deuxième dan{#nidan}
+
+::: {.panel-tabset}
 
 ### Premier kihon
 
@@ -110,3 +116,5 @@ Départ en garde gauche (*hidari fudo-dachi kamae*)
 1. (sur place) *fudo-dachi chūdan-mae-geri*
 2. (sur place) *fudo-dachi mae-mawashi-geri*
 3. *Ayumi-ashi fudo-dachi chūdan-yoko-geri*
+
+:::
