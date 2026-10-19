@@ -23,6 +23,10 @@ lang: fr
 |   Talon.
 | **koshi**
 |   Bol du pied.
+| **mae-ashi**
+|   Jambe avant.
+| **mae-te**
+|   Bras avant.
 | **nukite**
 |   Pointe de la main.
 | **seiken**
@@ -33,6 +37,10 @@ lang: fr
 |   Tranchant externe de la main.
 | **sokutō**
 |   Tranchant externe du pied.
+| **Ushiro-ashi**
+    Jambe arrière.
+| **Ushiro-te**
+|   Bras arrière.
 | **teishō**
 |   Talon de la main.
 | **teisoku**
