@@ -38,7 +38,7 @@ lang: fr
 | **sokutō**
 |   Tranchant externe du pied.
 | **Ushiro-ashi**
-    Jambe arrière.
+|   Jambe arrière.
 | **Ushiro-te**
 |   Bras arrière.
 | **teishō**
