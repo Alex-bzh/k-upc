@@ -17,8 +17,12 @@ S’ils peuvent sembler naturels, les déplacements ne sont pas à négliger dan
 |   Double pas.
 | **sonoba**
 |   Sur place.
+| **soto-mawari**
+|   Déplacement circulaire vers l’extérieur.
 | **tsugi-ashi**
 |   Pas chassé.
+| **uchi-mawari**
+|   Déplacement circulaire vers l’intérieur.
 | **ushiro-mawari-ashi**
 |   Déplacement tournant autour du pied arrière.
 | **yori-ashi**
