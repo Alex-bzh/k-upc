@@ -56,8 +56,8 @@ jobs:
           node-version: '20'
       - name: Install link checker
         run: npm install -g linkinator
-      - name: Run link checks
-        # run: linkinator site --silent --markdown
+      #- name: Run link checks
+      #  run: linkinator site --silent --markdown
 
   deploy:
     needs: test-site
