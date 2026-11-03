@@ -2,15 +2,22 @@
 
 **Techniques :**
 
+- Vers l’arrière, *ushiro-gedan-barai* en *zenkutsu-dachi* gauche.
+- Sur place, *gedan-barai* en *zenkutsu-dachi* suivi d’un *gyaku-age-zuki*.
+- Saisie sur place.
+- En avançant, *hiza-geri*, puis *gyaku-zuki* en *kōsa-dachi*.
+- Sur place, reposer en *zenkutsu-dachi* gauche avec *ushiro-gedan-barai*.
+
 ::: {.panel-tabset}
 
 ### Bunkai intermédiaire
 
-Tori est en garde gauche, uke en garde droite.
+Tori et uke sont en garde gauche.
 
-1. Tori effectue une saisie directe du poignet de uke. Uke recule en *zenkutsu-dachi* droit et, appuyé par un *ushiro-gedan-barai*, se défait de la saisie.
-2. Tori enchaîne avec un *mae-geri* au corps que uke bloque toujours *gedan-barai* mais cette fois-ci en *zenkutsu-dachi* gauche. Il remise ensuite *age-zuki* du bras arrière ; tori le bloque avec *age-uke* sur place.
-3. Uke relance *mae-geri* de la jambe arrière. Tori, en pas chassé vers l’arrière, bloque l’attaque avec *gedan-barai*.
-4. Sans attendre, tori attaque *oi-zuki* à la tête. Uke bloque *soto-ude-uke* puis rentre une première fois *gyaku-zuki* en *kōsa-dachi* avant de terminer avec *tettsui-uchi* arrière en *zenkutsu-dachi* gauche.
+1. Tori effectue une saisie directe du poignet de uke. Uke recule en *zenkutsu-dachi* gauche et, appuyé par un *ushiro-gedan-barai*, se défait de la saisie.
+2. Tori enchaîne avec un *mae-geri* au corps. De la main droite, uke commence à dévier le coup vers l’extérieur puis, en pivotant autour du pied d’appui, effectue un déplacement circulaire vers l’arrière afin de conforter sa parade avec un *gedan-barai* en *zenkutsu-dachi*.
+3. Uke remise *gyaku-zuki* à la tête. Tori bloque *age-uke* sur place.
+4. Uke relance *mae-geri* de la jambe arrière. Tori, en pas chassé vers l’arrière, bloque l’attaque avec *gedan-barai*.
+5. Sans attendre, tori attaque *oi-zuki* à la tête. Uke bloque *soto-ude-uke* puis rentre une première fois *gyaku-zuki* en *kōsa-dachi* avant de terminer avec *tettsui-uchi* arrière en *zenkutsu-dachi* gauche.
 
 :::
