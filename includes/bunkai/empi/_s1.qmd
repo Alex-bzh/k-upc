@@ -7,6 +7,8 @@
 - Vers la droite, *gedan-barai* en *zenkutsu-dachi*.
 - Sur place, *kagi-zuki* en *kiba-dachi*.
 - En avançant, *gedan-barai* suivi de *gyaku-age-zuki* en *zenkutsu-dachi*.
+- Saisie sur place.
+- En avançant, *hiza-geri*, puis *gyaku-zuki* en *kōsa-dachi*.
 
 ::: {.panel-tabset}
 
@@ -18,5 +20,6 @@ Tori est en garde droite, uke en garde gauche.
 2. Tori enchaîne avec *kizami-zuki* à la tête. Uke effectue un double blocage composé d’un *soto-ude-uke* du bras droit et d’un *shutō-age-uke* du bras gauche ; ce qui lui permet, alors qu’il se relève, d’appliquer un *ude-gatame* en contrôle, la main droite au niveau du coude de tori et la gauche pour lui saisir le poignet.
 3. Uke dégage le bras de tori grâce à un *gedan-barai* en sursaut arrière puis remise *kagi-zuki* au corps en *kiba-dachi* après un sursaut avant.
 4. Pour terminer, uke saisit de la main gauche le pantalon de tori et, plaçant son bras droit en travers de son torse, peut le faire chuter en arrière, par-dessus sa propre jambe avant. Pour cela il doit soulever la jambe de tori et le pousser en même temps.
+5. Uke termine avec *gyaku-zuki* au sol.
 
 :::
