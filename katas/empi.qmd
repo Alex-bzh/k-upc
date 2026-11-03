@@ -3,7 +3,7 @@ title: "Empi"
 lang: fr
 ---
 
-{{< lipsum 1 >}}
+En japonais, Empi signifie littéralement « le vol de l’hirondelle », en référence au saut caractéristique que l’on effectue vers la fin.
 
 :::: {.grid}
 
