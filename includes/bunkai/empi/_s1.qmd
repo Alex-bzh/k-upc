@@ -2,6 +2,12 @@
 
 **Techniques :**
 
+- Vers la gauche, descendre genou en terre tout en effectuant un *gyaku-gedan-barai*.
+- Se relever en *koshi-kamae*.
+- Vers la droite, *gedan-barai* en *zenkutsu-dachi*.
+- Sur place, *kagi-zuki* en *kiba-dachi*.
+- En avançant, *gedan-barai* suivi de *gyaku-age-zuki* en *zenkutsu-dachi*.
+
 ::: {.panel-tabset}
 
 ### Bunkai intermédiaire
